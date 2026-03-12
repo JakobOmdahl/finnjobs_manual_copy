@@ -1,0 +1,21 @@
+Listene som skal kopieres (Todo/Doing/Done)
+
+Business Analyst: Todo
+
+Forretningsanalytiker: Todo
+
+Forretningsanalyse: Todo
+
+big data: Todo
+
+Data Analyst: Todo
+
+Data Science: Todo
+
+Data og ai: Todo
+
+Analytic engineer: Todo
+
+evt..
+
+analyse:
