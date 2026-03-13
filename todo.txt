@@ -1,6 +1,6 @@
 Listene som skal kopieres (Todo/Doing/Done)
 
-Business Analyst: Todo
+Business Analyst: Doing
 
 Forretningsanalytiker: Todo
 
