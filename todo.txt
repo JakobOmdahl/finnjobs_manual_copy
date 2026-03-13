@@ -4,17 +4,17 @@ Business Analyst: Done
 
 Forretningsanalytiker: Done
 
-Forretningsanalyse: Doing
+Forretningsanalyse: Done
 
-big data: Doing
+Big Data: Done
 
-Data Analyst: Doing
+Data Analyst: Done
 
-Data Science: Todo
+Data Science: Doing
 
-Data og ai: Todo
+Data og ai: Doing
 
-Analytic engineer: Todo
+Analytic engineer: Doing
 
 evt..
 
