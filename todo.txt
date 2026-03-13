@@ -1,14 +1,14 @@
 Listene som skal kopieres (Todo/Doing/Done)
 
-Business Analyst: Doing
+Business Analyst: Done
 
-Forretningsanalytiker: Todo
+Forretningsanalytiker: Done
 
-Forretningsanalyse: Todo
+Forretningsanalyse: Doing
 
-big data: Todo
+big data: Doing
 
-Data Analyst: Todo
+Data Analyst: Doing
 
 Data Science: Todo
 
