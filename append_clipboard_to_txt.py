@@ -3,7 +3,7 @@ from pathlib import Path
 
 import pyperclip
 
-OUTPUT_FILE = Path("finn_jobs.txt")
+OUTPUT_FILE = Path("analyse.txt")
 POLL_INTERVAL = 1.0
 
 last_value = None

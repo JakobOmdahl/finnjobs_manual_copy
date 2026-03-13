@@ -18,4 +18,4 @@ Analytic engineer: Done
 
 evt..
 
-analyse: Doing
+analyse: Done
