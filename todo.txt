@@ -16,6 +16,8 @@ Data og ai: Done
 
 Analytic engineer: Done
 
+Machine Learning: Done
+
 evt..
 
 analyse: Done

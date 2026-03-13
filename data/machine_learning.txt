@@ -1,0 +1,278 @@
+machine_learning
+||
+{
+  "Job_title": "Data Analyst",
+  "Company": "Pra Group Europe",
+  "Skills": "Analysere data, Lage prediktive modeller, Maskinlæringsmetoder, Prognoser, Python (dataprogrammering), SQL, Statistisk modellering",
+  "Sector": "Privat",
+  "Location": "Oslo, 0191 Oslo",
+  "Industry": "Bank, finans og forsikring, IT - programvare, Økonomi og regnskap",
+  "Position": "AI / Maskinlæring, Analyse, Økonomi og regnskap",
+  "Keywords": "Portfolio & Decision Support, Machine Learning & Predictive Models, Investment analysis, Python & SQL, Data Analysis & Modelling ",
+  "Finn_code": "453620912"
+}
+||
+{
+  "Job_title": "Research Engineer",
+  "Company": "4Subsea",
+  "Skills": "Benytte maskinlæring, Datavitenskap, Ingeniørarbeid, Ingeniørkunst, Matematikk, Programmeringsspråk, Python (dataprogrammering), ",
+  "Sector": "Privat",
+  "Location": "Hagaløkkveien 26, 1383 Asker",
+  "Industry": "Maritim og offshore",
+  "Position": "Subsea",
+  "Keywords": "Machine learning, data science, engineering, python, Mechanical engineering",
+  "Finn_code": "452818898"
+}
+||
+{
+  "Job_title": "Data Analyst",
+  "Company": "Pra Group Europe",
+  "Skills": "Analysere data, Lage prediktive modeller, Maskinlæringsmetoder, Prognoser, Python (dataprogrammering), SQL, Statistisk modellering",
+  "Sector": "Privat",
+  "Location": "Oslo, 0191 Oslo",
+  "Industry": "Bank, finans og forsikring, IT - programvare, Økonomi og regnskap",
+  "Position": "AI / Maskinlæring, Analyse, Økonomi og regnskap",
+  "Keywords": "Portfolio & Decision Support, Machine Learning & Predictive Models, Investment analysis, Python & SQL, Data Analysis & Modelling ",
+  "Finn_code": "453620912"
+}
+||
+{
+  "Job_title": "Summer Internship – Software Developer",
+  "Company": "OptoScale",
+  "Skills": "Git (Versioning File System), Linux, Python (dataprogrammering), Utvikle brukergrensesnitt",
+  "Sector": "Privat",
+  "Location": "Peder Falcks veg 6, 7044 Trondheim",
+  "Industry": "Fiskeri og oppdrett, IT - maskinvare, IT - programvare",
+  "Position": "AI / Maskinlæring, Data Scientist, Kybernetikk",
+  "Keywords": "Software, Computer vision, Maskinlæring, AI, Python ",
+  "Finn_code": "455111046"
+}
+||
+{
+  "Job_title": "Senior Software Engineer",
+  "Company": "NEC OncoImmunity AS",
+  "Skills": "Docker, Maskinlæring, Python (dataprogrammering)",
+  "Sector": "Privat",
+  "Location": "Gaustadalleen 21, 0349 Oslo",
+  "Industry": "Forskning, utdanning og vitenskap, Helse og omsorg, IT - programvare",
+  "Position": "AI / Maskinlæring, Utvikler (generell)",
+  "Keywords": "",
+  "Finn_code": "450293124"
+}
+||
+{
+  "Job_title": "Computer Vision Engineer",
+  "Company": "Biosort AS",
+  "Skills": "Computer vision, CUDA (Compute Unified Device Architecture), Deep Learning, Maskinlæring, Python Scripting",
+  "Sector": "Privat",
+  "Location": "Martin Linges vei 25, 1364 Fornebu",
+  "Industry": "IT, IT - maskinvare, IT - programvare",
+  "Position": "AI / Maskinlæring, Dataingeniør, MLOps-ingeniør",
+  "Keywords": "Maskinlæring, dyplæring, bildebehandling, c++, opencv ",
+  "Finn_code": "449499733"
+}
+||
+{
+  "Job_title": "Data Scientist (12-month)",
+  "Company": "Headquarter Oslo - Strawberry",
+  "Skills": "Maskinlæring, MLOps, Prediktiv analyse, Python (dataprogrammering), PyTorch, Scikit-learn, SQL, Tensorflow",
+  "Sector": "Privat",
+  "Location": "Frederik Stangs gate 22-24, 0264 Oslo",
+  "Industry": "Reise og turisme",
+  "Position": "Analyse",
+  "Keywords": "",
+  "Finn_code": "454073027"
+}
+||
+{
+  "Job_title": "Senior Data Scientist - FINN Eiendom",
+  "Company": "Vend",
+  "Skills": "Bygge Recommender- systemer, CI/CD (Continuous Integration and Continuous Delivery), Datavitenskap, Development of data pipelines, Maskinlæring, MLOps",
+  "Sector": "Privat",
+  "Location": "Oslo, Norway, 0159 Oslo",
+  "Industry": "Internettbaserte tjenester, IT",
+  "Position": "AI / Maskinlæring, Utvikler (generell)",
+  "Keywords": "Data Science, ML, AI",
+  "Finn_code": "454561504"
+}
+||
+{
+  "Job_title": "Data & AI specialist",
+  "Company": "Akuna AS",
+  "Skills": "Automatisering, Database, Datavitenskap, Kunstig intelligens, Maskinlæring, Microsoft Certified Professional (MCP), Moderne software-utvikling, SQL, ",
+  "Sector": "Privat",
+  "Location": "Løkkeveien 105, 4007 Stavanger",
+  "Industry": "Eiendom, IT - programvare, Kraft og energi",
+  "Position": "AI / Maskinlæring, Elektroingeniør, Kybernetikk",
+  "Keywords": "",
+  "Finn_code": "449624777"
+}
+||
+{
+  "Job_title": "Product Manager",
+  "Company": "AQUABYTE AS",
+  "Skills": "Akvakultur, kunnskap om produktledelse, Programvare som tjeneste, Prosjekteringsledelse, ",
+  "Sector": "Privat",
+  "Location": "Damsgårdsveien 163B, 5160 Laksevåg",
+  "Industry": "Fiskeri og oppdrett, IT",
+  "Position": "Forretningsutvikling og strategi, Produktledelse",
+  "Keywords": "Produktleder, akvakultur, produktutvikling, maskinlæring, datavitenskap ",
+  "Finn_code": "453770485"
+}
+||
+{
+  "Job_title": "PhD student",
+  "Company": "Simula Research Laboratory AS",
+  "Skills": "Algoritmer, C++ (Programming language), Maskinlæringsmetoder, Modellering og simulering, Partielle differensialligninger, Python (dataprogrammering), ",
+  "Sector": "Privat",
+  "Location": "Kristian Augusts gate 23, 0164 Oslo",
+  "Industry": "Forskning, utdanning og vitenskap, IT",
+  "Position": "Data Scientist, Forskning/Stipendiat/Postdoktor",
+  "Keywords": "",
+  "Finn_code": "449317369"
+}
+||
+{
+  "Job_title": "Technician",
+  "Company": "Sero AS",
+  "Skills": "",
+  "Sector": "Privat",
+  "Location": "Stasjonsveien 44, 1396 Billingstad",
+  "Industry": "Drift og vedlikeholdstjenester, Industri og produksjon, Medisinsk utstyr og rekvisita",
+  "Position": "Elektriker, Teknisk personell",
+  "Keywords": "Vedlikeholdstekniker, forebyggende vedlikehold, elektriker, elektronikktekniker",
+  "Finn_code": "442138685"
+}
+||
+{
+  "Job_title": "PhD position linked to the \"Bump2Baby & Me+\" project",
+  "Company": "Western Norway University of Applied Sciences",
+  "Skills": "Analysere data, Clustering algorithms, Dataanalyseverktøy, Forskningsmetoder, Gjennomføre helserelatert forskning, Maskinlæring, Principal Component Analysis (PCA), Statistikk",
+  "Sector": "Offentlig",
+  "Location": "Inndalsveien 28, 5063 Bergen",
+  "Industry": "Forskning, utdanning og vitenskap, Offentlig administrasjon",
+  "Position": "Forskning/Stipendiat/Postdoktor",
+  "Keywords": "",
+  "Finn_code": "452691465"
+}
+||
+{
+  "Job_title": "Senior data scientist",
+  "Company": "Fremtind",
+  "Skills": "Analysere data, Bibliotek (Programvare), Datavitenskap, Maskinlæring, Matematikk, Python (dataprogrammering), Statistikk",
+  "Sector": "Privat",
+  "Location": "Hammersborggata 8, 0181 Oslo",
+  "Industry": "Bank, finans og forsikring, IT, IT - programvare",
+  "Position": "AI / Maskinlæring, Data Scientist, MLOps-ingeniør",
+  "Keywords": "Maskinlæring, data science, python, databricks, ML",
+  "Finn_code": "452636354"
+}
+||
+{
+  "Job_title": "Risk Analyst",
+  "Company": "Norsk Hydro ASA",
+  "Skills": "Microsoft Excel, Microsoft Power Point 2011, Rapportering, Risikostyring",
+  "Sector": "Privat",
+  "Location": "0283 Oslo",
+  "Industry": "Industri og produksjon, Metaller og mineraler",
+  "Position": "Analyse",
+  "Keywords": "",
+  "Finn_code": "454087012"
+}
+||
+{
+  "Job_title": "Stipendiat innen bruk av beslutningsstøtteverktøy ved behandling i psykisk helsevern",
+  "Company": "Høgskulen på Vestlandet",
+  "Skills": "Analysere data, Bred klinisk erfaring, Gjennomføre kvalitative undersøkelser, Maskinlæring, Vitenskapelig forskning",
+  "Sector": "Offentlig",
+  "Location": "Svanehaugvegen 1, 6812 Førde",
+  "Industry": "Forskning, utdanning og vitenskap, Offentlig administrasjon",
+  "Position": "Forskning/Stipendiat/Postdoktor",
+  "Keywords": "",
+  "Finn_code": "452541434"
+}
+||
+{
+  "Job_title": "AI/ML Engineer",
+  "Company": "Gjensidige",
+  "Skills": "Azure AD, Generative artificial intelligence, Kunstig intelligens, Maskinlæring, Moderne software-utvikling, Python (dataprogrammering)",
+  "Sector": "Privat",
+  "Location": "Schweigaards gate 21, 0191 Oslo",
+  "Industry": "Bank, finans og forsikring, IT, Konsulent og rådgivning",
+  "Position": "AI / Maskinlæring, Analyse, Konsulent",
+  "Keywords": "Forsikring, AI, Maskinlæring, Data Science, Softwareutvikling ",
+  "Finn_code": "453440546"
+}
+||
+{
+  "Job_title": "Operational Excellence Manager - Program Management",
+  "Company": "Nammo AS",
+  "Skills": "Ingeniørarbeid, Internet of Things, Lage Benchmarks, Operational Excellence, Programledelse, Six sigma-metoder",
+  "Sector": "Privat",
+  "Location": "Enggata 40, 2830 Raufoss",
+  "Industry": "Forsvar og militær, Maritim og offshore, Olje og gass",
+  "Position": "Ingeniør, Produksjon, Prosjektledelse",
+  "Keywords": "Operations, Operational Excellence, Lean, Six Sigma, OEE",
+  "Finn_code": "449672760"
+}
+||
+{
+  "Job_title": "Warehouse and Logistics Lead",
+  "Company": "4Subsea",
+  "Skills": "ERP-systemer, Logistikk, Organisere delelager, Organisere lager, Plukking og pakking, Prosessutvikling (forretningsprosesser), Utføre laste- og losseoperasjoner, Varemottak, ",
+  "Sector": "Privat",
+  "Location": "Narviga 21, 4633 Kristiansand S",
+  "Industry": "Olje og gass",
+  "Position": "Logistikk og lager, SCM og logistikk",
+  "Keywords": "ERP systems, warehouse lead, warehouse operations, Forklift certificate, Kristiansand",
+  "Finn_code": "454096496"
+}
+||
+{
+  "Job_title": "Operational Excellence Manager - Training and CI-projects",
+  "Company": "Nammo AS",
+  "Skills": "Lage Benchmarks, Lean methods, Operational Excellence, Six sigma-metoder",
+  "Sector": "Privat",
+  "Location": "Enggata 40, 2830 Raufoss",
+  "Industry": "Industri og produksjon, Kjemisk industri, Konsulent og rådgivning",
+  "Position": "Produksjon, Produktledelse, Prosjektledelse",
+  "Keywords": "Operational, Operations, Lean, Six Sigma, MES",
+  "Finn_code": "449676260"
+}
+||
+{
+  "Job_title": "Field Deployment Specialist",
+  "Company": "DarkVision Technologies Inc.",
+  "Skills": "",
+  "Sector": "Privat",
+  "Location": "Maskinveien 9, 4033 Stavanger",
+  "Industry": "Olje og gass",
+  "Position": "Boreteknikk/drilling, Ingeniør, Oppmåling og kartlegging",
+  "Keywords": "Wireline, logging, engineer, casedhole, offshore",
+  "Finn_code": "448720710"
+}
+||
+{
+  "Job_title": "PhD Candidate in Distributed Machine Learning",
+  "Company": "NTNU - Norwegian University of Science and Technology",
+  "Skills": "",
+  "Sector": "",
+  "Location": "",
+  "Industry": "",
+  "Position": "",
+  "Keywords": "",
+  "Finn_code": "454632837"
+}
+||
+{
+  "Job_title": "PhD Research Fellow in Trustworthy Machine Learning",
+  "Company": "University of Oslo",
+  "Skills": "",
+  "Sector": "",
+  "Location": "",
+  "Industry": "",
+  "Position": "",
+  "Keywords": "",
+  "Finn_code": "452485553"
+}
+||
