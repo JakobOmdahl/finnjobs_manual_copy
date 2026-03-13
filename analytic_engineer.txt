@@ -1,0 +1,290 @@
+Analytic engineer
+||
+{
+  "Job_title": "Data Scientist",
+  "Company": "Sopra Steria",
+  "Skills": "Analyse av forretningsdata, Analysere data, Azure AD, Dataarkitektur, Maskinlæring, Python (dataprogrammering), SQL, Statistikk, ",
+  "Sector": "Privat",
+  "Location": "Laberget 22, 4120 Tau",
+  "Industry": "IT, Konsulent og rådgivning",
+  "Position": "AI / Maskinlæring, Data Scientist, Dataanalytiker",
+  "Keywords": "Data scientist, dataanalyse, maskinlæring, ki løsninger, business intelligence ",
+  "Finn_code": "454733741"
+}
+||
+{
+  "Job_title": "Senior Data Scientist - FINN Eiendom",
+  "Company": "Vend",
+  "Skills": "Bygge Recommender- systemer, CI/CD (Continuous Integration and Continuous Delivery), Datavitenskap, Development of data pipelines, Maskinlæring, MLOps",
+  "Sector": "Privat",
+  "Location": "Oslo, Norway, 0159 Oslo",
+  "Industry": "Internettbaserte tjenester, IT",
+  "Position": "AI / Maskinlæring, Utvikler (generell)",
+  "Keywords": "Data Science, ML, AI",
+  "Finn_code": "454561504"
+}
+||
+{
+  "Job_title": "Director of Engineering",
+  "Company": "Montel AS",
+  "Skills": "",
+  "Sector": "Privat",
+  "Location": "Holbergs gate 1, 0166 Oslo",
+  "Industry": "Internettbaserte tjenester, IT",
+  "Position": "Ingeniør, Ledelse",
+  "Keywords": "Director of Engineering, Engineering Manager, Tech Lead, Software Engineering, Cloud (Azure / AWS) ",
+  "Finn_code": "454041081"
+}
+||
+{
+  "Job_title": "Warehouse and Logistics Lead",
+  "Company": "4Subsea",
+  "Skills": "ERP-systemer, Logistikk, Organisere delelager, Organisere lager, Plukking og pakking, Prosessutvikling (forretningsprosesser), Utføre laste- og losseoperasjoner, Varemottak, ",
+  "Sector": "Privat",
+  "Location": "Narviga 21, 4633 Kristiansand S",
+  "Industry": "Olje og gass",
+  "Position": "Logistikk og lager, SCM og logistikk",
+  "Keywords": "ERP systems, warehouse lead, warehouse operations, Forklift certificate, Kristiansand",
+  "Finn_code": "454096496"
+}
+||
+{
+  "Job_title": "Research Lead (UX)",
+  "Company": "Talentech",
+  "Skills": "Brukbarhetstesting, Brukeropplevelsesundersøkelse, Kartlegge, Prototype, ",
+  "Sector": "Privat",
+  "Location": "Nydalsveien 12 B, 0484 Oslo",
+  "Industry": "HR, organisasjonsutvikling og rekruttering, IT, IT - programvare",
+  "Position": "Interaksjonsdesign, UI-design, UX-design",
+  "Keywords": "UX, UX research, ResearchOps, User research, Usability",
+  "Finn_code": "454093619"
+}
+||
+{
+  "Job_title": "Product Designer (UX)",
+  "Company": "Talentech",
+  "Skills": "Brukbarhetstesting, Brukerforskning, Brukeropplevelse, Interaksjonsdesign, Interativ designmetode, Norsk, Produktdesign, ",
+  "Sector": "Privat",
+  "Location": "Nydalsveien 12 B, 0484 Oslo",
+  "Industry": "HR, organisasjonsutvikling og rekruttering, IT, IT - programvare",
+  "Position": "UI-design, UX-design",
+  "Keywords": "UX, Product design, Interaction design, Accessibility, Design system",
+  "Finn_code": "454089141"
+}
+||
+{
+  "Job_title": "Senior External Environment & Climate Professional",
+  "Company": "Head Energy Consulting AS",
+  "Skills": "Analysere data, Leting og produksjon av olje, Miljøkonsekvensanalyse, Norsk, Prosessteknikk",
+  "Sector": "Privat",
+  "Location": "Stavanger, 4035 Stavanger",
+  "Industry": "Kraft og energi, Maritim og offshore, Olje og gass",
+  "Position": "Annet, Konsulent",
+  "Keywords": "HSE, Development Projects, NEMS Accounter, E&P industry, Environmental",
+  "Finn_code": "454070770"
+}
+||
+{
+  "Job_title": "Senior Manufacturing Network Engineer",
+  "Company": "GE HEALTHCARE AS",
+  "Skills": "Active Directory (IT-nettverk), Disaster Recovery (IKT), IT Infrastructure Management, Microsoft Active Directory (AD), Operating System (ICT), ServiceNow, Tidsplanlegging, prosjekt, VMware ESX",
+  "Sector": "Privat",
+  "Location": "Nycoveien 1, 0401 Oslo",
+  "Industry": "Farmasi og legemiddel, Industri og produksjon, IT",
+  "Position": "Drift/Operations, IT-sikkerhet",
+  "Keywords": "Automatisering, digitalisering, datasikkerhet, industriell kommunikasjon, operasjonell teknologi ",
+  "Finn_code": "453727614"
+}
+||
+{
+  "Job_title": "Data Analytics Engineer (OSI PI)",
+  "Company": "GE HEALTHCARE AS",
+  "Skills": "Analysere data, Cybersikkerhet, Dataanalyseverktøy, Opprettholde dataintegritet, Power BI, Rapporteringsverktøy, Servicearbeid",
+  "Sector": "Privat",
+  "Location": "Nycoveien 1, 0401 Oslo",
+  "Industry": "Farmasi og legemiddel, Industri og produksjon, IT",
+  "Position": "Data Scientist, Dataanalytiker, IT-sikkerhet",
+  "Keywords": "Digital leder, automatisering, cybersikkerhet, power bi, pi vision ",
+  "Finn_code": "453723290"
+}
+||
+{
+  "Job_title": "Utvikler",
+  "Company": "SuperOffice",
+  "Skills": "C# (Programmeringsspråk), CI/CD (Continuous Integration and Continuous Delivery), Fullstack utvikler, GitHub, Ingeniørarbeid, SQL, TypeScript",
+  "Sector": "Privat",
+  "Location": "Wergelandsveien 27, 0558 Oslo",
+  "Industry": "Internettbaserte tjenester, IT - programvare, Markedsføring og annonsering",
+  "Position": "Backend-utvikler, Full stack utvikler, Utvikler (generell)",
+  "Keywords": "Utvikler, crm, c#, .net, ai ",
+  "Finn_code": "433518045"
+}
+||
+{
+  "Job_title": "Data Analyst (ECD & Drilling Dynamics)",
+  "Company": "National Oilwell Varco Downhole Broadband Solutions",
+  "Skills": "Analysere data, Rapportering av ytelse, Support / brukerstøtte, Technical writing, Tolke data, Ytelsesanalyse",
+  "Sector": "Privat",
+  "Location": "4033 Stavanger",
+  "Industry": "Olje og gass",
+  "Position": "Dataanalytiker, Ingeniør",
+  "Keywords": "Ecd, dataanalytiker, drilling dynamics, dataanalyse, boreoptimalisering",
+  "Finn_code": "453427835"
+}
+||
+{
+  "Job_title": "Data Engineer",
+  "Company": "Sopra Steria",
+  "Skills": "Apache Spark, MLOps, Power BI, PySpark, Python (dataprogrammering), R, Snowflake, Tableau",
+  "Sector": "Privat",
+  "Location": "Nygårdsgaten 95, 5008 Bergen",
+  "Industry": "IT, IT - programvare, Konsulent og rådgivning",
+  "Position": "Analyse, Full stack utvikler, Utvikler (generell)",
+  "Keywords": "Databricks, fabric, snowflake, etl, python",
+  "Finn_code": "453421623"
+}
+||
+{
+  "Job_title": "Senior Product Owner",
+  "Company": "Bank Norwegian - en del av NOBA Bank Group",
+  "Skills": "Atlassian JIRA, Kjennskap til skyplattformer, Kunnskap om relevante lover og forskrifter, Produkteier, Produktkø (Product backlog), Risikostyring",
+  "Sector": "Privat",
+  "Location": "Snarøyveien 36, 1364 Fornebu",
+  "Industry": "Bank, finans og forsikring",
+  "Position": "Ingeniør, Produktledelse",
+  "Keywords": "Product owner, bank, IT, data engineering, data ingeniør ",
+  "Finn_code": "452975697"
+}
+||
+{
+  "Job_title": "Software Engineer",
+  "Company": "Oda",
+  "Skills": "Backend webutvikling, Data Modeling, Forbedre datakvalitet, Programvareintegrasjon, Python (dataprogrammering), Software Engineering, ",
+  "Sector": "Privat",
+  "Location": "Kjølberggata 31, 0653 Oslo",
+  "Industry": "Butikk og varehandel, Internettbaserte tjenester, IT - programvare",
+  "Position": "Backend-utvikler, Dataingeniør, Utvikler (generell)",
+  "Keywords": "Programvareingeniør, backend, systemutvikling, logistikk, python ",
+  "Finn_code": "452819595"
+}
+||
+{
+  "Job_title": "Research Engineer",
+  "Company": "4Subsea",
+  "Skills": "Benytte maskinlæring, Datavitenskap, Ingeniørarbeid, Ingeniørkunst, Matematikk, Programmeringsspråk, Python (dataprogrammering), ",
+  "Sector": "Privat",
+  "Location": "Hagaløkkveien 26, 1383 Asker",
+  "Industry": "Maritim og offshore",
+  "Position": "Subsea",
+  "Keywords": "Machine learning, data science, engineering, python, Mechanical engineering",
+  "Finn_code": "452818898"
+}
+||
+{
+  "Job_title": "Analytic Engineer",
+  "Company": "Gjensidige",
+  "Skills": "API - integrasjoner, Data Engineering, Development of data pipelines, K8s, MLOps, Python (dataprogrammering), SQL, Terraform",
+  "Sector": "Privat",
+  "Location": "Schweigaards gate 21, 0191 Oslo",
+  "Industry": "Bank, finans og forsikring",
+  "Position": "Analyse, Database, Utvikler (generell)",
+  "Keywords": "Analytic, engineer, analytiker, it, data analyse ",
+  "Finn_code": "452806157"
+}
+||
+{
+  "Job_title": "Senior Data Engineer",
+  "Company": "Netlife AS",
+  "Skills": "Behandle data, Databaseadministrasjon, Fullstack utvikler, Moderne software-utvikling, Programmeringsspråk, Regresjonsanalyse, Statistikk",
+  "Sector": "Privat",
+  "Location": "Brattørkaia 13B, 7010 Trondheim",
+  "Industry": "IT, IT - programvare",
+  "Position": "Database",
+  "Keywords": "Modeling Data, Data Collection, Scalable data, Analytics infrastructure, Designing pipelines ",
+  "Finn_code": "452400981"
+}
+||
+{
+  "Job_title": "Analytiker",
+  "Company": "SJ Norge",
+  "Skills": "Analysere data, Ingeniørarbeid, Ingeniørkunst, Power BI, Python (dataprogrammering), SQL",
+  "Sector": "Privat",
+  "Location": "Sjøgangen 6, 7010 Trondheim",
+  "Industry": "Industri og produksjon, Kraft og energi, Transport og logistikk",
+  "Position": "Analyse, Database, Ingeniør",
+  "Keywords": "SQL, Python, Power BI, Business Intelligence, Dataanalytiker ",
+  "Finn_code": "452355966"
+}
+||
+{
+  "Job_title": "Data Engineer/Integration Engineer",
+  "Company": "MIMIRO AS",
+  "Skills": "Dataintegrasjonsprosesser, Development of data pipelines, Go, SQL, ",
+  "Sector": "Privat",
+  "Location": "Raveien 2b, 1430 Ås",
+  "Industry": "IT, Jordbruk og skogbruk",
+  "Position": "Dataingeniør, Utvikler (generell)",
+  "Keywords": "Integrasjonsingeniør, dataingeniør, datapipeline, mikrotjenester, aws ",
+  "Finn_code": "451659594"
+}
+||
+{
+  "Job_title": "Full Stack Engineer",
+  "Company": "Noteless",
+  "Skills": "",
+  "Sector": "Privat",
+  "Location": "Gaustadalléen 21, 0349 Oslo",
+  "Industry": "Helse og omsorg, IT, IT - programvare",
+  "Position": "Full stack utvikler, Utvikler (generell)",
+  "Keywords": "Full stack utvikler, helseteknologi ",
+  "Finn_code": "450299537"
+}
+||
+{
+  "Job_title": "Senior Fullstack Engineer",
+  "Company": "Opus Dental AS",
+  "Skills": "Azure AD, C#.NET, DevOps, Fullstack utvikler, K8s, PostgreSQL, React.js",
+  "Sector": "Privat",
+  "Location": "Nye Vakåsvei 64, 1395 Hvalstad, 1395 Hvalstad",
+  "Industry": "Helse og omsorg, IT, IT - programvare",
+  "Position": "Backend-utvikler, Full stack utvikler, Utvikler (generell)",
+  "Keywords": "",
+  "Finn_code": "449813164"
+}
+||
+{
+  "Job_title": "Data & AI specialist",
+  "Company": "Akuna AS",
+  "Skills": "Automatisering, Database, Datavitenskap, Kunstig intelligens, Maskinlæring, Microsoft Certified Professional (MCP), Moderne software-utvikling, SQL, ",
+  "Sector": "Privat",
+  "Location": "Løkkeveien 105, 4007 Stavanger",
+  "Industry": "Eiendom, IT - programvare, Kraft og energi",
+  "Position": "AI / Maskinlæring, Elektroingeniør, Kybernetikk",
+  "Keywords": "",
+  "Finn_code": "449624777"
+}
+||
+{
+  "Job_title": "Field Deployment Specialist",
+  "Company": "DarkVision Technologies Inc.",
+  "Skills": "",
+  "Sector": "Privat",
+  "Location": "Maskinveien 9, 4033 Stavanger",
+  "Industry": "Olje og gass",
+  "Position": "Boreteknikk/drilling, Ingeniør, Oppmåling og kartlegging",
+  "Keywords": "Wireline, logging, engineer, casedhole, offshore",
+  "Finn_code": "448720710"
+}
+||
+{
+  "Job_title": "Stilling",
+  "Company": "Bransje",
+  "Skills": "",
+  "Sector": "",
+  "Location": "",
+  "Industry": "",
+  "Position": "",
+  "Keywords": "",
+  "Finn_code": ""
+}
+||

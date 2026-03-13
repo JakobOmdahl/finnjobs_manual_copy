@@ -1,0 +1,110 @@
+Forretningsanalytiker
+||
+{
+  "Job_title": "Business Analyst/ Business Developer",
+  "Company": "Gjensidige Pensjon",
+  "Skills": "Bygge datadashboard, Dataanalyseverktøy, Koordinere prosjekter og forbedringsaktiviteter for IT - løsninger, Microsoft Excel, Prosessanalyse",
+  "Sector": "Privat",
+  "Location": "Schweigaards gate 15, 0191 Oslo",
+  "Industry": "Bank, finans og forsikring",
+  "Position": "Analyse, Forretningsutvikling og strategi, Prosjektledelse",
+  "Keywords": "Business Transformation, Business Analyst, AI, Power BI, Digitalisering ",
+  "Finn_code": "455105673"
+}
+||
+{
+  "Job_title": "Cost analyst",
+  "Company": "Hytech Norse Offshore AS",
+  "Skills": "Budsjettarbeid, Finansanalyse, Microsoft Office, Power BI, Prognoser, Rapportering, SAP S/4HANA",
+  "Sector": "Privat",
+  "Location": "4050 Sola",
+  "Industry": "Olje og gass",
+  "Position": "Kontor og administrasjon",
+  "Keywords": "Hytech, Offshore, Cost Analysis",
+  "Finn_code": "454757099"
+}
+||
+{
+  "Job_title": "Graduates 2026",
+  "Company": "CGI Norge",
+  "Skills": "Agile Scrum, Databanksystemforståelse, IT Infrastructure Library (ITIL), Prince 2 prosjektledelse metodikk, Prosjektstyringsmetodikk, Python (dataprogrammering), SQL",
+  "Sector": "Privat",
+  "Location": "Sundtkvartalet, 0187 Oslo",
+  "Industry": "IT, Konsulent og rådgivning",
+  "Position": "Konsulent, Utvikler (generell)",
+  "Keywords": "It-konsulent, graduate program, konsulentselskap, mentorordning, teknologi",
+  "Finn_code": "453920727"
+}
+||
+{
+  "Job_title": "Business Analyst",
+  "Company": "Kongsberg Maritime",
+  "Skills": "Due Diligence, Forretningsstrategiplaner, Håndtere fusjoner og oppkjøp, Markedsanalyse, Prosjekteringsledelse",
+  "Sector": "Privat",
+  "Location": "6009 Ålesund",
+  "Industry": "Konsulent og rådgivning, Maritim og offshore, Økonomi og regnskap",
+  "Position": "Analyse, Forretningsutvikling og strategi, Prosjektledelse",
+  "Keywords": "Forretningsanalytiker, markedsanalyse, strategiutvikling, dataanalyse",
+  "Finn_code": "453452310"
+}
+||
+{
+  "Job_title": "Testleder / Business Analyst",
+  "Company": "KLP Teknologi",
+  "Skills": "Behov og kravsanalyse, Planlegge software-testing, Prosjekteringsledelse",
+  "Sector": "Privat",
+  "Location": "0191 Oslo",
+  "Industry": "Bank, finans og forsikring, IT",
+  "Position": "Analyse, Kvalitetssikring",
+  "Keywords": "IT, Forsikring, testledelse, business analyst, utvikling",
+  "Finn_code": "453411049"
+}
+||
+{
+  "Job_title": "Business Analyst",
+  "Company": "NG Nordic AS",
+  "Skills": "Analyser av nøkkeltall, Budsjettarbeid, Budsjettarbeid, Finansiell planlegging og analyse, Finansiell rapportering, Likviditetsstyring, Mergers & Acquisitions (M&A), Treasury/Risk Management (FI-FSCM-TRM)",
+  "Sector": "Privat",
+  "Location": "Lysaker Torg 35, 1366 Lysaker",
+  "Industry": "Bank, finans og forsikring, Industri og produksjon, Økonomi og regnskap",
+  "Position": "Analyse, Forretningsutvikling og strategi, Økonomi og regnskap",
+  "Keywords": "Økonomisk bærekraft, Business Analyst, M&A, Analytiker, Analyse ",
+  "Finn_code": "452394974"
+}
+||
+{
+  "Job_title": "Salesforce Senior Developer",
+  "Company": "Storebrand ASA",
+  "Skills": "",
+  "Sector": "Privat",
+  "Location": "Professor Kohts vei 9, 1366 Lysaker",
+  "Industry": "Bank, finans og forsikring, IT, Konsulent og rådgivning",
+  "Position": "Utvikler (generell)",
+  "Keywords": "Salesforce, Apex, Utvikling, Financial Services Cloud, Finans",
+  "Finn_code": "451519706"
+}
+||
+{
+  "Job_title": "Vil du være med å modernisere og forme fremtidens betalingsløsninger i en av Nordens ledende teknologibedrifter?",
+  "Company": "Tieto Banktech",
+  "Skills": "Kontinuerlig forbedringsarbeid, Kontinuerlig forbedringsprosess (CIP), Kunnskap om teknologi, Teknologiledelse",
+  "Sector": "Privat",
+  "Location": "Folke Bernadottesvei 40, 5147 Fyllingsdalen",
+  "Industry": "Bank, finans og forsikring, IT - programvare, Konsulent og rådgivning",
+  "Position": "Forretningsutvikling og strategi, Løsningsarkitekt",
+  "Keywords": "",
+  "Finn_code": "450707758"
+}
+||
+{
+  "Job_title": "Vizir søker: Business Analyst",
+  "Company": "Vizir As",
+  "Skills": "",
+  "Sector": "",
+  "Location": "",
+  "Industry": "",
+  "Position": "",
+  "Keywords": "",
+  "Finn_code": "454629697"
+}
+||

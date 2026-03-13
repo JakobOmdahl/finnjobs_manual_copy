@@ -1,0 +1,38 @@
+Forretningsanalyse
+||
+{
+  "Job_title": "Business Controller",
+  "Company": "Stok Emballage",
+  "Skills": "Analysere data, Budsjettarbeid, ERP-systemer, Produktanalyse, Rapportering, Rapporteringsverktøy, SQL, Visma Business",
+  "Sector": "Privat",
+  "Location": "Dyre Halsesgate 1A, 7042 Trondheim",
+  "Industry": "Fiskeri og oppdrett, Industri og produksjon, Økonomi og regnskap",
+  "Position": "Dataanalytiker, Forretningsutvikling og strategi, Økonomi og regnskap",
+  "Keywords": "Dataanalyse, beslutningsstøtte, marginanalyse, produktanalyse",
+  "Finn_code": "453720277"
+}
+||
+{
+  "Job_title": "Økonomi- og administrasjonsansvarlig",
+  "Company": "Fairtrade Norge",
+  "Skills": "Administrative ferdigheter, Analysere data, Budsjettarbeid, Forretningsutvikling, Fundraising, Power BI, Prosjektøkonomi, Rapportering",
+  "Sector": "Organisasjoner",
+  "Location": "Storgata 13, 0155 Oslo",
+  "Industry": "Ideelle organisasjoner",
+  "Position": "Dataanalytiker, Forretningsutvikling og strategi, Økonomi og regnskap",
+  "Keywords": "Forretningsanalyse, økonomistyring, budsjettering, finansiering, rapportering",
+  "Finn_code": "450440174"
+}
+||
+{
+  "Job_title": "Analytiker",
+  "Company": "Bring Cargo AS",
+  "Skills": "Analysere data, Bygge datadashboard, kvalitetssikring av data, Logistikk, Microsoft Excel, Power BI, QlikView, Utføre lønnsomhetsanalyse",
+  "Sector": "Privat",
+  "Location": "Biskop Gunnerus gate 14, 0185 Oslo",
+  "Industry": "Konsulent og rådgivning, Økonomi og regnskap, Transport og logistikk",
+  "Position": "Analyse, Økonomi og regnskap, Rådgivning",
+  "Keywords": "Relasjonsbygging, Forretningsføring, Forretningsforståelse, Forretningsanalyse, Excel Macros ",
+  "Finn_code": "450243933"
+}
+||

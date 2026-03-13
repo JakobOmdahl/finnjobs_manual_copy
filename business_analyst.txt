@@ -1,0 +1,206 @@
+Business Analyst
+||
+{
+  "Job_title": "Financial Analyst",
+  "Company": "ConocoPhillips",
+  "Skills": "Analyser økonomiske data, Automatisering, Budsjettarbeid, Budsjettarbeid, Controlling, Prognoser, Rapportering, ",
+  "Sector": "Privat",
+  "Location": "4068 Stavanger",
+  "Industry": "Olje og gass",
+  "Position": "Annet",
+  "Keywords": "Finance & Accounting,Financial Planning & Analysis",
+  "Finn_code": "455183416"
+}
+||
+{
+  "Job_title": "Business Analyst/ Business Developer",
+  "Company": "Gjensidige Pensjon",
+  "Skills": "Bygge datadashboard, Dataanalyseverktøy, Koordinere prosjekter og forbedringsaktiviteter for IT - løsninger, Microsoft Excel, Prosessanalyse",
+  "Sector": "Privat",
+  "Location": "Schweigaards gate 15, 0191 Oslo",
+  "Industry": "Bank, finans og forsikring",
+  "Position": "Analyse, Forretningsutvikling og strategi, Prosjektledelse",
+  "Keywords": "Business Transformation, Business Analyst, AI, Power BI, Digitalisering ",
+  "Finn_code": "455105673"
+}
+||
+{
+  "Job_title": "Cost analyst",
+  "Company": "Hytech Norse Offshore AS",
+  "Skills": "Budsjettarbeid, Finansanalyse, Microsoft Office, Power BI, Prognoser, Rapportering, SAP S/4HANA",
+  "Sector": "Privat",
+  "Location": "4050 Sola",
+  "Industry": "Olje og gass",
+  "Position": "Kontor og administrasjon",
+  "Keywords": "Hytech, Offshore, Cost Analysis",
+  "Finn_code": "454757099"
+}
+||
+{
+  "Job_title": "Graduates 2026",
+  "Company": "CGI Norge",
+  "Skills": "Agile Scrum, Databanksystemforståelse, IT Infrastructure Library (ITIL), Prince 2 prosjektledelse metodikk, Prosjektstyringsmetodikk, Python (dataprogrammering), SQL",
+  "Sector": "Privat",
+  "Location": "Sundtkvartalet, 0187 Oslo",
+  "Industry": "IT, Konsulent og rådgivning",
+  "Position": "Konsulent, Utvikler (generell)",
+  "Keywords": "It-konsulent, graduate program, konsulentselskap, mentorordning, teknologi",
+  "Finn_code": "453920727"
+}
+||
+{
+  "Job_title": "Risk Analyst",
+  "Company": "Norsk Hydro ASA",
+  "Skills": "Microsoft Excel, Microsoft Power Point 2011, Rapportering, Risikostyring",
+  "Sector": "Privat",
+  "Location": "0283 Oslo",
+  "Industry": "Industri og produksjon, Metaller og mineraler",
+  "Position": "Analyse",
+  "Keywords": "",
+  "Finn_code": "454087012"
+}
+||
+{
+  "Job_title": "Data Analyst",
+  "Company": "Pra Group Europe",
+  "Skills": "Analysere data, Lage prediktive modeller, Maskinlæringsmetoder, Prognoser, Python (dataprogrammering), SQL, Statistisk modellering",
+  "Sector": "Privat",
+  "Location": "Oslo, 0191 Oslo",
+  "Industry": "Bank, finans og forsikring, IT - programvare, Økonomi og regnskap",
+  "Position": "AI / Maskinlæring, Analyse, Økonomi og regnskap",
+  "Keywords": "Portfolio & Decision Support, Machine Learning & Predictive Models, Investment analysis, Python & SQL, Data Analysis & Modelling ",
+  "Finn_code": "453620912"
+}
+||
+{
+  "Job_title": "Analyst, Corporate Finance & ECM",
+  "Company": "Nordea",
+  "Skills": "Corporate Finance, Finansanalyse, Mergers & Acquisitions (M&A), Modellering (økonomi), Norsk, Teknikker for virksomhetsverdsetting",
+  "Sector": "Privat",
+  "Location": "Essendrops gate 7, 0368 Oslo",
+  "Industry": "Bank, finans og forsikring",
+  "Position": "Analyse",
+  "Keywords": "",
+  "Finn_code": "453567955"
+}
+||
+{
+  "Job_title": "Controller",
+  "Company": "Kongsberg Defence & Aerospace - Defence Systems",
+  "Skills": "Analysere data, Bokføring, Controlling, ERP-systemer, Microsoft Excel, Norsk, Prognoser, Rapportering",
+  "Sector": "Privat",
+  "Location": "Kirkegårdsveien 45, 3616 Kongsberg",
+  "Industry": "Bank, finans og forsikring, Forsvar og militær",
+  "Position": "Controller",
+  "Keywords": "Controller, finans, kongsberg, forsvar",
+  "Finn_code": "453560423"
+}
+||
+{
+  "Job_title": "Business Analyst",
+  "Company": "Kongsberg Maritime",
+  "Skills": "Due Diligence, Forretningsstrategiplaner, Håndtere fusjoner og oppkjøp, Markedsanalyse, Prosjekteringsledelse",
+  "Sector": "Privat",
+  "Location": "6009 Ålesund",
+  "Industry": "Konsulent og rådgivning, Maritim og offshore, Økonomi og regnskap",
+  "Position": "Analyse, Forretningsutvikling og strategi, Prosjektledelse",
+  "Keywords": "Forretningsanalytiker, markedsanalyse, strategiutvikling, dataanalyse",
+  "Finn_code": "453452310"
+}
+||
+{
+  "Job_title": "Testleder / Business Analyst",
+  "Company": "KLP Teknologi",
+  "Skills": "Behov og kravsanalyse, Planlegge software-testing, Prosjekteringsledelse",
+  "Sector": "Privat",
+  "Location": "0191 Oslo",
+  "Industry": "Bank, finans og forsikring, IT",
+  "Position": "Analyse, Kvalitetssikring",
+  "Keywords": "IT, Forsikring, testledelse, business analyst, utvikling",
+  "Finn_code": "453411049"
+}
+||
+{
+  "Job_title": "Risk Data Analyst",
+  "Company": "Santander Consumer Bank Nordics",
+  "Skills": "Amazon Web Services (AWS), Business-analyse, Konsekvensanalyse, SQL, ",
+  "Sector": "Privat",
+  "Location": "Strandveien, 1366 Lysaker",
+  "Industry": "Bank, finans og forsikring",
+  "Position": "Ledelse",
+  "Keywords": "Interest Rate Risk (IRR) Management (Working Knowledge), Teamwork (Working Knowledge), Liquidity Risk Management (Working Knowledge), Market Risk (Working Knowledge), Derivatives (Working Knowledge), Managing Multiple Priorities (Working Knowledge), Asset and Liability Management (ALM) (Working Knowledge), Analytical Thinking (Working Knowledge), Cross-Team Integration (Working Knowledge), Planning and Organizing (Working Knowledge), Communicating Complex Concepts (Working Knowledge), Internal Controls (Working Knowledge)",
+  "Finn_code": "452679938"
+}
+||
+{
+  "Job_title": "Business Performance Analyst / Business Controller",
+  "Company": "Coor - Norway",
+  "Skills": "Analysere data, Behandle data, Gode norsk- og engelskkunnskaper, kvalitetssikring av data, Microsoft Excel, Power BI, Rapportering, Standardisere prosesser",
+  "Sector": "Privat",
+  "Location": "Skøyen, Oslo, Norge, 0277 Oslo",
+  "Industry": "Drift og vedlikeholdstjenester, Økonomi og regnskap",
+  "Position": "Controller, Forretningsutvikling og strategi, Økonomi og regnskap",
+  "Keywords": "Business intelligence, Masterdata, Datakvalitet, Controller, Økonomistyring",
+  "Finn_code": "452506297"
+}
+||
+{
+  "Job_title": "Business Analyst",
+  "Company": "NG Nordic AS",
+  "Skills": "Analyser av nøkkeltall, Budsjettarbeid, Budsjettarbeid, Finansiell planlegging og analyse, Finansiell rapportering, Likviditetsstyring, Mergers & Acquisitions (M&A), Treasury/Risk Management (FI-FSCM-TRM)",
+  "Sector": "Privat",
+  "Location": "Lysaker Torg 35, 1366 Lysaker",
+  "Industry": "Bank, finans og forsikring, Industri og produksjon, Økonomi og regnskap",
+  "Position": "Analyse, Forretningsutvikling og strategi, Økonomi og regnskap",
+  "Keywords": "Økonomisk bærekraft, Business Analyst, M&A, Analytiker, Analyse ",
+  "Finn_code": "452394974"
+}
+||
+{
+  "Job_title": "Salesforce Senior Developer",
+  "Company": "Storebrand ASA",
+  "Skills": "",
+  "Sector": "Privat",
+  "Location": "Professor Kohts vei 9, 1366 Lysaker",
+  "Industry": "Bank, finans og forsikring, IT, Konsulent og rådgivning",
+  "Position": "Utvikler (generell)",
+  "Keywords": "Salesforce, Apex, Utvikling, Financial Services Cloud, Finans",
+  "Finn_code": "451519706"
+}
+||
+{
+  "Job_title": "Business Data Engineer/Analyst",
+  "Company": "SPORT HOLDING AS",
+  "Skills": "Administrere data, Analyse av forretningsdata, Analysere data, Bygge datadashboard, Data Modeling, Data Warehouse, Microsoft Excel, SQL",
+  "Sector": "Privat",
+  "Location": "Hovinmovegen 128, 2067 Jessheim",
+  "Industry": "Butikk og varehandel, Grossisthandel import/eksport, IT",
+  "Position": "AI / Maskinlæring, Database, Utvikler (generell)",
+  "Keywords": "SQL, Business Data Engineer/Analyst, Business data, Data Analyst, bi verktøy ",
+  "Finn_code": "451456062"
+}
+||
+{
+  "Job_title": "Vil du være med å modernisere og forme fremtidens betalingsløsninger i en av Nordens ledende teknologibedrifter?",
+  "Company": "Tieto Banktech",
+  "Skills": "Kontinuerlig forbedringsarbeid, Kontinuerlig forbedringsprosess (CIP), Kunnskap om teknologi, Teknologiledelse",
+  "Sector": "Privat",
+  "Location": "Folke Bernadottesvei 40, 5147 Fyllingsdalen",
+  "Industry": "Bank, finans og forsikring, IT - programvare, Konsulent og rådgivning",
+  "Position": "Forretningsutvikling og strategi, Løsningsarkitekt",
+  "Keywords": "",
+  "Finn_code": "450707758"
+}
+||
+{
+  "Job_title": "Vizir søker: Business Analyst",
+  "Company": "Vizir As",
+  "Skills": "",
+  "Sector": "",
+  "Location": "",
+  "Industry": "",
+  "Position": "",
+  "Keywords": "",
+  "Finn_code": "454629697"
+}
+||
