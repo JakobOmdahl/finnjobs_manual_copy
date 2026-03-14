@@ -43,7 +43,7 @@ file_names = [
     r"data\forretningsanalyse.txt",
     r"data\machine_learning.txt",
     r"data\machine_learning.txt",
-    r"data\analyse.txt",
+    # r"data\analyse.txt",
 ]
 
 for file_name in file_names:
@@ -119,8 +119,9 @@ job_ad_type = "Job Ad"
 skill_type = "Skill"
 jobs = pd.DataFrame(columns=["Id", "Label", "Node_Type", "Search_Word", "Skill_Weight"])
 jobs["Id"] = df["Finn_code"]
-jobs["Label"] = df["file"]
+jobs["Label"] = ""
 jobs["Node_Type"] = job_ad_type
+jobs["Search_Word"] = df["file"]
 jobs["Skill_Weight"] = 0
 
 skill_list = pd.DataFrame(
