@@ -95,13 +95,20 @@ bad_skills = skill_node[skill_node["Count"] == 1]
 bad_skills = set(bad_skills["Skill"])
 
 bad_listing = set()
-for index, row in df.iterrows():
-    skill_list = (normalize_skill(x) for x in row["Skills"].split(","))
-    if all(item in bad_skills for item in skill_list):
+for _, row in df.iterrows():
+    skills = set()
+    for x in row["Skills"].split(","):
+        s = normalize_skill(x)
+        if s:
+            skills.add(s)
+
+    if skills and skills.issubset(bad_skills):
         bad_listing.add(row["Finn_code"])
 
 listing = pd.DataFrame(df[["Finn_code", "Industry"]].drop_duplicates())
 listing["Industry"] = listing["Industry"].apply(lambda x: x.split(",")[0])
+
+bad_listing
 
 
 listing = drop_na(listing, "Industry")
@@ -184,19 +191,25 @@ node_skill_bridging.to_csv(
 )
 
 
-skill_bridging = pd.DataFrame(columns=["Source", "Target", "Type", "Industry"])
+rows = []
 
-
-for index, row in df.iterrows():
-    input = pd.DataFrame(columns=["Source", "Target", "Type", "Industry"])
-    skills = row.Skills.split(",")
+for _, row in df.iterrows():
+    skills = {
+        normalize_skill(s) for s in row["Skills"].split(",") if normalize_skill(s)
+    }
     for skill1 in skills:
         for skill2 in skills:
             if skill1 != skill2:
-                input["Source"] = skill1
-                input["Target"] = skill2
-                input["Type"] = "Undirected"
-                input["Industry"] = row["Industry"]
-                skill_bridging = pd.concat([skill_bridging, input], ignore_index=True)
+                rows.append(
+                    {
+                        "Source": skill1,
+                        "Target": skill2,
+                        "Type": "Undirected",
+                        "Industry": row["Industry"],
+                    }
+                )
+
+skill_bridging = pd.DataFrame(rows)
+
 
 skill_bridging.to_csv("data_edge_skill_bridging.csv", index=False, encoding="utf-8-sig")
