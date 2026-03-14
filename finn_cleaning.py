@@ -209,7 +209,17 @@ for _, row in df.iterrows():
                     }
                 )
 
+
+def sort(row):
+    return "".join(sorted(row))
+
+
 skill_bridging = pd.DataFrame(rows)
-skill_bridging.drop_duplicates()
+skill_bridging["Key"] = skill_bridging["Source"] + skill_bridging["Target"]
+skill_bridging["Key"] = skill_bridging["Key"].apply(sort)
+
+skill_bridging.head()
+
+skill_bridging.drop_duplicates(subset=["Key"])
 
 skill_bridging.to_csv("data_edge_skill_bridging.csv", index=False, encoding="utf-8-sig")
