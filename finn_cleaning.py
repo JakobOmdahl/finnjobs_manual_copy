@@ -2,7 +2,7 @@ import json
 
 import pandas as pd
 
-with open("finn_jobs.txt", "r", encoding="utf-8") as file:
+with open("data//business_analyst.txt", "r", encoding="utf-8") as file:
     lines = file.read()
 text = lines.split("||")
 clean_text = text[1 : len(text) - 1]
@@ -17,13 +17,19 @@ for row in df["Skills"]:
     lst = row.split(",")
     skills.extend(lst)
 
-cleaned_skills = set(skills)
+skills
+clean_skills = []
+for skill in skills:
+    clean_skills.append(skill.rstrip().lstrip())
+
+
+cleaned_skills = set(clean_skills)
 
 skill_count = {}
 
 for skill in cleaned_skills:
     count = 0
-    for num in skills:
+    for num in clean_skills:
         if skill == num:
             count += 1
         else:
