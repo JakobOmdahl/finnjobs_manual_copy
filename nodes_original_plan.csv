@@ -1,0 +1,72 @@
+Id,Label,Node_Type,Search_Word,Skill_Weight
+j1,,Job Ad,Business Analyst,0
+j2,,Job Ad,Business Analyst,0
+j3,,Job Ad,Business Analyst,0
+j4,,Job Ad,Business Analyst,0
+j5,,Job Ad,Business Analyst,0
+j6,,Job Ad,Data Analyst,0
+j7,,Job Ad,Data Analyst,0
+j8,,Job Ad,Data Analyst,0
+j9,,Job Ad,Data Analyst,0
+j10,,Job Ad,Data Analyst,0
+j11,,Job Ad,Big data,0
+j12,,Job Ad,Big data,0
+j13,,Job Ad,Big data,0
+j14,,Job Ad,Big data,0
+s1,Due Diligence,Skill,N/A,1
+s2,Forretningsstrategiplaner,Skill,N/A,1
+s3,Håndtere fusjoner og oppkjøp,Skill,N/A,1
+s4,Markedsanalyse,Skill,N/A,1
+s5,Prosjekteringsledelse,Skill,N/A,2
+s6,Analyser av nøkkeltall,Skill,N/A,1
+s7,Budsjettarbeid,Skill,N/A,2
+s8,Finansiell planlegging og analyse,Skill,N/A,1
+s9,Finansiell rapportering,Skill,N/A,1
+s10,Likviditetsstyring,Skill,N/A,1
+s11,Mergers & Acquisitions (M&A),Skill,N/A,2
+s12,Treasury/Risk Management (FI-FSCM-TRM),Skill,N/A,1
+s13,Behov og kravsanalyse,Skill,N/A,1
+s14,Planlegge software-testing,Skill,N/A,1
+s15,Analysere data,Skill,N/A,4
+s16,Lage prediktive modeller,Skill,N/A,1
+s17,Maskinlæringsmetoder,Skill,N/A,1
+s18,Prognoser,Skill,N/A,3
+s19,Python (dataprogrammering),Skill,N/A,2
+s20,SQL,Skill,N/A,4
+s21,Statistisk modellering,Skill,N/A,1
+s22,Administrere data,Skill,N/A,1
+s23,Analyse av forretningsdata,Skill,N/A,1
+s24,Bygge datadashboard,Skill,N/A,1
+s25,Data Modeling,Skill,N/A,1
+s26,Data Warehouse,Skill,N/A,1
+s27,Microsoft Excel,Skill,N/A,4
+s28,Behandle data,Skill,N/A,1
+s29,Gode norsk- og engelskkunnskaper,Skill,N/A,1
+s30,kvalitetssikring av data,Skill,N/A,1
+s31,Power BI,Skill,N/A,2
+s32,Rapportering,Skill,N/A,4
+s33,Standardisere prosesser,Skill,N/A,1
+s34,Amazon Web Services (AWS),Skill,N/A,1
+s35,Business-analyse,Skill,N/A,1
+s36,Konsekvensanalyse,Skill,N/A,1
+s37,Corporate Finance,Skill,N/A,1
+s38,Finansanalyse,Skill,N/A,2
+s39,Modellering (økonomi),Skill,N/A,1
+s40,Norsk,Skill,N/A,2
+s41,Teknikker for virksomhetsverdsetting,Skill,N/A,1
+s42,Microsoft Power Point 2011,Skill,N/A,1
+s43,Risikostyring,Skill,N/A,1
+s44,Agile Scrum,Skill,N/A,1
+s45,Databanksystemforståelse,Skill,N/A,1
+s46,IT Infrastructure Library (ITIL),Skill,N/A,1
+s47,Prince 2 prosjektledelse metodikk,Skill,N/A,1
+s48,Prosjektstyringsmetodikk,Skill,N/A,1
+s49,Microsoft Office,Skill,N/A,1
+s50,SAP S/4HANA,Skill,N/A,1
+s51,Kontinuerlig forbedringsarbeid,Skill,N/A,1
+s52,Kontinuerlig forbedringsprosess (CIP),Skill,N/A,1
+s53,Kunnskap om teknologi,Skill,N/A,1
+s54,Teknologiledelse,Skill,N/A,1
+s55,Bokføring,Skill,N/A,1
+s56,Controlling,Skill,N/A,1
+s57,ERP-systemer,Skill,N/A,1
