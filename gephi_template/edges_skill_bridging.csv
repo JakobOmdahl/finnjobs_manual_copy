@@ -1,0 +1,31 @@
+Source,Target,Type,Industry
+SQL,Python,Undirected,Tech
+SQL,Python,Undirected,Finance
+SQL,Microsoft Excel,Undirected,Finance
+SQL,Tableau,Undirected,Retail
+SQL,Power BI,Undirected,Healthcare
+Python,Machine Learning,Undirected,Tech
+Python,R,Undirected,Tech
+Microsoft Excel,Communication,Undirected,Consulting
+Microsoft Excel,Project Management,Undirected,Finance
+Tableau,Business Intelligence,Undirected,Retail
+Communication,Project Management,Undirected,Consulting
+Communication,Stakeholder Management,Undirected,Consulting
+SQL,ETL,Undirected,Tech
+Python,AWS,Undirected,Tech
+Python,Azure,Undirected,Finance
+Data Cleaning,SQL,Undirected,Healthcare
+Data Cleaning,Python,Undirected,Retail
+Machine Learning,Statistics,Undirected,Tech
+Data Modeling,Data Warehousing,Undirected,Finance
+SQL,Data Modeling,Undirected,Finance
+ETL,Data Warehousing,Undirected,Tech
+Agile,Project Management,Undirected,Consulting
+AWS,Azure,Undirected,Tech
+Python,GCP,Undirected,Tech
+Power BI,Business Intelligence,Undirected,Healthcare
+Tableau,Communication,Undirected,Retail
+Statistics,R,Undirected,Healthcare
+SQL,Communication,Undirected,Finance
+Python,Communication,Undirected,Tech
+Project Management,Stakeholder Management,Undirected,Consulting

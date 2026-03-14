@@ -1,0 +1,21 @@
+Id,Label,Skill_Count
+SQL,SQL,150
+Python,Python,130
+Microsoft Excel,Microsoft Excel,100
+Tableau,Tableau,85
+Communication,Communication,80
+Power BI,Power BI,75
+Project Management,Project Management,60
+Machine Learning,Machine Learning,55
+Statistics,Statistics,50
+Data Cleaning,Data Cleaning,45
+R,R,40
+Business Intelligence,Business Intelligence,35
+Data Modeling,Data Modeling,30
+ETL,ETL,25
+Agile,Agile,25
+AWS,AWS,20
+Stakeholder Management,Stakeholder Management,20
+Data Warehousing,Data Warehousing,15
+Azure,Azure,15
+GCP,GCP,10
