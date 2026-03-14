@@ -2,22 +2,62 @@ import json
 
 import pandas as pd
 
-with open("data//business_analyst.txt", "r", encoding="utf-8") as file:
-    lines = file.read()
-text = lines.split("||")
-clean_text = text[1 : len(text) - 1]
-rows = [json.loads(part) for part in clean_text]
+df = pd.DataFrame(
+    columns=[
+        "file",
+        "Job_title",
+        "Company",
+        "Skills",
+        "Sector",
+        "Location",
+        "Industry",
+        "Position",
+        "Keywords",
+        "Finn_code",
+    ]
+)
 
 
-df = pd.DataFrame(rows)
-df.drop_duplicates(inplace=True)
+def read_file(file: str, df: pd.DataFrame):
+    with open(file, "r", encoding="utf-8") as input:
+        lines = input.read()
+        text = lines.split("||")
+        file_name = text[0].rstrip()
+        clean_text = text[1 : len(text) - 1]
+        rows = [json.loads(part) for part in clean_text]
+        for row in rows:
+            row["file"] = file_name
+        df = pd.concat([df, pd.DataFrame(rows)], ignore_index=True)
+
+    return df
+
+
+file_names = [
+    r"data\business_analyst.txt",
+    r"data\data_analyst.txt",
+    r"data\big_data.txt",
+    r"data\data_og_ai.txt",
+    r"data\analytic_engineer.txt",
+    r"data\data_science.txt",
+    r"data\forretningsanalyse.txt",
+    r"data\forretningsanalyse.txt",
+    r"data\machine_learning.txt",
+    r"data\machine_learning.txt",
+   r"data\analyse.txt",
+]
+
+for file_name in file_names:
+    df = read_file(file_name, df)
+
+
+df.drop_duplicates(subset="Finn_code", keep="first", inplace=True)
+
 
 skills = []
 for row in df["Skills"]:
     lst = row.split(",")
     skills.extend(lst)
 
-skills
 clean_skills = []
 for skill in skills:
     clean_skills.append(skill.rstrip().lstrip())
@@ -49,7 +89,6 @@ skill_node = drop_na(skill_node, "Skill")
 
 listing = pd.DataFrame(df[["Finn_code", "Industry"]].drop_duplicates())
 listing["Industry"] = listing["Industry"].apply(lambda x: x.split(",")[0])
-# listing["Industry"][14]==""
 
 
 listing = drop_na(listing, "Industry")
