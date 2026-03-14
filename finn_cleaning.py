@@ -52,7 +52,6 @@ for file_name in file_names:
 
 df.drop_duplicates(subset="Finn_code", keep="first", inplace=True)
 
-df.head()
 
 skills = []
 for row in df["Skills"]:
@@ -107,6 +106,8 @@ edges_between_listing_skill = pd.DataFrame(
     edges_between_listing_skill, columns=["Finn_code", "Skill", "Industry"]
 )
 
+edges_between_listing_skill
+
 edges_between_listing_skill = drop_na(edges_between_listing_skill, "Skill")
 edges_between_listing_skill.drop_duplicates(inplace=True)
 
@@ -152,3 +153,29 @@ edges_original_plan["Industry"] = edges_between_listing_skill["Industry"]
 edges_original_plan.to_csv(
     "data_edges_original_plan.csv", index=False, encoding="utf-8-sig"
 )
+
+node_skill_bridging = pd.DataFrame(columns=["Id", "Label", "Skill_Count"])
+node_skill_bridging["Id"] = skill_node["Skill"]
+node_skill_bridging["Label"] = skill_node["Skill"]
+node_skill_bridging["Skill_Count"] = skill_node["Count"]
+node_skill_bridging.to_csv(
+    "data_node_skill_bridging.csv", index=False, encoding="utf-8-sig"
+)
+
+
+skill_bridging = pd.DataFrame(columns=["Source", "Target", "Type", "Industry"])
+
+
+for index, row in df.iterrows():
+    input = pd.DataFrame(columns=["Source", "Target", "Type", "Industry"])
+    skills = row.Skills.split(",")
+    for skill1 in skills:
+        for skill2 in skills:
+            if skill1 != skill2:
+                input["Source"] = skill1
+                input["Target"] = skill2
+                input["Type"] = "Undirected"
+                input["Industry"] = row["Industry"]
+                skill_bridging = pd.concat([skill_bridging, input], ignore_index=True)
+
+skill_bridging.to_csv("data_edge_skill_bridging.csv", index=False, encoding="utf-8-sig")
