@@ -32,6 +32,10 @@ def read_file(file: str, df: pd.DataFrame):
     return df
 
 
+def normalize_skill(skill: str) -> str:
+    return " ".join(skill.replace("\xa0", " ").strip().lower().split())
+
+
 file_names = [
     r"data\business_analyst.txt",
     r"data\data_analyst.txt",
@@ -40,8 +44,7 @@ file_names = [
     r"data\analytic_engineer.txt",
     r"data\data_science.txt",
     r"data\forretningsanalyse.txt",
-    r"data\forretningsanalyse.txt",
-    r"data\machine_learning.txt",
+    r"data\forretningsanalytiker.txt",
     r"data\machine_learning.txt",
     # r"data\analyse.txt",
 ]
@@ -60,7 +63,7 @@ for row in df["Skills"]:
 
 clean_skills = []
 for skill in skills:
-    clean_skills.append(skill.rstrip().lstrip())
+    clean_skills.append(normalize_skill(skill))
 
 
 cleaned_skills = set(clean_skills)
@@ -78,7 +81,8 @@ for skill in cleaned_skills:
 
 
 def drop_na(table: pd.DataFrame, column: str):
-    return table.drop(table.loc[(table[column] == "") | (table[column] == " ")].index)
+    mask = table[column].notna() & table[column].astype(str).str.strip().ne("")
+    return table.loc[mask].copy()
 
 
 skill_node = pd.DataFrame(list(skill_count.items()), columns=["Skill", "Count"])
@@ -89,7 +93,7 @@ skill_node.head()
 
 bad_skills = skill_node[skill_node["Count"] == 1]
 bad_skills = set(bad_skills["Skill"])
-bad_skills
+
 
 listing = pd.DataFrame(df[["Finn_code", "Industry"]].drop_duplicates())
 listing["Industry"] = listing["Industry"].apply(lambda x: x.split(",")[0])
@@ -131,7 +135,7 @@ jobs["Skill_Weight"] = 0
 skill_list = pd.DataFrame(
     columns=["Id", "Label", "Node_Type", "Search_Word", "Skill_Weight"]
 )
-skill_list["Id"] = skill_node["Skill"]
+skill_list["Id"] = skill_node["Skill"].apply(normalize_skill)
 skill_list["Label"] = skill_node["Skill"]
 skill_list["Node_Type"] = skill_type
 skill_list["Search_Word"] = ""
@@ -151,11 +155,15 @@ edges_original_plan = pd.DataFrame(columns=["Source", "Target", "Type", "Industr
 type_ = "Undirected"
 
 edges_original_plan["Source"] = edges_between_listing_skill["Finn_code"]
-edges_original_plan["Target"] = edges_between_listing_skill["Skill"]
+edges_original_plan["Target"] = edges_between_listing_skill["Skill"].apply(
+    normalize_skill
+)
 edges_original_plan["Type"] = type_
 edges_original_plan["Industry"] = edges_between_listing_skill["Industry"]
 
+edges_original_plan.shape
 edges_original_plan = edges_original_plan[~edges_original_plan.Target.isin(bad_skills)]
+edges_original_plan.shape
 
 edges_original_plan.to_csv(
     "data_edges_original_plan.csv", index=False, encoding="utf-8-sig"
