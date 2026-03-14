@@ -43,7 +43,7 @@ file_names = [
     r"data\forretningsanalyse.txt",
     r"data\machine_learning.txt",
     r"data\machine_learning.txt",
-   r"data\analyse.txt",
+    r"data\analyse.txt",
 ]
 
 for file_name in file_names:
@@ -107,6 +107,7 @@ edges_between_listing_skill = pd.DataFrame(
 
 edges_between_listing_skill = drop_na(edges_between_listing_skill, "Skill")
 edges_between_listing_skill.drop_duplicates(inplace=True)
+
 
 edges_between_listing_skill.to_csv("edges.csv", index=False, encoding="utf-8-sig")
 listing.to_csv("listings.csv", index=False, encoding="utf-8-sig")

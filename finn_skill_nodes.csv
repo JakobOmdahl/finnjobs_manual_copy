@@ -1,63 +1,1602 @@
 ﻿Skill,Count
-Microsoft Excel,5
-Rapportering,5
-Budsjettarbeid,5
-SQL,4
-Analysere data,4
-Prognoser,4
-Controlling,2
-Python (dataprogrammering),2
-Bygge datadashboard,2
-Norsk,2
-Mergers & Acquisitions (M&A),2
-Finansanalyse,2
-Prosjekteringsledelse,2
-Power BI,2
-Corporate Finance,1
-Business-analyse,1
-Planlegge software-testing,1
-Analyser av nøkkeltall,1
-Prosessanalyse,1
-Microsoft Office,1
-Standardisere prosesser,1
-Statistisk modellering,1
-Data Modeling,1
-Markedsanalyse,1
-Prince 2 prosjektledelse metodikk,1
-Kunnskap om teknologi,1
-Behov og kravsanalyse,1
-Modellering (økonomi),1
-Forretningsstrategiplaner,1
-Teknikker for virksomhetsverdsetting,1
-Administrere data,1
-Lage prediktive modeller,1
-Finansiell planlegging og analyse,1
-Analyse av forretningsdata,1
-Microsoft Power Point 2011,1
-Due Diligence,1
-Behandle data,1
-Teknologiledelse,1
-Bokføring,1
-IT Infrastructure Library (ITIL),1
-Risikostyring,1
-Håndtere fusjoner og oppkjøp,1
-Amazon Web Services (AWS),1
-Konsekvensanalyse,1
-Treasury/Risk Management (FI-FSCM-TRM),1
-ERP-systemer,1
-Databanksystemforståelse,1
+Analysere data,170
+Rapportering,134
+Microsoft Excel,91
+Norsk,83
+Budsjettarbeid,74
+Sikkerhetsklarering,62
+Digitale ferdigheter,62
+Python (dataprogrammering),53
+Økonomistyring,53
+Bokføring,52
+Controlling,46
+Automatisering,44
+Kunstig intelligens,44
+Prosjekteringsledelse,43
+Kvalitetssikring,39
+Kontinuerlig forbedringsarbeid,35
+Digitalisering,35
+ERP-systemer,33
+SQL,32
+Dokumentasjon,32
+Ingeniørarbeid,32
+Power BI,30
+Forretningsutvikling,30
+kvalitetssikring av data,29
+Prognoser,28
+Logistikk,26
+Risikostyring,25
+Regnskap og bokføring,24
+Kostnadskontroll (Financial controlling),22
+Statistikk,22
+Internkontroll,22
+Kunnskap om relevante lover og forskrifter,21
+Kunnskap om teknologi,21
+Kjøre,21
+Gode norsk- og engelskkunnskaper,21
+Finansiell rapportering,19
+Dataanalyseverktøy,18
+Forskrifter,18
+Markedsanalyse,18
+Anskaffelser,18
+Maskinlæring,18
+CI/CD (Continuous Integration and Continuous Delivery),18
+Gjennomføre aktivt salg,17
+Utarbeide årsregnskap,16
+Microsoft Power Point 2011,16
+Customer Relationship Management (CRM),16
+Datainnsamling og analyse,16
+Azure AD,15
+Produktutvikling,15
+Teknisk utdannelse,15
+Datadrevet markedsføring,14
+Likviditetsstyring,13
+Produsere innhold,13
+Microsoft Office,13
+Utviklingsarbeid,13
+Administrere data,13
+Support / brukerstøtte,13
+Arbeid i butikk,12
+Programmeringsspråk,12
+Database,12
+Behandle data,12
+Avviksanalyse,12
+Fakturering,12
+Analyse av økonomisk ytelse,11
+Java (Programmeringsspråk),11
+Risikoanalyse,11
+Offentlig administrasjon og forvaltning,11
+Kjennskap til lovverk og regelverk,11
+Utføre lønnsomhetsanalyse,11
+Moderne software-utvikling,11
+Informasjonssikkerhet,11
+Avstemming av kontoer,11
+Datavitenskap,11
+Bruke verktøy,11
+Social Media,11
+Kontinuerlig forbedringsprosess (CIP),11
+Samle inn prøver,11
+C# (Programmeringsspråk),10
+Kjemi,10
+Business Case-utvikling,10
+Prosjektøkonomi,10
+Ingeniørkunst,10
+Lede utviklingsprosesser,10
+Kjennskap til skyplattformer,10
+Elektronikk,10
+Prosjektledelse,10
+Informatikk,10
+Gjennomføre kvalitative undersøkelser,10
+Forvaltningskompetanse,9
+Prissettingsstrategier,9
+Mergers & Acquisitions (M&A),9
+Juridisk kompetanse,9
+Regnskapspraksis,9
+Key Performance Indicator (KPI),9
+Dataarkitektur,9
+Analyse av forretningsdata,9
+Servicearbeid,9
+Saksbehandle søknader,9
+Skrive,9
+Data Modeling,9
+B2B - erfaring,9
+Risikovurdering,9
+Linux,9
+IFRS 1,9
+Finansanalyse,9
+Datastyring,8
+Behersker IT-/datasystemer,8
+Sensorer,8
+Regulatory compliance,8
+Akvakultur,8
+Salgsprosess,8
+Metodeutvikling,8
+Biologi,8
+Salgserfaring,8
+beregning og estimering,8
+Gjennomføring av studier,8
+undersøkelser og eksamener,8
+foreta kalkulasjoner,8
+R,8
+Data Engineering,8
+Google Adwords,8
+Cybersikkerhet,8
+Google Analytics,8
+Rapporteringsverktøy,8
+Porteføljeforvaltning,8
+Digital Commerce,7
+PostgreSQL,7
+Kybernetikk,7
+Matematikk,7
+Kjemiske analyser,7
+Nordisk spåk,7
+Laboratorieteknikker,7
+Investeringsanalyse,7
+Sortimentansvar (detaljhandel),7
+Forsyningskjedestyring,7
+Bruke regnskapssystemer,7
+Resultatanalyse,7
+Utforme retningslinjer,7
+Development of data pipelines,7
+Kommersiell ledelse,7
+Prototype,7
+Forsyningsledelse,7
+Vitenskapelig forskning,7
+MLOps,7
+Analyser av nøkkeltall,7
+Konsolidert finansregnskap,7
+Kvalitetskontroll,7
+Konsekvensanalyse,7
+K8s,7
+Finite element method (FEM) analyse,7
+Modellering og simulering,7
+Månedlige rapporter,6
+Fysikk,6
+Bærekraftig miljøarbeid,6
+Analyse,6
+Teknisk innsikt,6
+Kundereise,6
+Organisere data,6
+Kotlin,6
+Strategisk ledelse,6
+Behersker root cause analysis,6
+NORSOK,6
+Optimalisering av kostnader,6
+GMP (Good Manufacturing Practice),6
+Handelsutdanning,6
+Digital annonsering,6
+Risikovurdering (forsikring),6
+kunnskap om produktledelse,6
+Autorisert regnskapsfører,6
+Utføre dataanalyse,6
+Microsoft 365,6
+Finansiell kontroll,6
+Field Programmable Gate Array (FPGA),6
+Spore KPIer,6
+General Data Protection Regulation (GDPR),6
+Ta blodprøver,6
+Bedriftsøkonomi,6
+Marketing Automation,6
+Maritim teknologi,6
+C++ (Programming language),6
+Konseptutvikling,6
+Strukturanalyse,6
+Søkemotoroptimalisering,5
+Teknisk salg,5
+Kvalitetsstyring,5
+Programvare som tjeneste,5
+Markedsstrategi,5
+Segmentere,5
+Skattemelding,5
+Opprettholde dataintegritet,5
+Økonomisk administrasjon,5
+Amazon Web Services (AWS),5
+Offentlige anskaffelser,5
+Application Programming Interfaces (APIs),5
+Prosessutvikling (forretningsprosesser),5
+skrive og lese norske tekniske dokumenter,5
+Molekylærbiologi,5
+Planlegging og budsjettering,5
+Hendelsehåndtering,5
+Finansieringsløsninger,5
+IT Infrastructure Library (ITIL),5
+Ytelsesanalyse,5
+Kunnskap innen arbeidsrett,5
+Sårbarhetsanalyse,5
+Forstå,5
+Produktanalyse,5
+Materialteknologi,5
+Dataprogrammering,5
+SAP (Systems,5
+Applications and Products for data processing),5
+Analytisk kjemi,5
+Sortimentledelse,5
+Kalkulering av kostnader,5
+Yrkeskompetanse som gir fag- eller svennebrev,5
+Modellering (økonomi),5
+Håndtere kontantstrøm,5
+Data Warehouse,5
+Nettverksinfrastruktur,4
+Dokumentering og registrering av informasjon,4
+Optimaliseringskonsepter,4
+Programvarearkitektur,4
+Prosessteknikk,4
+Innkjøpsplanlegging,4
+B2 norsk språkprøve,4
+Tekniske egenskaper,4
+Simulering,4
+Terraform,4
+Revisjon,4
+Fullstack utvikler,4
+Erfaring med Skatteetaten,4
+Teknisk IT kompetanse,4
+Følge opp kundefordringer,4
+Bioingeniørfaglig kompetanse,4
+Kontraktshåndtering,4
+Prosjektering,4
+Laboratoriearbeid (Biologi),4
+Organisatorisk ledelse,4
+Publisering,4
+PyTorch,4
+Prosessdesign,4
+Teknisk dokumentasjon,4
+Teknisk utviklingsarbeid,4
+Dataanalyse og rapportering,4
+Kjemiteknikk,4
+Apache Spark,4
+Anbudsprosesser i B2B - markedet,4
+Regnskapsoppfølging,4
+Kundedialog,4
+Informasjonsarkitektur,4
+Forebyggende vedlikehold,4
+Dataintegrasjonsprosesser,4
+Månedsregnskap,4
+STAAD.Pro,4
+Eiendomsutvikling,4
+Økonom,4
+Backend webutvikling,4
+Internprising,4
+Ledelse (universitet),4
+Robotikk,4
+Gransking,4
+Go-to-market strategi,4
+Nasjonal sikkerhet,4
+Ansvar for digital infrastruktur,4
+Strategisk markedsføring,4
+Forretningsarkitektur,4
+Relasjonsbygging,4
+HR Consulting,4
+Økologi,4
+Bygge datadashboard,4
+TypeScript,4
+Utføre feltarbeid,4
+Polymerasekjedereaksjon (PKR),4
+Strategisk innkjøp,4
+Administrere kontrakter,4
+Prosjektkontroll,4
+Utføre produkttesting,4
+GIS,4
+Programvaredesign,4
+Infrastructure as code (IaC),4
+Go,4
+Bruke geografiske informasjonssystemer,4
+Lage Benchmarks,4
+Hematologi,4
+Mekanisk design,4
+Salgsaktiviteter,4
+Finansiell revisjon,4
+Detalj prosjektering/ engineering elektro,4
+Mekatronikk,4
+Systemoptimering,4
+RAMS,4
+Adgangskontroll,4
+Teknisk aksjeanalyse,4
+Figma,4
+Publisere akademisk forskning,4
+Performance marketing,4
+Spring Boot,4
+Brukeropplevelse,4
+Redigere engelske tekster,4
+Systemtest,3
+Logistics General (LO),3
+Forskningsmetoder,3
+Docker,3
+Rådgivning,3
+Sesam GeniE,3
+Produksjon av elektrisitet fra vannkraft,3
+Arbeid med nyhetsbrev,3
+Digital kommunikasjon,3
+Miljøvitenskap,3
+SAP S/4HANA,3
+C#.NET,3
+Reiseregninger,3
+Prosessanalyse,3
+Juss,3
+Microsoft Word,3
+ICT Architecture,3
+ICT Security,3
+SQL databaser,3
+Optimalisering av konvertering,3
+Interaksjonsdesign,3
+Designprosess,3
+Sikre interoperabilitet,3
+HR-rapportering,3
+Veterinærmedisin,3
+Gjennomføring av utviklingsprosjekter,3
+Operating System (ICT),3
+Gjennomføre helserelatert forskning,3
+Tableau,3
+Porteføljeanalyse,3
+Utvikling av digitale verktøy,3
+IFRS 15,3
+Mikrobiologi,3
+Tensorflow,3
+Disaster Recovery (IKT),3
+Kvantitativ dataanalyse,3
+Engelsk,3
+Kodegjennomgang,3
+Maskinvedlikehold,3
+Kjøre lønn,3
+Kromatografi,3
+ENØK,3
+Endringsprosjekter,3
+Administrasjon av masterdata,3
+Due Diligence analyse,3
+Ansible,3
+HubSpot (Software),3
+Ruteplanleging,3
+Angi prisstrategier,3
+Stedsbefaring,3
+Informasjonsforvaltning,3
+Kvalitetsanalyse,3
+Sikkerhetsadministrasjon,3
+Felling,3
+Microsoft Windows,3
+Administrere ressurser,3
+Eurocode,3
+Biokjemi,3
+Kjemisk laboratoriearbeid,3
+Prosjektanalyse,3
+Fysisk sikring,3
+Bransjekunnskap olje og gass,3
+Operativ driftsledelse,3
+ERP (CRM),3
+Faregjenkjennig og risikoidentifiserig,3
+Programvaretesting,3
+CUDA (Compute Unified Device Architecture),3
+Nytte-kostnadsanalyse,3
+Datadrevet beslutningsprosess,3
+DNV-Standards,3
+Tjenestedesign,3
+Tolke data,3
+Håndtere kjemikalier,3
+Utføre kostnad-nytte-analyser,3
+Systemkonfigurasjon,3
+NoSQL,3
+Identifisere potensielle kunder,3
+Prosjektleveranse,3
+Rapportering av ytelse,3
+Universell utforming,3
+Tarifforhandlinger,3
+IT løsninger,3
+Leverandøradministrering,3
+Maskinlæringsmetoder,3
+Finansiell og økonomisk rådgivning,3
+Algoritmer,3
+Sikkerhetsteknikk,3
+Account Management,3
+Due Diligence,3
+Customer Relationship Management (CRM) Software,3
+Vedlikehold av utstyr,3
+Kvalitetsstyringssystem,3
+JavaScript,3
+Abaqus,3
+Taksonomi,3
+Finans og forsikring,3
+Implementering av systemer,3
+Installasjon,3
+Hydrologi,3
+Datasenter,3
+Økonomisk prognose,3
+Rådgivende salg,3
+Bransjekunnskap innen varme,3
+Prosjektregnskap,3
+Analyzing and Visualizing Data with Power BI,3
+air condition og byggteknologi,3
+GitHub,3
+Produktkø (Product backlog),3
+IT-kompetanse,3
+Massive parallel sequencing,3
+Kjennskap til lover og regler innenfor lønnsfaget,3
+Kundeadministrering,3
+Utvikle arbeidsprosedyrer,3
+Brukbarhetstesting,3
+Kostnadskalkulering,3
+Software Engineering,3
+Kontraktsrett,3
+Standardisere prosesser,3
+Utvikle APIs,3
+Jenkins (Software),3
+DevOps,3
+Elektroindustri (bransje),3
+Process documentation,3
+Estimere lønnsomhet,3
+Finansregnskap,3
+ventilasjon,3
+Bannerannonsering,3
+Internet of Things,3
+Energi- og miljøledelse,3
+Six sigma-metoder,3
+Prosessoptimalisering (produksjonsprosesser),3
+Budsjettildeling,3
+Strategirådgivning,3
+Økonomisk / administrativ forståelse,3
+Snowflake,3
+Ledelse,3
+Rapportere nøkkeltall,3
+HAZOP,3
+Personaladministrasjon,3
+Bruker-orientert design,3
+Forvaltningsarbeid - Kommunalt,3
+Sikkerhetsregler,3
+Gjennomføre kvantitativ forskning,3
+Sales support,2
+Transport,2
+STATA (Software),2
+Analyse av stordata,2
+Microservices,2
+Offshore modifikasjoner,2
+Produksjonsprosesser,2
+Scikit-learn,2
+Digitale markedskanaler,2
+Bilde - og videoredigering,2
+Radiofrekvensteknikk,2
+Gjennomføre kontraktsadministrasjon,2
+Nysgjerrig,2
+IT Infrastructure Management,2
+Analysere lån,2
+Drifte og optimalisere produksjonslinjer,2
+Modellbygging,2
+IFS ERP,2
+Politisk analyse,2
+Ta vannprøver,2
+Analysere kontrakter,2
+Product Lifecycle Managment (PLM),2
+ISO 17025,2
+Naturvitenskap,2
+SOP,2
+Life Cycle Assessment,2
+Regnskapsbehandling,2
+Behandling av IKT-feil,2
+Prismodellering,2
+ICT Governance,2
+Analysere forretningsprosesser,2
+Konsulentvirksomhet tilknyttet informasjonsteknologi,2
+Drift og utvikling,2
+Lage prediktive modeller,2
+Utforming av kontrakter,2
+Biokjemi (biomedisinsk analyse),2
+Samarbeidsevne,2
+Distribuert systemarkitektur (IKT),2
+Sosiale medier verktøy,2
+Landingpage,2
+Geomatikk,2
+Epidemiologi,2
+Kontrollering av reiseregninger,2
+Airflow,2
+Business-analyse,2
+Prosjektering av byggeprosjekter,2
+Kreditthåndtering,2
+Integrasjon av maskinvare og programvare,2
+Bruke analyse for kommersielle formål,2
+Microsoft Excel Pivot tabelldesign,2
+Planlegge og produsere innhold til sosiale medier,2
+Implementering av prosesser,2
+Kunnskap om regelverket for anskaffelser i offentlig sektor.,2
+REST (API),2
+Rengjøring,2
+Relasjonsledelse bank,2
+Drift av avløpsrenseanlegg,2
+Planlegge læreplaner,2
+Informasjonsanalyse,2
+Utarbeidelse av reguleringsplaner,2
+Vurdere miljøpåvirkning,2
+User support,2
+Strategisk prosjektledelse,2
+Store språkmodeller,2
+Budsjett og resultatansvar,2
+Autodesk Inventor,2
+Definere merkeidentitet,2
+Utføre EKG,2
+nyhetsbrev og hjemmeside,2
+Ansvar for kostnadskalkyler og prissetting,2
+Salg av finansielle produkter,2
+Reparasjon,2
+Markedsposisjonering,2
+Nettverkskonsepter,2
+Systemadministrasjon,2
+Brukervennlighet og kunnskap om brukeropplevelse,2
+Inkluderingskompetanse,2
+Dataferdigheter,2
+PowerShell,2
+CTI,2
+Affiliate marketing,2
+Verilog HDL,2
+Konstruksjon og produktutvikling,2
+Elektro (AMO),2
+Klinisk biokjemi,2
+Planlegge markedsaktiviteter,2
+ServiceNow,2
+Løsningsarkitektur,2
+Embedded Linux,2
+Automasjon,2
+Forretnings prognoser,2
+Etterforsking,2
+Distribusjon,2
+Dokumentkontroll,2
+Produksjon av video,2
+Skrive teknisk dokumentasjon,2
+Containere eller containerplattformer,2
+Inngå forretningsmessige avtaler,2
+Computer vision,2
+Bygging av havne- og damanlegg,2
+IKT-infrastruktur,2
+Operational Excellence,2
+Produktutvikling (norske markedet),2
+Utvikle brukergrensesnitt,2
+Forbedring av kvalitet,2
+Corporate Finance,2
+Løsningssalg,2
+Netthandel,2
+Risikorapportering,2
+Bygge opp kundeportefølje,2
+Laboratoriefag (AMO),2
+Dokumentere sikkerhetstiltak,2
+Dyreforsøk,2
+Kuldeteknikk,2
+Forskning,2
+Internasjonal salgserfaring,2
+Investeringsplanlegging,2
+Arkitektur,2
+Brukerdesign,2
+Kvalitetsprosess,2
+Spirometri,2
+IKT-støtte,2
+Administrativ støtte til bedriftsledere,2
+Produktdesign,2
+Remittering,2
+Failure modes and effects analysis (FMEA),2
+Salgsanalyse,2
+Statistisk modellering,2
+IKT-ledelse,2
+Finansiell planlegging og analyse,2
+Kvalitetskrav,2
+Python Scripting,2
+Bank- og finansielle tjenester,2
+Byggeteknikk,2
+Materialtesting,2
+Bash (operativsystem),2
+QlikView,2
+Digital platform,2
+Lage vaktlister,2
+Mekaniske oppgaver,2
+Vedlikehold av teknisk utstyr,2
+Tidsplanlegging,2
+LMS,2
+Bruke IKT-systemer,2
+Finansavdelingsprosesser,2
+A/B-testing (konverteringsoptimalisering),2
+Environment,2
+Search Engine Marketing (SEM),2
+Data Analysis Expressions (DAX),2
+Programledelse,2
+Kjemikalieindustri,2
+DAM / PIM,2
+Fornybare energiteknologier,2
+Salgsutvikling,2
+forhandle og administrere kontrakter og avtaler,2
+Offshoresertifikater,2
+Opprette innkjøpsordre,2
+Elektromekanikk,2
+Arbeidsmiljøloven (Norge),2
+PySpark,2
+IKT-sikkerhetsstandarder,2
+Miljørapportering,2
+React.js,2
+CSS (Cascading Style Sheets),2
+Blodbankvirksomhet,2
+Tilgang til og analyse av digitale data,2
+E-Commerce og Digital Markedsføring,2
+Innholdsmarkedsføring,2
+Utvikle digitalt innhold,2
+Handelsavtaler,2
+Teknikker for virksomhetsverdsetting,2
+Høyytelses væskekromatografi,2
+Utvikling og implementering av systemer for mål - og resultatoppfølging,2
+FMCG,2
+Bruke regnearkprogramvare,2
+Objektorientert programmering,2
+3D-modellering,2
+Analog elektronikk,2
+Drifte vedlikeholdssystemer,2
+Merverdiavgift,2
+Erfaring innen byplanlegging,2
+Kampanjeplanlegging (markedsføring),2
+API - integrasjoner,2
+Presentasjonsprogram,2
+Strategisk utvikling av bedriftsfilosofi,2
+VHDL,2
+Agile Scrum,2
+Pleie og omsorgsarbeid,2
+Deep Learning,2
+Vann- og avløpsanlegg,2
+Databaseutvikling,2
+Planlegge forskningsprosess,2
+Energiteknikk (sterkstrøm),2
+Avvikling,2
+prosjekt,2
+Health and Safety (EHS),2
+Eiendomsforvaltning,2
+Financial Risk Management,2
+Statistisk analyse programvare,2
+Kundeportefølje,2
+Ledelserapportering,2
+Materialforvaltning,2
+Behandle refusjoner,2
+Mikrobiologiske analyser,2
+Analysere blodprøver,2
+Rapportskriving,2
+effekt og kritikalitetsanalyse (FMECA),2
+Teknologiledelse,2
+Kalibrering av utstyr,2
+Skrive vitenskapelige artikler,2
+Utvikle kampanjer,2
+Programvareintegrasjon,2
+Kjennskap til offentleglova,2
+Budsjett- og økonomioppfølging,2
+HAZID,2
+Forebyggende informasjonssikkerhet,2
+SJA,2
+Databaseadministrasjon,2
+Business-planlegging,2
+Agresso Accounting Software,2
+Teknisk tegning,2
+Framdriftsplanlegging,2
+Ressursoptimalisering,2
+.NET Framework,2
+Adobe (Software),2
+Prisanalyse,2
+Immunologi,2
+Kjennskap til offentlig virksomhet og lov - og avtaleverk,2
+A/B-Test,2
+Administrative arbeidsassistanse,2
+Etterforskning av elektroniske spor,2
+Sykefravær (personaladminisstrasjon),2
+Salg B2B,2
+Internrevisjon,2
+Forhandlinger med leverandører,2
+Prediktiv analyse,2
+Hydraulikk,2
+Paid Search,2
+Applikasjonsforvaltning,2
+Bruk av Agile-metodikk,2
+Trusseletterretning,2
+Kapitalstruktur,2
+Forbedring av produksjonsbetingelser,2
+ATEX,2
+Management Systems,2
+FEM-design,2
+Vannkraftverk,2
+MATLAB,2
+Reklame,2
+Signalbehandling,2
+Operasjonell personalledelse,2
+Generative artificial intelligence,2
+Content strategy,2
+Subsea technology,2
+Arbeidsspråket er engelsk,2
+EU-direktiver,2
+Statistiske- og dataanalysemetoder,2
+Digital signalbehandling,2
+IT-strategi,2
+Petroleumsteknologi,2
+Erfaring fra store byggeprosjekter,2
+Kontrollmetoder,2
+Markedsansvar,2
+Strategisk systemutvikling,2
+Feilmode,2
+Kontinuerlig prosessforbedring,2
+Markedsføringskanal,2
+Forbedre og utvikle tjenestene,2
+Stålkonstruksjon,2
+Redusere kostnader,2
+Excel skills (big data manipulation),2
+Teknisk ledelse,2
+Miljøkonsekvensanalyse,2
+Matematisk modellering,2
+Skrive spesifikasjoner,2
+Arbeidsrett,2
+Life Science,2
+System Safety Engineering,2
+Forskning og utviklingsarbeid,2
+Embedded Systems,2
+EMC-måleteknikk,2
+BIM og kalkulasjon,2
+Prissetting,2
+Utvikle digitale plattformer og tjenester,2
+ArcGIS,2
+Lean methods,2
+Modellbasert systemteknikk,2
+Saksbehandling fakturering,2
+Konkurranseanalyse,2
+Nettverk (IKT),2
+Elektronikkdesign,2
+Fabrikasjonsprosess,2
+Effektiv ressursbruk,2
+BPM,1
+Kontroll av råvarer,1
 Prosjektstyringsmetodikk,1
-Dataanalyseverktøy,1
-Gode norsk- og engelskkunnskaper,1
-kvalitetssikring av data,1
-Kontinuerlig forbedringsprosess (CIP),1
+Active Directory (IT-nettverk),1
+salg,1
+CAD-tegning,1
+Gode muntlig og skriftlig fremstillingsevne,1
+Fiberoptikk,1
+Embedded C,1
+Flyteknikk,1
+ABAP (Programming language),1
+Katalogisere,1
+Utarbeide kontrakt,1
+Primavera P6,1
+Flowcytometri,1
+Endringsledelse,1
+Kvalitetssertifikater,1
+Byggevarer,1
+Behandle søknader,1
+Native Apps,1
+Leting og produksjon av olje,1
+Salesforce Marketing Cloud,1
+Administrere inventar,1
+Sårstell,1
+Evne/ytelsesanalyse,1
+Kryptografi,1
+Drive hotel,1
+Administrative ferdigheter,1
+Annonsering i sosiale medier,1
+Resepsjonsarbeid på sykehus eller legekontor,1
+Dekningsmåling (Telekommunikasjon),1
+Programvarerobot,1
+Svare på RFP (Request for proposals),1
+Håndtering av varer på lageret,1
+Sensitivitetsanalyse,1
+Håndtere servicekontrakter,1
+Yocto,1
+Qualtrics,1
+Genteknologi,1
+Utforme spørreskjemaer,1
+Paid Social,1
+Erfaring med å kjøre semitrailer eller modulvogntog,1
+Automatiseringsverktøy,1
+Brukerforskning,1
+Dokumentasjonsverktøy,1
+Fysioterapitjeneste,1
+Energiteknisk rådgivning,1
+PL/SQL (Procedural Language/SQL),1
+Meteorologi,1
+Arbeidsgiveravgift,1
+Internet Protocol,1
+Rapportering og anslag,1
+Montering av elektriske systemer,1
+Sikre nøyaktigheten av aeronautiske data,1
+Diagnostisk radiologi,1
+E-handel-ledelse,1
+Adobe Illustrator,1
+Gjennomføre metallurgisk strukturell analyse,1
+Høyspenning,1
+Uføre laboratorieanalyser,1
+Industriell økonomi,1
+Privatrett,1
+Administrere personell,1
+Behov og kravsanalyse,1
+Automatisk testing,1
+Power Query,1
+Registrering av hendelser og ulykker,1
+Kardiologi,1
+Sengepostarbeid onkologi,1
+Koordinere og følge opp underentreprenører og leverandører,1
+Lede tverrfaglige team,1
+Budhåndtering,1
+Lønnsarbeid,1
+Telecommunication (IS-T),1
+Skrive og verifisere kvalitetskontrolldokumenter (prosedyrer,1
+Nettskyteknologier,1
+Kriminologi,1
+Etablere nye kundeforhold,1
+SEMrush,1
+SQLite,1
+HTML & CSS,1
+Byplanlegging generelt,1
+HMS kurs,1
+Design,1
+Velferdsteknologi,1
+Typografi,1
+Ombygging,1
+jobbpakker,1
+Skogvurdering,1
+Kjennskap til forvaltningslova,1
+Streamingteknologi,1
+Prosjektstyringsverktøy,1
+Bransjekunnskap innen teknisk byggebransje,1
+Azure Synapse,1
+GPS-mottager,1
+Utforme annonse- og markedsmateriell,1
+Byggeledelse,1
+Datasjø,1
+Utarbeide dokumentasjon,1
+Anleggsdrift,1
+Migrering av prosjektledelse,1
+AT & SJA - Arbeidstillatelse og Sikker Jobbanalyse,1
+Antivirus,1
+Saksbehandling i byggesaker,1
+Verdivurdering,1
+PLS,1
+Avkastning på investering (ROI),1
+Psykologiske helsetjenester,1
+Kjøre semi trailer,1
+Implementering og testing av interne kontrollsystemer (ICS),1
+Bioteknologi,1
+Detaljhandelsledelse,1
+Måleinstrumenter,1
+Produksjon av elektrisitet,1
+Assembly (dataprogrammering),1
+Subseakamera,1
+Rust (Programming Language),1
+Orkestrere musikk,1
+CNC,1
+Forfatte opinionstekster,1
+Implementere miljøverntiltak,1
+Organisere lager,1
+Cellekultivering,1
+Betjene løfteutstyr,1
+Grafisk design,1
+Mattilbereding,1
+Planlagt vedlikehold,1
+Transportplanlegging,1
+System on a chip,1
+Litteratursøk,1
+Oppsøkende salg,1
+Treasury/Risk Management (FI-FSCM-TRM),1
+Adobe After Effects,1
+Kvalitetsrevisjoner,1
+Offshore survey,1
+Visual Basic,1
+Overvåking av sikkerhetsutstyr og systemer,1
+Organisere delelager,1
+Sanntidssystem,1
+WEB,1
+Identifisere trusler på Internett,1
+Salgsteknikk,1
+Pengepolitikk,1
+Biomedisinsk teknikk,1
+Golang,1
+NS 8407 Alminnelige kontraktsbestemmelser for totalentrepriser,1
+Kjennskap til standarder i olje- og gassindustrien,1
+IT-operasjoner,1
+Joomla! (WCMS),1
+Kvalitetskontroll av råstoff,1
+Kunnskap innen mekanikk,1
 Koordinere prosjekter og forbedringsaktiviteter for IT - løsninger,1
-Finansiell rapportering,1
-Automatisering,1
-Kontinuerlig forbedringsarbeid,1
-Data Warehouse,1
-Likviditetsstyring,1
-SAP S/4HANA,1
-Maskinlæringsmetoder,1
+Kapitalfordeling,1
+Etterfylling,1
+Produktutvalg,1
+Product Marketing,1
+Juridisk bistand,1
+medbrakte gjenstander og bagasje,1
+Markedsføringskampanjer på e-post,1
+Forretningsstrategi,1
+Analysere trender,1
+Hjelpe til med innhold til sosiale medier,1
+Retningslinjer for prosjektstyring,1
+Avstemming,1
+operasjonelle problemer i industrielle prosesser,1
+Anbudsarbeid,1
+Security Incident and Event Managpement (SIEM),1
+Journalistikk,1
+Juridisk forskning,1
+E-handelssystemer,1
+Sosiale medier,1
+Intranett,1
+Betjene 3D-datagrafikkprogramvare,1
+Prosessforbedring,1
+Overvåke strålingsnivåer,1
+Skatt,1
+Bruke utstyr for kjemisk analyse,1
+Multi threaded programming,1
+Dyreproduksjonsvitenskap,1
+Boligforvaltning,1
+Frontend web technologies,1
+SCADA,1
+Autorisasjon som vassdragteknisk ansvarlig,1
+Forhandlinger,1
+Kontrahering av rådgivere og entreprenører,1
+Corporate Reporting,1
+Vann og miljøteknikk,1
+Turbiner,1
+Microsoft Certified Professional (MCP),1
+Utføre laste- og losseoperasjoner,1
+3D CAD,1
+miljø,1
+ISO 27001,1
+Utføre forretningsanalyse,1
+Utvikle digitale lærematerialer,1
+Utføre reparasjoner av kjøretøy,1
+Europarett,1
+TOGAF (The Open Group Architecture Framework),1
+Kjernefysikk,1
+IT - Nettverksadministrasjon,1
+Farlige avfallstyper,1
+Forfatte artikler,1
+Utvikling av markedsførings- og kommunikasjonskonsepter,1
+Bruk av Forsvarets datasystemer,1
+Anvende mattilberedningsteknikker,1
+Komponenter i elektrisk utstyr,1
+Tysk,1
+Termodynamikk,1
+Tegningsarbeid teknisk tegning,1
+Presentasjonsteknologi,1
+Kjemisk teknisk arbeid,1
+Metodevurderinger,1
+Flåtestyring,1
+Markedsføringskampanjer,1
+Medisinsk ultralyd,1
+Utarbeide prosjektdokumentasjon,1
+Ekkokardiografi,1
+Fabrikasjonsteknologi,1
+Prosjekt design innen byggingeniøranlegg,1
+Politikkstudier,1
+Grafiske kunnskaper,1
+Farmasøytisk industri,1
+Farmasi,1
+Varemottak og utsendelse,1
+Forsikringsmegler,1
+Blikkenslagerarbeid,1
+Kommersiell forhandling,1
+Canva (Software),1
+Geologi,1
+Advanced valuation,1
+Ahrefs,1
+SAP Application,1
+Lisensforskrifter,1
+Teknisk servicearbeid,1
+Massespektrometri,1
+NS 3420 Beskrivelsessystem bygg og anlegg,1
+Principal Component Analysis (PCA),1
+Arkitektonisk design,1
+Mulighetsanalyse,1
+material- og produksjonskontroll,1
+Eksport,1
+Elektriske lavspenningsinstallasjoner,1
+Bankvirksomhet,1
+Ledelse av markedføringskampanjer,1
+Bygge Recommender- systemer,1
+Håndtere finansielle transaksjoner,1
+Fylle ut skjemaer,1
+Kunnskap om landbruksnæringen,1
+Bibliotek (Programvare),1
+Aluminiumlegeringer,1
+Miljølovgivning,1
+Bred klinisk erfaring,1
+Kjemisk laboratorieteknologi,1
+Leasingprosess,1
+Betjene maskinelt produksjonsutstyr,1
+Visma Business,1
+Vitenskapelig forskningsmetodikk,1
+Fiskeoppdrett,1
+Hurtiglading,1
+Vaksinasjon,1
+Teknisk arkitektur,1
+Identity Management (IAM),1
+Offentlig økonomi,1
+Kalkulasjon,1
+Erfaring med CAD generelt eller DDS - CAD,1
+Maskinering av deler,1
+Relasjonsdatabase,1
+Statistiske analyser,1
+IT Service Management (ITSM)™,1
+Bedriftsrådgivning,1
+Spesialpedagogikk,1
+Periodisering,1
+Ansvar for HMS,1
+Laks,1
+Google-sertifiseringer,1
+Uorganisk kjemi,1
+Virtualisering,1
+Eventplanlegging,1
+Administrativ rådgivning,1
+Arkitektvirksomhet,1
+Medisinsk salgsindustri,1
+Kartlegge,1
+Adobe Photoshop,1
+Identity Governance and Administration (IGA),1
+Adobe Premiere,1
+Microsoft Dynamics 365,1
+Formell og systematisk dokumentasjon,1
+Kvartalsoppgjør,1
+SketchUp,1
+Landskapsarkitektur,1
+Granskning,1
+PLS programmering,1
+Livsforsikring og pensjon,1
+Automatisering av forretningsprosesser,1
+Prince 2 prosjektledelse metodikk,1
+Blodanalyseapparat,1
+Gjennomføre miljøundersøkelser,1
+Regnskapsvesen,1
+Utvikle designkonsept,1
+Betjene dumper,1
+Document Management Systems (DMS),1
+Bruke tall,1
+Systemanalyse,1
+HR Metrics,1
+Ta i bruk ny teknologi,1
+Power Pivot,1
+Administrasjon av kundeopplevelser,1
+Planlegge vedlikeholdsjobber,1
+Styre miljørisiko,1
+Inkasso,1
+Utarbeide produksjonsunderlag,1
+ERP-implementeringer,1
+Produktdataadministrering,1
+Analysere miljødata,1
+Oseanografi,1
+Teamlederferdigheter,1
+Teknologisk forståelse,1
+Planlegging- og realisering av byggeprosjekter,1
+Samisk,1
+Innhente tilbud,1
+Lønnskjøringssoftware,1
+Lage rekvisisjoner,1
+Medisinsk genetikk,1
+Dansk,1
+Bioinformatikk,1
+Varme og kuldeteknisk kompetanse,1
+Git (Versioning File System),1
+RNA,1
+Matfaget,1
+Familierett,1
+Innendørs miljøkvalitet,1
+Salg av komplekse løsninger (programvare),1
+Kontroll av sykepenger,1
+Brannsikkerhetsforskrifter,1
+Eiendomsjus,1
+Adobe Creative Cloud,1
+Bygge og vedlikeholde nettsider,1
+Arbeidsledelse,1
+Gjennomføre barnevernsundersøkelser,1
+Medieovervåkning,1
+Røkting,1
+Skrive tilbud,1
+Satellittbasert telekommunikasjon,1
+Forretningssans,1
+Eiendomsoverdragelse,1
+sikkerhet),1
+Overvåkning og loggverktøy,1
+2. nivå IKT-støtte,1
+Håndtering av sikkerhetssårbarhet,1
+Office 365 productivity tools,1
+Data Reporting,1
+Medisin,1
+Rengjøre utstyr,1
+Salesforce Inc.,1
+Investering og finans,1
+Splunk,1
+HMS-system (HMS: helse,1
+kunnskapsforvaltning,1
+Skrive kommentarer,1
+Publiseringssystem,1
+Industrimekanikk,1
+ETL data pipeline,1
+Microsoft Outlook,1
+Møbeltransport,1
+Forretningsstrategiplaner,1
+data og resultater fra leverandørkjeden,1
+Samfunnsmedisin,1
+Følge opp leieavtaler,1
+Hydrauliske systemer,1
+Domstolsprosedyrer,1
+Bruke helsevitenskap,1
+Telefonteknikk,1
+Kraftelektronikk,1
+Leverandørgjeld,1
+Agile Frameworks,1
+Planlegging og gjennomføring av Direct Marketing-kampanjer,1
+Autonome systemer,1
+Angular,1
+Kundebehandling,1
+Navigasjonssatellitt,1
+Testleder,1
+Mekaniske pumper,1
+Gap analysis,1
+Produsere salgsrapporter,1
+Behovsanalyse,1
+Excel og Power Point,1
+Brannslokkingsutstyr,1
+Mottak av fakturaer,1
+Bruke operativsystemer,1
+Apache Kafka,1
+Prinsipper for styring og kontroll av risiko,1
+Utlendingsforvaltningen,1
+Lage skriftlige rapporter,1
+Generelt håndverksarbeid,1
+taught by Aswath Damodaran,1
+Logistikkplanlegging og optimalisering,1
+Behandle big-data,1
+implementere optimalisering av lagerstyring,1
+Prosjektering av VA - systemer innen kommunal infrastruktur,1
+Inntekts- og utgiftskontroll,1
+Byggteknisk kompetanse,1
+Miljøkonsulent,1
+Utvikle mediestrategi,1
+FSE Lav- og Høyspenning,1
+Kalibrere laboratorieutstyr,1
+Analysere potensielle trusler mot nasjonal sikkerhet,1
+Cryptography (IT),1
+Analyse av skadevare,1
+Landskaps- og miljøplanlegging,1
+Kvalitetsdokumentasjonsstyring,1
+Feilsøking,1
+Tilbakemelding fra kunde,1
+Termodynamikk og varmeoverføring,1
+Igangkjøring,1
+Kvalitetsmålinger,1
+B2B Marketing,1
+Kjøkkenhygiene,1
+Kalkulere tilbud,1
+Gi støtte til fagsystemer,1
+Mekanisk feilsøking /vedlikehold,1
+Analyseverktøy,1
+Byggtekniske råd til kunden,1
+Rekruttering,1
+Mekaniske komponenter,1
+ADL,1
+PRINCE2,1
+Analysere transportkostnader,1
+Google Tag Manager,1
+Informasjonssystemer,1
+Oppfølging av fiskehelse og fiskevelferd,1
+Kontroller at rapportene er korrekte,1
+Investeringsutgifter,1
+Utvikling av innebygde systemer,1
+Utvikle produktstrategier,1
+STCW Grunnleggende sikkerhetskurs for sjøfolk,1
+Luftkompressor,1
+Føre oversikt over fremmøte,1
+Natural Language Processing (NLP),1
+Endpoint Detection and Response (EDR),1
+Drift og vedlikehold av elektriske høyspenningsanlegg,1
+Beredskapsplan,1
+Kontinuerlig integrasjon,1
+Globale standarder for rapportering av bærekraft,1
+Prosjektsalg,1
+Produktspesifikasjoner,1
+Rør- og instrumenteringsdiagrammer,1
+KPI-rapporter,1
+Analysere bilder,1
+Microsoft Teams,1
+DCS - systemer,1
+Finansmarkeder,1
+Produktansvar (Produktledelse),1
+Kampanjerapportering,1
+Offshore-konstruksjoner og -anlegg,1
+Microsoft,1
+Aktiv oppfølging,1
+Medisinsk utstyr,1
+Digital produktutvikling,1
+Klinisk forskning,1
+Industrirenhold,1
+NDT-testing,1
+Driver,1
+Nettverksovervåkning,1
+SysML,1
+Biltaksering,1
+Benytte maskinlæring,1
+Produkteier,1
+Språklige kommunikasjonsferdigheter,1
+Lover og forskrifter,1
+Diagnostikk,1
+Analysere prognoser,1
+Azure Data Factory,1
+Norsk forvaltningsrett,1
+DevSecOps,1
+Stakeholderengasjement,1
+Enterprise Architect (software),1
+Vareeksponering,1
+Metadata standards,1
+Prosjektgjennomføring,1
+Programmering og testing av automatiseringssystemer (automasjonsteknologi),1
+Sporing og overvåking av retursendinger,1
+Kundeforståelse,1
+Utarbeide sjekklister,1
+Økonometri,1
+Byggevare,1
+Deskriptiv statistikk,1
+Oscilloskop,1
+React Native,1
+Digital design,1
+Pumper,1
+Implementere strategisk ledelse,1
+HR prosesstyring,1
+Budsjettering,1
+Digital Asset Management (DAM),1
+Leveringsplanlegging,1
+Teknisk rådgivning,1
+Kvalitetsstandarder,1
+Produktplassering,1
+Risikobasert sikkerhetsarbeid,1
+Machine learning software,1
+Transporttjenester,1
+Instrumenteringsteknikk,1
+CAD (Computer-aided design),1
+Fluiddynamikk,1
+Regresjonsanalyse,1
+Kranteknisk kompetanse,1
+Cash/Liquidity Management,1
+Stokastisk modellering,1
+AVEVA E3D,1
+Private Equity,1
+Strategisk forretningsforståelse,1
+Modbus,1
+Flyreiser,1
+Datakommunikasjon,1
+Kryptoanalyse,1
+Fiskehelsearbeid,1
+Mediehåndtering,1
+Service-Level-Agreement (SLA) Management,1
+Lånebehandling,1
+Klinisk analyse i laboratoriet,1
+Drift og vedlikehold,1
+Pensjonssystem,1
+Genomikk,1
+Makroøkonomi,1
+lyd og videofilmproduksjon,1
+Gjennomføre jobbanalyse,1
+BIM,1
+Temperaturkontroll,1
+Induktivt koblet plasmamassespektrometri,1
+Medisinsk avbildningsteknologi,1
+Administrering av bookingsystem,1
+Shopify,1
+AutoCAD,1
+Finmekanisk arbeid - generelt,1
+Prosjektstøtte,1
+Tegning av stålkonstruksjoner,1
+Prosesskontroll,1
+Automatisert produksjon,1
+Satellittmottaksteknologi,1
+Utleie,1
+Atlassian JIRA,1
+Food and Beverage (F&B) Management,1
+Budsjettansvar,1
+Samle inn finansielle data,1
+Iverksetting av sikkerhetstiltak,1
+Plukking og pakking,1
+Finansbudsjett,1
+Back Office-oppgaver,1
+Cytologi,1
+Produkter under kontrollert temperatur,1
+Ekstruderingsprosesser,1
+Regulatory Affairs,1
+Bicep (Azure),1
+Økonomiske og administrative fag (AMO),1
+Finite Element Method (FEM),1
+Economics of regulation,1
 Analyser økonomiske data,1
-Agile Scrum,1
+Redux State Management,1
+2_ Prosjektplanlegging innen bygg og anlegg: Arkitektur og byggeteknikk,1
+Trådløst nettverk,1
+Utvikling av markedsførings- og salgskonsepter,1
+Politikk analyse,1
+Kjennskap til opplæringsloven,1
+Bygg- og anleggsplanlegging,1
+Innholdsledelse,1
+Produksjonsarbeid på linje,1
+Marinteknikk,1
+Innholds- og omfangsledelse,1
+Optimalisere salg,1
+Utføre IKT-feilsøking,1
+Wide Area Network (WAN),1
+Kjennskap til hydraulikk,1
+Lysanlegg,1
+Kontorsystem,1
+Safety Integrity Level (SIL) study,1
+Digital informasjonsinnhenting,1
+AutoCAD Fundamentals: 2D Drafting,1
+Konfidensiell datahåndtering,1
+Bruke databaser,1
+Digital markedsføring,1
+Livssyklus innen systemutvikling,1
+Planleggingsledelse,1
+Teste kjemiske prøver,1
+Explainable AI,1
+Betjene og overvåke alarmsystemer,1
+Idrettsvitenskap,1
+Varemottak,1
+Media,1
+Beslutningsstøttesystemer,1
+Bergenstesten,1
+Mikroelektronikk,1
+FELASA Kategori C,1
+Kommunikator,1
+Manøvrering av kjøretøy,1
+Forbedre datakvalitet,1
+Markedsundersøkelser,1
+Formidle analytiske innsikter,1
+Strålevern,1
+Fundraising,1
+Mobile Devices,1
+Installasjon av elektriske anlegg,1
+Sikre informasjonspersonvern,1
+Lavspenning,1
+Lese gassmåler,1
+Bygging av skip og båter,1
+Lagerbeholdning,1
+GIS Software,1
+Business Process Model and Notation (BPMN),1
+Visuell inspeksjon,1
+Risikostyringsprosesser,1
+Datasystemvalidering,1
+Lønnsadministrasjon,1
+Offisielle dokumenter,1
+Eksportforskrifter,1
+Immunhematologi,1
+ARM Cortex-M,1
+Visual Communication,1
+Kompensasjon og fordeler,1
+Virologi,1
+forretningstjenester,1
+Utføre sikkerhetsanalyse av data,1
+Mobilapplikasjon,1
+Brukeropplevelsesundersøkelse,1
+Ingeniørkunst innen bygningskonstruksjon,1
+LIDAR,1
+Betjene kontrollsystemer,1
+Klinisk pasientarbeid,1
+Business Continuity Plan,1
+Betalingssystemer,1
+Axapta,1
+Content design,1
+Lås- og sikkerhetssystemer,1
+Industriell produksjon,1
+Adobe InDesign,1
+Oppdage økonomisk kriminalitet,1
+Innhenting av brukerinnsikt,1
+Kreativitet,1
+Yield Management Systems,1
+Verdivurdere landområde eller eiendom,1
+Inspisere asfalt,1
+EDIFACT,1
+Cash Flow Analyse,1
+Bruke IKT,1
+Kapitalmarked,1
+Mikrobølgeteknikk,1
+Prosjektledelse coaching,1
+Derivat,1
+Håndtere fusjoner og oppkjøp,1
+Klargjøre kjemiske prøver,1
+Vue.js,1
+Internet-Backbone,1
+Arbeide med programmer for utarbeidelse av materiell til SoMe - annonser,1
+Rapportere nøkkeltall for kvalitet,1
+Endringsarbeid og bidra til utvikling av plansaksbehandlingen,1
+El-kraftteknologi,1
+Elektroniske systemer,1
+Kapasitetsplanlegging/prognostisering,1
+SAFRAN PROJECT,1
+ISO 31000,1
+Arrangementsledelse,1
+Nettverkstopologi,1
+Oil and Gas (IS-OIL),1
+Innholdsproduksjon,1
+Energimarkedet,1
+Folkehelse,1
+Planlegge software-testing,1
+Kredittnotaer,1
+Teoretisk fysikk,1
+Pensjon (personaladministrasjon),1
+Ledelseserfaring,1
+Business Continuity Management (BCM),1
+Agronomi,1
+Identifisere leverandører,1
+Lagring,1
+Lønnskontroll,1
+Feilsøking av PLS-systemer,1
+Truckførerkurs,1
+Prosjektrapportering,1
+Nyinstallasjon og vedlikehold på elektro,1
+Medisinsk pedagogikk,1
+Governance,1
+Manøvrere tunge lastebiler,1
+Håndtering av sikkerhetshendelser,1
+Microsoft 365 SharePoint,1
+Responsiv nettside,1
+Digitalisering av arbeidsprosesser,1
+Arbeide med kjemikalier,1
+Film,1
+Tolke loven,1
+Budsjettproposisjonene (inkludert satsningsforslag),1
+Kunnskap om verktøy og metoder for prosjektledelse,1
+Microsoft Active Directory (AD),1
+Transport og logistikk,1
+DNA-isolering,1
+Feilsøking og reparatur av automasjonsanlegg,1
+Søkeordsanalyse,1
+Overholde gårdsforskrifter,1
+Telefonsamtale,1
+Datateknologi,1
+Analysemetoder (analytisk kjemi),1
+Lean-ledelse,1
+WordPress,1
+AML Compliance,1
+Havbunnskartlegging,1
+Fylle ut skattemeldingsskjemaer,1
+Transformatorkunnskap,1
+Interativ designmetode,1
+Bildebehandling,1
+Salesforce.com (CRM),1
+Utarbeide Byggesøknader,1
+Utvikle pedagogiske ressurser,1
+Maskinlæringsmodeller,1
+Microsoft Project,1
+Management av sosiale medieplattformer,1
+Lingvistikk,1
+Analysere data om klienter,1
+Etterretning,1
+Asset Management (Finance),1
+Skatter og avgifter,1
+Agile-utvikling,1
+VMware ESX,1
+Elektriske motorer,1
+Radiografi,1
+Prosjektfinansiering,1
+Key Account Management (KAM),1
+Bruke Office-programvare,1
+Drift av elektriske systemer,1
+Utleie- og leasingvirksomhet,1
+Kalibrere og vedlikeholde måleutstyr,1
+Analysere rapporter,1
+Kjøper-markedsføring,1
+ISO 9001,1
+Frikildeetterretning,1
+Rørledning,1
+Årsrapport,1
+SQL Script,1
+Forretningsledelse,1
+Ventilasjonssystemer,1
+Kreditorgjeld og kundefordringer,1
+Clustering algorithms,1
+Finansforvaltning,1
+Utvikle automatiserte programvaretester,1
+Databanksystemforståelse,1
+Open source programvare,1
+Administrasjonsarbeid,1
+Audiometri,1
+Scala,1
+Computerized Maintenance Management System (CMMS),1
+Data struktur,1
+Kapasitetsstyring,1
+Teknologisk maskinvare og utstyr,1
+instruksjoner osv.),1
+Digitalisering av prosesser,1
+Komposittmateriale,1
+Skyarkitektur,1
+ReactJS,1
+Elektriske generatorer,1
+Regnskapsprogramvare,1
+Datamaskinestimeringsprogramvare,1
+Kassesystem,1
+Håndtere regninger,1
+Prosjektledelse IT,1
+Bestille mat og drikke,1
+Bygningsfysikk miljøkunnskap relatert til bygg,1
+Kundeservice,1
+5s-metodikk,1
+KPI-ytelse,1
+Paid Media,1
+Design computer network,1
+samle opplysninger fra fysiske eller elektroniske kilder,1
+Inntektsledelse,1
+Azure SQL-database,1
+Implementere sikkerhetsstyringssystemer,1
+Public Management,1
+Skattepolitikk,1
+Partielle differensialligninger,1
+.NET Core,1
+Betaling,1
+Skogbrukledelse,1
+Bruk av vedlikeholdssystem,1
+Kvantitativrisikoanalyse,1
+Anbudsmanagement,1
+Elektriske høyspenningsinstallasjoner,1
+Miljøingeniørfag,1
+Veitrafikklover,1
+Prosessmodellering,1
+Verkstedarbeid,1
+Hold av melkekyr,1
+Fakturasporing,1
+Oppfølging av serviceavtaler,1
+Ordrebehandling i SAP,1
+Ruter,1
+Kredittrisiko,1
+Vedlikeholde kraftverk,1
+Fiske og akvakultur,1
+.NET MAUI (Multi-Platform App UI),1
+Tilby finansielle tjenester,1
+Drone ROV,1
+Masseproduksjon,1
+Technical writing,1
+Sveisemetoder,1
+Privileged Access Management,1
+Gjennomføre workshops,1
+MQTT,1
+Vegfaglig kompetanse,1
+risk og compliance,1
+Prometheus,1
+Oppdatere dokumenter,1
+Betjene pumpesystemer,1
+Utføre sensorisk evaluering,1
+B2B ledelse,1
+Gjennomføre anbud,1
+Sikkerhetskontroll av personer,1
+Hydrodynamikk,1
+SAP ERP Central Component (ECC),1
+Analytisk statistikk,1
+Service minded,1
+Regnskapsansvar,1
+Digital historiefortelling,1
+Dimensjonering av stålkonstruksjoner,1
+Prosjektkalkulasjon,1
+Kalibrering,1
+Forretningsmodell,1
+Brannmur (datateknikk),1
+Bilteknikk,1
+Verifisere dokumenter,1
+Webdesign,1
+Kapitalvarer,1
+Drift og vedlikehold av tekniske anlegg,1
+Varmeanlegg,1
+Molekylær diagnose,1
+Metallografi,1
+Helsevitenskap,1
+Offentlig forvaltning,1
+Skogbruk,1
+måling av fysiske egenskaper,1
+Løfte tungt,1
+Elektrisk installasjonsarbeid,1
+Google Sheets,1
+Lover og forskrifter om helse og sikkerhet på arbeidsplassen,1
+Analyse av radioaktive legemidler,1
+Vedlikehold av industrimaskiner,1
+Bilforretning,1
+Plan- og reguleringsloven (Byplanlegging),1
+Saksbehandling,1
+Byggautomasjon,1
+Wireframing,1
+Gårdsarbeid,1
+ledelse,1
+Effektiviseringsverktøy,1
+Ledelse av arbeidsprosesser,1
+Porteføljeforvaltning (finans),1
+Automasjon fra industri,1
+Kreft,1
+EU-kontroll,1
+Innkjøp,1
+Administrativ prosessstyring,1
+Geografi,1
+FSE - Førstehjelpskurs,1
+Intervju ferdigheter,1
+Digitale flater,1
+Fluidmekanikk,1
+Anvendt økonomi,1
+SolidWorks (CAD),1
+Arbeidsdag,1
+IKT-systemintegrering,1
+Løse praktiske,1
