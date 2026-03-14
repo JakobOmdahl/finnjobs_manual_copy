@@ -52,6 +52,7 @@ for file_name in file_names:
 
 df.drop_duplicates(subset="Finn_code", keep="first", inplace=True)
 
+df.head()
 
 skills = []
 for row in df["Skills"]:
@@ -85,7 +86,7 @@ skill_node = pd.DataFrame(list(skill_count.items()), columns=["Skill", "Count"])
 skill_node.sort_values(by="Count", ascending=False, inplace=True)
 
 skill_node = drop_na(skill_node, "Skill")
-
+skill_node.head()
 
 listing = pd.DataFrame(df[["Finn_code", "Industry"]].drop_duplicates())
 listing["Industry"] = listing["Industry"].apply(lambda x: x.split(",")[0])
@@ -97,19 +98,56 @@ listing = drop_na(listing, "Industry")
 edges_between_listing_skill = []
 for index, row in df.iterrows():
     finn_code = row["Finn_code"]
+    industry = row["Industry"].split(",")[0]
     skills = row["Skills"].split(",")
     for skill in skills:
-        edges_between_listing_skill.append((finn_code, skill))
+        edges_between_listing_skill.append((finn_code, skill, industry))
 
 edges_between_listing_skill = pd.DataFrame(
-    edges_between_listing_skill, columns=["Finn_code", "Skill"]
+    edges_between_listing_skill, columns=["Finn_code", "Skill", "Industry"]
 )
 
 edges_between_listing_skill = drop_na(edges_between_listing_skill, "Skill")
 edges_between_listing_skill.drop_duplicates(inplace=True)
 
 
-edges_between_listing_skill.to_csv("edges.csv", index=False, encoding="utf-8-sig")
-listing.to_csv("listings.csv", index=False, encoding="utf-8-sig")
-df.to_csv("rawdata.csv", index=False, encoding="utf-8-sig")
-skill_node.to_csv("finn_skill_nodes.csv", index=False, encoding="utf-8-sig")
+nodes_original_plan = pd.DataFrame(
+    columns=["Id", "Label", "Node_Type", "Search_Word", "Skill_Weight"]
+)
+
+job_ad_type = "Job Ad"
+skill_type = "Skill"
+jobs = pd.DataFrame(columns=["Id", "Label", "Node_Type", "Search_Word", "Skill_Weight"])
+jobs["Id"] = df["Finn_code"]
+jobs["Label"] = df["file"]
+jobs["Node_Type"] = job_ad_type
+jobs["Skill_Weight"] = 0
+
+skill_list = pd.DataFrame(
+    columns=["Id", "Label", "Node_Type", "Search_Word", "Skill_Weight"]
+)
+skill_list["Id"] = skill_node["Skill"]
+skill_list["Label"] = skill_node["Skill"]
+skill_list["Node_Type"] = skill_type
+skill_list["Search_Word"] = ""
+skill_list["Skill_Weight"] = skill_node["Count"]
+skill_list.reset_index(drop=True, inplace=True)
+
+
+nodes_original_plan = pd.concat([jobs, skill_list], ignore_index=True)
+
+nodes_original_plan.to_csv(
+    "data_nodes_original_plan.csv", index=False, encoding="utf-8-sig"
+)
+
+edges_original_plan = pd.DataFrame(columns=["Source", "Target", "Type", "Industry"])
+type_ = "Undirected"
+
+edges_original_plan["Source"] = edges_between_listing_skill["Finn_code"]
+edges_original_plan["Target"] = edges_between_listing_skill["Skill"]
+edges_original_plan["Type"] = type_
+edges_original_plan["Industry"] = edges_between_listing_skill["Industry"]
+
+edges_original_plan.to_csv(
+    "data_edges_original_plan.csv", index=False, encoding="utf-8-sig"
+)
