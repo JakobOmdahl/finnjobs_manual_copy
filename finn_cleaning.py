@@ -87,6 +87,10 @@ skill_node.sort_values(by="Count", ascending=False, inplace=True)
 skill_node = drop_na(skill_node, "Skill")
 skill_node.head()
 
+bad_skills = skill_node[skill_node["Count"] == 1]
+bad_skills = set(bad_skills["Skill"])
+bad_skills
+
 listing = pd.DataFrame(df[["Finn_code", "Industry"]].drop_duplicates())
 listing["Industry"] = listing["Industry"].apply(lambda x: x.split(",")[0])
 
@@ -106,7 +110,6 @@ edges_between_listing_skill = pd.DataFrame(
     edges_between_listing_skill, columns=["Finn_code", "Skill", "Industry"]
 )
 
-edges_between_listing_skill
 
 edges_between_listing_skill = drop_na(edges_between_listing_skill, "Skill")
 edges_between_listing_skill.drop_duplicates(inplace=True)
@@ -138,6 +141,8 @@ skill_list.reset_index(drop=True, inplace=True)
 
 nodes_original_plan = pd.concat([jobs, skill_list], ignore_index=True)
 
+nodes_original_plan = nodes_original_plan[~nodes_original_plan.Id.isin(bad_skills)]
+
 nodes_original_plan.to_csv(
     "data_nodes_original_plan.csv", index=False, encoding="utf-8-sig"
 )
@@ -149,6 +154,8 @@ edges_original_plan["Source"] = edges_between_listing_skill["Finn_code"]
 edges_original_plan["Target"] = edges_between_listing_skill["Skill"]
 edges_original_plan["Type"] = type_
 edges_original_plan["Industry"] = edges_between_listing_skill["Industry"]
+
+edges_original_plan = edges_original_plan[~edges_original_plan.Target.isin(bad_skills)]
 
 edges_original_plan.to_csv(
     "data_edges_original_plan.csv", index=False, encoding="utf-8-sig"

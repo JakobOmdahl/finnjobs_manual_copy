@@ -1,5 +1,4 @@
 ﻿Source,Target,Type,Industry
-455183416,Analyser økonomiske data,Undirected,Olje og gass
 455183416, Automatisering,Undirected,Olje og gass
 455183416, Budsjettarbeid,Undirected,Olje og gass
 455183416, Controlling,Undirected,Olje og gass
@@ -17,7 +16,6 @@
 454757099, Prognoser,Undirected,Olje og gass
 454757099, Rapportering,Undirected,Olje og gass
 454757099, SAP S/4HANA,Undirected,Olje og gass
-453920727,Agile Scrum,Undirected,IT
 453920727, Databanksystemforståelse,Undirected,IT
 453920727, IT Infrastructure Library (ITIL),Undirected,IT
 453920727, Prince 2 prosjektledelse metodikk,Undirected,IT
@@ -35,7 +33,6 @@
 453620912, Python (dataprogrammering),Undirected,Bank
 453620912, SQL,Undirected,Bank
 453620912, Statistisk modellering,Undirected,Bank
-453567955,Corporate Finance,Undirected,Bank
 453567955, Finansanalyse,Undirected,Bank
 453567955, Mergers & Acquisitions (M&A),Undirected,Bank
 453567955, Modellering (økonomi),Undirected,Bank
@@ -49,12 +46,10 @@
 453560423, Norsk,Undirected,Bank
 453560423, Prognoser,Undirected,Bank
 453560423, Rapportering,Undirected,Bank
-453452310,Due Diligence,Undirected,Konsulent og rådgivning
 453452310, Forretningsstrategiplaner,Undirected,Konsulent og rådgivning
 453452310, Håndtere fusjoner og oppkjøp,Undirected,Konsulent og rådgivning
 453452310, Markedsanalyse,Undirected,Konsulent og rådgivning
 453452310, Prosjekteringsledelse,Undirected,Konsulent og rådgivning
-453411049,Behov og kravsanalyse,Undirected,Bank
 453411049, Planlegge software-testing,Undirected,Bank
 453411049, Prosjekteringsledelse,Undirected,Bank
 452679938,Amazon Web Services (AWS),Undirected,Bank
@@ -91,7 +86,6 @@
 455227905,Informatikk,Undirected,Forskning
 455227905, Programmeringsspråk,Undirected,Forskning
 455227905, Software Engineering,Undirected,Forskning
-455111046,Git (Versioning File System),Undirected,Fiskeri og oppdrett
 455111046, Linux,Undirected,Fiskeri og oppdrett
 455111046, Python (dataprogrammering),Undirected,Fiskeri og oppdrett
 455111046, Utvikle brukergrensesnitt,Undirected,Fiskeri og oppdrett
@@ -106,7 +100,6 @@
 455061915,Moderne software-utvikling,Undirected,Forskning
 455061915, Programmeringsspråk,Undirected,Forskning
 455061915, Software Engineering,Undirected,Forskning
-454996213,Analyse,Undirected,IT
 454996213, CTI,Undirected,IT
 454996213, Dataanalyseverktøy,Undirected,IT
 454996213, Etterforskning av elektroniske spor,Undirected,IT
@@ -121,7 +114,6 @@
 455033257, Scala,Undirected,Konsulent og rådgivning
 455033257, Snowflake,Undirected,Konsulent og rådgivning
 455033257, SQL,Undirected,Konsulent og rådgivning
-454947877,Analyse av stordata,Undirected,Bank
 454947877, Dataanalyseverktøy,Undirected,Bank
 454947877, Etterforsking,Undirected,Bank
 454947877, Frikildeetterretning,Undirected,Bank
@@ -142,7 +134,6 @@
 454733741, Python (dataprogrammering),Undirected,IT
 454733741, SQL,Undirected,IT
 454733741, Statistikk,Undirected,IT
-454561504,Bygge Recommender- systemer,Undirected,Internettbaserte tjenester
 454561504, CI/CD (Continuous Integration and Continuous Delivery),Undirected,Internettbaserte tjenester
 454561504, Datavitenskap,Undirected,Internettbaserte tjenester
 454561504, Development of data pipelines,Undirected,Internettbaserte tjenester
@@ -238,7 +229,6 @@
 453440546, Maskinlæring,Undirected,Bank
 453440546, Moderne software-utvikling,Undirected,Bank
 453440546, Python (dataprogrammering),Undirected,Bank
-453434829,Bruk av Agile-metodikk,Undirected,IT
 453434829, Java (Programmeringsspråk),Undirected,IT
 453434829, Kotlin,Undirected,IT
 453434829, Moderne software-utvikling,Undirected,IT
@@ -256,7 +246,6 @@
 453421623, R,Undirected,IT
 453421623, Snowflake,Undirected,IT
 453421623, Tableau,Undirected,IT
-453006556,Azure Data Factory,Undirected,IT
 453006556, Azure SQL-database,Undirected,IT
 453006556, Azure Synapse,Undirected,IT
 453006556, Datastyring,Undirected,IT
@@ -266,7 +255,6 @@
 453006556, SQL,Undirected,IT
 453082134,Digitale ferdigheter,Undirected,Forskning
 453082134, Microsoft Office,Undirected,Forskning
-452937651,Embedded Systems,Undirected,Forskning
 452937651, Field Programmable Gate Array (FPGA),Undirected,Forskning
 452937651, Informasjonssikkerhet,Undirected,Forskning
 452937651, Kryptoanalyse,Undirected,Forskning
@@ -280,7 +268,6 @@
 452822200, Data Engineering,Undirected,Forsvar og militær
 452822200, Java (Programmeringsspråk),Undirected,Forsvar og militær
 452822200, Python (dataprogrammering),Undirected,Forsvar og militær
-452818898,Benytte maskinlæring,Undirected,Maritim og offshore
 452818898, Datavitenskap,Undirected,Maritim og offshore
 452818898, Ingeniørarbeid,Undirected,Maritim og offshore
 452818898, Ingeniørkunst,Undirected,Maritim og offshore
@@ -300,27 +287,23 @@
 452809786, Informatikk,Undirected,n vi opererer i endres raskere enn noen gang
 452809786, Kunstig intelligens,Undirected,n vi opererer i endres raskere enn noen gang
 452809786, Moderne software-utvikling,Undirected,n vi opererer i endres raskere enn noen gang
-452796363,ADL,Undirected,Forsvar og militær
 452796363, Arkitektonisk design,Undirected,Forsvar og militær
 452796363, Digitalisering,Undirected,Forsvar og militær
 452796363, Forretningsarkitektur,Undirected,Forsvar og militær
 452796363, Kunnskap om teknologi,Undirected,Forsvar og militær
 452796363, Sikkerhetsklarering,Undirected,Forsvar og militær
 452796363, Sikre interoperabilitet,Undirected,Forsvar og militær
-452693254,ARM Cortex-M,Undirected,Elektronikk
 452693254, Assembly (dataprogrammering),Undirected,Elektronikk
 452693254, Embedded C,Undirected,Elektronikk
 452693254, Jenkins (Software),Undirected,Elektronikk
 452693254, Kontinuerlig integrasjon,Undirected,Elektronikk
 452693254, Linux,Undirected,Elektronikk
 452693254, Python (dataprogrammering),Undirected,Elektronikk
-452656412,.NET Framework,Undirected,Butikk og varehandel
 452656412, Analysere data,Undirected,Butikk og varehandel
 452656412, Azure AD,Undirected,Butikk og varehandel
 452656412, C# (Programmeringsspråk),Undirected,Butikk og varehandel
 452656412, Java (Programmeringsspråk),Undirected,Butikk og varehandel
 452656412, Kunstig intelligens,Undirected,Butikk og varehandel
-452642509,Arbeidsdag,Undirected,Bank
 452642509, Dataanalyse og rapportering,Undirected,Bank
 452642509, Datastyring,Undirected,Bank
 452642509, kvalitetssikring av data,Undirected,Bank
@@ -341,7 +324,6 @@
 452598170, Ingeniørkunst,Undirected,Olje og gass
 452598170, Kjemiteknikk,Undirected,Olje og gass
 452598170, Petroleumsteknologi,Undirected,Olje og gass
-452530753,.NET Core,Undirected,Bank
 452530753, Amazon Web Services (AWS),Undirected,Bank
 452530753, Angular,Undirected,Bank
 452530753, Generative artificial intelligence,Undirected,Bank
@@ -383,7 +365,6 @@
 451602665, Kontinuerlig forbedringsprosess (CIP),Undirected,Annet
 451602665, Prosjekteringsledelse,Undirected,Annet
 451602665, Support / brukerstøtte,Undirected,Annet
-451620651,Analysere forretningsprosesser,Undirected,Helse og omsorg
 451620651, Automasjon,Undirected,Helse og omsorg
 451620651, Process documentation,Undirected,Helse og omsorg
 451620651, Prosessanalyse,Undirected,Helse og omsorg
@@ -394,7 +375,6 @@
 451611537, Kunnskap om teknologi,Undirected,IT - maskinvare
 451611537, Radiofrekvensteknikk,Undirected,IT - maskinvare
 451611537, Signalbehandling,Undirected,IT - maskinvare
-450430257,A/B-Test,Undirected,Annet
 450430257, Analysere data om klienter,Undirected,Annet
 450430257, Datadrevet markedsføring,Undirected,Annet
 450430257, General Data Protection Regulation (GDPR),Undirected,Annet
@@ -438,7 +418,6 @@
 455205741, Microsoft,Undirected,Bygg og anlegg
 455205741, Microsoft Excel,Undirected,Bygg og anlegg
 455205741, Opprette innkjøpsordre,Undirected,Bygg og anlegg
-454941356,Autonome systemer,Undirected,Industri og produksjon
 454941356, Digitalisering av prosesser,Undirected,Industri og produksjon
 454941356, Kommunikator,Undirected,Industri og produksjon
 454941356, Kundedialog,Undirected,Industri og produksjon
@@ -481,7 +460,6 @@
 453408385, Internprising,Undirected,Kraft og energi
 453408385, Konsolidert finansregnskap,Undirected,Kraft og energi
 453408385, Regnskap og bokføring,Undirected,Kraft og energi
-452394981,Bannerannonsering,Undirected,Annet
 452394981, Bruke verktøy,Undirected,Annet
 452394981, Content design,Undirected,Annet
 452394981, Figma,Undirected,Annet
@@ -519,7 +497,6 @@
 455087448, Kunstig intelligens,Undirected,IT
 455087448, Risikovurdering,Undirected,IT
 455087448, Store språkmodeller,Undirected,IT
-455082574,B2B - erfaring,Undirected,Annet
 455082574, Kundeportefølje,Undirected,Annet
 455082574, Salgsprosess,Undirected,Annet
 454942526,Maskinlæring,Undirected,IT
@@ -531,7 +508,6 @@
 454939246, Kunstig intelligens,Undirected,IT
 454939246, Kvalitetssikring,Undirected,IT
 454939246, ServiceNow,Undirected,IT
-454882043,Industriell økonomi,Undirected,IT - programvare
 454882043, Kjennskap til skyplattformer,Undirected,IT - programvare
 454882043, Kunstig intelligens,Undirected,IT - programvare
 454882043, Moderne software-utvikling,Undirected,IT - programvare
@@ -553,19 +529,16 @@
 454777694, Customer Relationship Management (CRM),Undirected,Butikk og varehandel
 454777694, Digital Commerce,Undirected,Butikk og varehandel
 454777694, Optimalisere salg,Undirected,Butikk og varehandel
-454753202,Design computer network,Undirected,Industri og produksjon
 454753202, Installasjon,Undirected,Industri og produksjon
 454753202, Intranett,Undirected,Industri og produksjon
 454753202, Nettverksinfrastruktur,Undirected,Industri og produksjon
 454753202, SOP,Undirected,Industri og produksjon
 454753202, Wide Area Network (WAN),Undirected,Industri og produksjon
-454752898,Aktiv oppfølging,Undirected,Industri og produksjon
 454752898, Dokumentasjon,Undirected,Industri og produksjon
 454752898, Høyspenning,Undirected,Industri og produksjon
 454752898, Igangkjøring,Undirected,Industri og produksjon
 454752898, Lavspenning,Undirected,Industri og produksjon
 454752898, Montering av elektriske systemer,Undirected,Industri og produksjon
-454752652,Byggeledelse,Undirected,Industri og produksjon
 454752652, Document Management Systems (DMS),Undirected,Industri og produksjon
 454752652, Erfaring fra store byggeprosjekter,Undirected,Industri og produksjon
 454752652, Ingeniørarbeid,Undirected,Industri og produksjon
@@ -578,7 +551,6 @@
 454734559, Følge opp kundefordringer,Undirected,Bank
 454734559, Saksbehandle søknader,Undirected,Bank
 454734559, Utvikling av digitale verktøy,Undirected,Bank
-454731329,Agile Frameworks,Undirected,IT
 454731329, Bruker-orientert design,Undirected,IT
 454731329, Kjennskap til skyplattformer,Undirected,IT
 454731329, kunnskap om produktledelse,Undirected,IT
@@ -593,13 +565,11 @@
 454628298, Kjennskap til skyplattformer,Undirected,Medie- og innholdsproduksjon
 454628298, Kunstig intelligens,Undirected,Medie- og innholdsproduksjon
 454628298, Orkestrere musikk,Undirected,Medie- og innholdsproduksjon
-454598857,Analysere kontrakter,Undirected,Juridiske tjenester
 454598857, Automatisering,Undirected,Juridiske tjenester
 454598857, Digitale ferdigheter,Undirected,Juridiske tjenester
 454598857, Juridisk forskning,Undirected,Juridiske tjenester
 454598857, Kontraktsrett,Undirected,Juridiske tjenester
 454598857, Utarbeide kontrakt,Undirected,Juridiske tjenester
-454570064,Arbeid med nyhetsbrev,Undirected,Markedsføring og annonsering
 454570064, Datadrevet markedsføring,Undirected,Markedsføring og annonsering
 454570064, Google Analytics,Undirected,Markedsføring og annonsering
 454570064, Salesforce Marketing Cloud,Undirected,Markedsføring og annonsering
@@ -607,7 +577,6 @@
 454570064, Segmentere,Undirected,Markedsføring og annonsering
 454570064, Social Media,Undirected,Markedsføring og annonsering
 454570064, Søkemotoroptimalisering,Undirected,Markedsføring og annonsering
-454565056,Adgangskontroll,Undirected,IT
 454565056, Bedriftsrådgivning,Undirected,IT
 454565056, Dataintegrasjonsprosesser,Undirected,IT
 454565056, Felling,Undirected,IT
@@ -631,7 +600,6 @@
 454070518, Optimalisering av konvertering,Undirected,Internettbaserte tjenester
 454070518, Produsere innhold,Undirected,Internettbaserte tjenester
 454070518, Social Media,Undirected,Internettbaserte tjenester
-454041636,Adobe (Software),Undirected,Konsulent og rådgivning
 454041636, Adobe After Effects,Undirected,Konsulent og rådgivning
 454041636, Canva (Software),Undirected,Konsulent og rådgivning
 454041636, Figma,Undirected,Konsulent og rådgivning
@@ -645,8 +613,6 @@
 454032597, Optimalisering av kostnader,Undirected,Internettbaserte tjenester
 454032597, Risikoanalyse,Undirected,Internettbaserte tjenester
 454032597, Sikkerhetsadministrasjon,Undirected,Internettbaserte tjenester
-454031044,Utvikle APIs,Undirected,Industri og produksjon
-454027822,ABAP (Programming language),Undirected,IT
 454027822, C# (Programmeringsspråk),Undirected,IT
 454027822, EDIFACT,Undirected,IT
 454027822, Java (Programmeringsspråk),Undirected,IT
@@ -698,7 +664,6 @@
 453430508, kvalitetssikring av data,Undirected,IT
 453430508, Organisere data,Undirected,IT
 453430508, Systemoptimering,Undirected,IT
-453421465,.NET MAUI (Multi-Platform App UI),Undirected,Butikk og varehandel
 453421465, Informatikk,Undirected,Butikk og varehandel
 453421465, Ingeniørarbeid,Undirected,Butikk og varehandel
 453421465, Kunstig intelligens,Undirected,Butikk og varehandel
@@ -710,7 +675,6 @@
 453420208, Kunstig intelligens,Undirected,Butikk og varehandel
 453420208, Standardisere prosesser,Undirected,Butikk og varehandel
 453420208, Strategisk systemutvikling,Undirected,Butikk og varehandel
-452960053,Ahrefs,Undirected,Bank
 452960053, Automatisering,Undirected,Bank
 452960053, Google Adwords,Undirected,Bank
 452960053, Kunstig intelligens,Undirected,Bank
@@ -720,12 +684,9 @@
 452960053, SEMrush,Undirected,Bank
 452959037,C# (Programmeringsspråk),Undirected,IT
 452959037, Java (Programmeringsspråk),Undirected,IT
-452957971,Salgserfaring,Undirected,Annet
-452938445,Engelsk,Undirected,Annet
 452938445, Norsk,Undirected,Annet
 452822913,Dataarkitektur,Undirected,Bank
 452822913, General Data Protection Regulation (GDPR),Undirected,Bank
-452806157,API - integrasjoner,Undirected,Bank
 452806157, Data Engineering,Undirected,Bank
 452806157, Development of data pipelines,Undirected,Bank
 452806157, K8s,Undirected,Bank
@@ -737,11 +698,9 @@
 452800969, Kunstig intelligens,Undirected,Eiendom
 452800969, Markedsstrategi,Undirected,Eiendom
 452800969, Produsere innhold,Undirected,Eiendom
-452776053,Innholdsproduksjon,Undirected,Event og arrangementer
 452776053, Product Marketing,Undirected,Event og arrangementer
 452776053, Programvare som tjeneste,Undirected,Event og arrangementer
 452776053, Prosjekteringsledelse,Undirected,Event og arrangementer
-452768038,Analysere bilder,Undirected,Helse og omsorg
 452768038, Bergenstesten,Undirected,Helse og omsorg
 452768038, Bioingeniørfaglig kompetanse,Undirected,Helse og omsorg
 452768038, Biologi,Undirected,Helse og omsorg
@@ -758,13 +717,11 @@
 452630899, IFS ERP,Undirected,Industri og produksjon
 452630899, Kunstig intelligens,Undirected,Industri og produksjon
 452630899, Prosessoptimalisering (produksjonsprosesser),Undirected,Industri og produksjon
-451575167,Innholdsmarkedsføring,Undirected,Markedsføring og annonsering
 451575167, Kreativitet,Undirected,Markedsføring og annonsering
 451575167, Matfaget,Undirected,Markedsføring og annonsering
 451575167, Prosjektledelse,Undirected,Markedsføring og annonsering
 451575167, Sosiale medier,Undirected,Markedsføring og annonsering
 451575167, Teknologisk forståelse,Undirected,Markedsføring og annonsering
-452529180,Objektorientert programmering,Undirected,Drift og vedlikeholdstjenester
 452486673,Datadrevet markedsføring,Undirected,Internettbaserte tjenester
 452486673, Digital annonsering,Undirected,Internettbaserte tjenester
 452486673, Google Adwords,Undirected,Internettbaserte tjenester
@@ -792,7 +749,6 @@
 452356157, Datasenter,Undirected,IT
 452356157, Due Diligence analyse,Undirected,IT
 452356157, Go-to-market strategi,Undirected,IT
-451915731,Axapta,Undirected,innsikt og lokal ekspertise.
 451915731, Controlling,Undirected,innsikt og lokal ekspertise.
 451915731, ERP-systemer,Undirected,innsikt og lokal ekspertise.
 451915731, IFS ERP,Undirected,innsikt og lokal ekspertise.
@@ -811,13 +767,11 @@
 451795717, Flåtestyring,Undirected,IT - programvare
 451795717, Regulatory compliance,Undirected,IT - programvare
 451795717, Tolke data,Undirected,IT - programvare
-451646040,Annonsering i sosiale medier,Undirected,Butikk og varehandel
 451646040, Datadrevet markedsføring,Undirected,Butikk og varehandel
 451646040, Digital annonsering,Undirected,Butikk og varehandel
 451646040, Google Analytics,Undirected,Butikk og varehandel
 451646040, Performance marketing,Undirected,Butikk og varehandel
 451646040, Resultatanalyse,Undirected,Butikk og varehandel
-451639945,Digital informasjonsinnhenting,Undirected,Forskning
 451639945, Explainable AI,Undirected,Forskning
 451639945, Forskning,Undirected,Forskning
 451639945, Informatikk,Undirected,Forskning
@@ -875,7 +829,6 @@
 450641304, Dataintegrasjonsprosesser,Undirected,IT
 450641304, DevOps,Undirected,IT
 450641304, Python (dataprogrammering),Undirected,IT
-450464980,Apache Kafka,Undirected,IT
 450464980, Apache Spark,Undirected,IT
 450464980, Azure AD,Undirected,IT
 450464980, Data Engineering,Undirected,IT
@@ -883,7 +836,6 @@
 450464980, NoSQL,Undirected,IT
 450464980, SQL,Undirected,IT
 450464980, Streamingteknologi,Undirected,IT
-450307684,Administrere ressurser,Undirected,Internettbaserte tjenester
 450307684, Digitalisering,Undirected,Internettbaserte tjenester
 450307684, ICT Security,Undirected,Internettbaserte tjenester
 450307684, IKT-støtte,Undirected,Internettbaserte tjenester
@@ -901,12 +853,10 @@
 449628522, Prosjektleveranse,Undirected,IT - programvare
 449628522, Risikovurdering (forsikring),Undirected,IT - programvare
 449628522, Strategirådgivning,Undirected,IT - programvare
-449697339,Byggeteknikk,Undirected,IT
 449697339, Ingeniørkunst,Undirected,IT
 449697339, Innholds- og omfangsledelse,Undirected,IT
 449697339, Support / brukerstøtte,Undirected,IT
 449697339, Teknisk dokumentasjon,Undirected,IT
-417771566,Bransjekunnskap innen varme,Undirected,kunnskap innen varme
 417771566, ventilasjon,Undirected,kunnskap innen varme
 417771566, air condition og byggteknologi,Undirected,kunnskap innen varme
 417771566, Kuldeteknikk,Undirected,kunnskap innen varme
@@ -916,7 +866,6 @@
 417771566, Reparasjon,Undirected,kunnskap innen varme
 417771566, Systemoptimering,Undirected,kunnskap innen varme
 417771566, Vedlikehold av industrimaskiner,Undirected,kunnskap innen varme
-394519972,Elektriske høyspenningsinstallasjoner,Undirected,Drift og vedlikeholdstjenester
 394519972, Elektroindustri (bransje),Undirected,Drift og vedlikeholdstjenester
 394519972, Forskrifter,Undirected,Drift og vedlikeholdstjenester
 394519972, FSE Lav- og Høyspenning,Undirected,Drift og vedlikeholdstjenester
@@ -930,7 +879,6 @@
 449325828, Internprising,Undirected,Helse og omsorg
 449325828, Konsolidert finansregnskap,Undirected,Helse og omsorg
 449325828, Rapportering,Undirected,Helse og omsorg
-442174135,E-Commerce og Digital Markedsføring,Undirected,Internettbaserte tjenester
 454089141,Brukbarhetstesting,Undirected,HR
 454089141, Brukerforskning,Undirected,HR
 454089141, Brukeropplevelse,Undirected,HR
@@ -943,7 +891,6 @@
 454070770, Miljøkonsekvensanalyse,Undirected,Kraft og energi
 454070770, Norsk,Undirected,Kraft og energi
 454070770, Prosessteknikk,Undirected,Kraft og energi
-453727614,Active Directory (IT-nettverk),Undirected,Farmasi og legemiddel
 453727614, Disaster Recovery (IKT),Undirected,Farmasi og legemiddel
 453727614, IT Infrastructure Management,Undirected,Farmasi og legemiddel
 453727614, Microsoft Active Directory (AD),Undirected,Farmasi og legemiddel
@@ -952,7 +899,6 @@
 453727614, Tidsplanlegging,Undirected,Farmasi og legemiddel
 453727614, prosjekt,Undirected,Farmasi og legemiddel
 453727614, VMware ESX,Undirected,Farmasi og legemiddel
-452975697,Atlassian JIRA,Undirected,Bank
 452975697, Kjennskap til skyplattformer,Undirected,Bank
 452975697, Kunnskap om relevante lover og forskrifter,Undirected,Bank
 452975697, Produkteier,Undirected,Bank
@@ -988,7 +934,6 @@
 449813164, K8s,Undirected,Helse og omsorg
 449813164, PostgreSQL,Undirected,Helse og omsorg
 449813164, React.js,Undirected,Helse og omsorg
-454947461,Microsoft 365,Undirected,Kraft og energi
 454947461, Microsoft 365 SharePoint,Undirected,Kraft og energi
 454947461, Microsoft Teams,Undirected,Kraft og energi
 454947461, Microsoft Windows,Undirected,Kraft og energi
@@ -1017,7 +962,6 @@
 454064299, MATLAB,Undirected,IT
 454064299, Python (dataprogrammering),Undirected,IT
 454064299, Robotikk,Undirected,IT
-453902603,Digital markedsføring,Undirected,Farmasi og legemiddel
 452949527,Cybersikkerhet,Undirected,Forsvar og militær
 452949527, Disaster Recovery (IKT),Undirected,Forsvar og militær
 452949527, IKT-infrastruktur,Undirected,Forsvar og militær
@@ -1025,7 +969,6 @@
 452949527, IT-operasjoner,Undirected,Forsvar og militær
 452949527, Systemadministrasjon,Undirected,Forsvar og militær
 452949527, User support,Undirected,Forsvar og militær
-452838356,Dyreproduksjonsvitenskap,Undirected,Forskning
 452838356, Hold av melkekyr,Undirected,Forskning
 452838356, Modellering og simulering,Undirected,Forskning
 452838356, Statistiske- og dataanalysemetoder,Undirected,Forskning
@@ -1093,7 +1036,6 @@
 449643177, R,Undirected,Forskning
 449643177, Veterinærmedisin,Undirected,Forskning
 449643177, Virologi,Undirected,Forskning
-449510201,Dansk,Undirected,Matvareproduksjon og -industri
 449510201, Ingeniørarbeid,Undirected,Matvareproduksjon og -industri
 449510201, Kvalitetsprosess,Undirected,Matvareproduksjon og -industri
 453720277,Analysere data,Undirected,Fiskeri og oppdrett
@@ -1104,7 +1046,6 @@
 453720277, Rapporteringsverktøy,Undirected,Fiskeri og oppdrett
 453720277, SQL,Undirected,Fiskeri og oppdrett
 453720277, Visma Business,Undirected,Fiskeri og oppdrett
-450440174,Administrative ferdigheter,Undirected,Ideelle organisasjoner
 450440174, Analysere data,Undirected,Ideelle organisasjoner
 450440174, Budsjettarbeid,Undirected,Ideelle organisasjoner
 450440174, Forretningsutvikling,Undirected,Ideelle organisasjoner

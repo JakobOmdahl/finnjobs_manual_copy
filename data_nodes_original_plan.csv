@@ -249,553 +249,185 @@ Analysere data,Analysere data,Skill,,31
 Kunstig intelligens,Kunstig intelligens,Skill,,26
 SQL,SQL,Skill,,24
 Maskinlæring,Maskinlæring,Skill,,17
-Automatisering,Automatisering,Skill,,14
 Ingeniørarbeid,Ingeniørarbeid,Skill,,14
+Automatisering,Automatisering,Skill,,14
 CI/CD (Continuous Integration and Continuous Delivery),CI/CD (Continuous Integration and Continuous Delivery),Skill,,12
 Azure AD,Azure AD,Skill,,11
-Datavitenskap,Datavitenskap,Skill,,10
 Informatikk,Informatikk,Skill,,10
+Datavitenskap,Datavitenskap,Skill,,10
 Rapportering,Rapportering,Skill,,9
-Prosjekteringsledelse,Prosjekteringsledelse,Skill,,8
-Moderne software-utvikling,Moderne software-utvikling,Skill,,8
 kvalitetssikring av data,kvalitetssikring av data,Skill,,8
-Norsk,Norsk,Skill,,8
+Prosjekteringsledelse,Prosjekteringsledelse,Skill,,8
+Power BI,Power BI,Skill,,8
 C# (Programmeringsspråk),C# (Programmeringsspråk),Skill,,8
 Microsoft Excel,Microsoft Excel,Skill,,8
-Power BI,Power BI,Skill,,8
-Digitalisering,Digitalisering,Skill,,7
-MLOps,MLOps,Skill,,7
+Norsk,Norsk,Skill,,8
+Moderne software-utvikling,Moderne software-utvikling,Skill,,8
 Data Modeling,Data Modeling,Skill,,7
-Budsjettarbeid,Budsjettarbeid,Skill,,7
+MLOps,MLOps,Skill,,7
 Database,Database,Skill,,7
-Kjennskap til skyplattformer,Kjennskap til skyplattformer,Skill,,7
 Programmeringsspråk,Programmeringsspråk,Skill,,7
+Budsjettarbeid,Budsjettarbeid,Skill,,7
+Digitalisering,Digitalisering,Skill,,7
+Kjennskap til skyplattformer,Kjennskap til skyplattformer,Skill,,7
 Java (Programmeringsspråk),Java (Programmeringsspråk),Skill,,6
+Kvalitetssikring,Kvalitetssikring,Skill,,6
+Data Engineering,Data Engineering,Skill,,6
+Prognoser,Prognoser,Skill,,6
 ERP-systemer,ERP-systemer,Skill,,6
 Statistikk,Statistikk,Skill,,6
 Dataanalyseverktøy,Dataanalyseverktøy,Skill,,6
-Kvalitetssikring,Kvalitetssikring,Skill,,6
-Prognoser,Prognoser,Skill,,6
-Data Engineering,Data Engineering,Skill,,6
-K8s,K8s,Skill,,5
-Support / brukerstøtte,Support / brukerstøtte,Skill,,5
-Datastyring,Datastyring,Skill,,5
-General Data Protection Regulation (GDPR),General Data Protection Regulation (GDPR),Skill,,5
-Development of data pipelines,Development of data pipelines,Skill,,5
 Ingeniørkunst,Ingeniørkunst,Skill,,5
 Administrere data,Administrere data,Skill,,5
 Datadrevet markedsføring,Datadrevet markedsføring,Skill,,5
+Support / brukerstøtte,Support / brukerstøtte,Skill,,5
+General Data Protection Regulation (GDPR),General Data Protection Regulation (GDPR),Skill,,5
+K8s,K8s,Skill,,5
+Datastyring,Datastyring,Skill,,5
 Behandle data,Behandle data,Skill,,5
+Development of data pipelines,Development of data pipelines,Skill,,5
 Dataarkitektur,Dataarkitektur,Skill,,5
-PyTorch,PyTorch,Skill,,4
-Cybersikkerhet,Cybersikkerhet,Skill,,4
 Produsere innhold,Produsere innhold,Skill,,4
 Google Analytics,Google Analytics,Skill,,4
-Risikostyring,Risikostyring,Skill,,4
-Opprettholde dataintegritet,Opprettholde dataintegritet,Skill,,4
-TypeScript,TypeScript,Skill,,4
 Controlling,Controlling,Skill,,4
+Prototype,Prototype,Skill,,4
+Cybersikkerhet,Cybersikkerhet,Skill,,4
 Kontinuerlig forbedringsarbeid,Kontinuerlig forbedringsarbeid,Skill,,4
 Go,Go,Skill,,4
-Prototype,Prototype,Skill,,4
+Opprettholde dataintegritet,Opprettholde dataintegritet,Skill,,4
 Regulatory compliance,Regulatory compliance,Skill,,4
-Bioingeniørfaglig kompetanse,Bioingeniørfaglig kompetanse,Skill,,3
-R,R,Skill,,3
-CUDA (Compute Unified Device Architecture),CUDA (Compute Unified Device Architecture),Skill,,3
-Account Management,Account Management,Skill,,3
-Systemoptimering,Systemoptimering,Skill,,3
-Internkontroll,Internkontroll,Skill,,3
-Apache Spark,Apache Spark,Skill,,3
-Vitenskapelig forskning,Vitenskapelig forskning,Skill,,3
-NoSQL,NoSQL,Skill,,3
-Google Adwords,Google Adwords,Skill,,3
-Biologi,Biologi,Skill,,3
-Software Engineering,Software Engineering,Skill,,3
+PyTorch,PyTorch,Skill,,4
+Risikostyring,Risikostyring,Skill,,4
+TypeScript,TypeScript,Skill,,4
 JavaScript,JavaScript,Skill,,3
-Docker,Docker,Skill,,3
-Finansiell rapportering,Finansiell rapportering,Skill,,3
-Programvare som tjeneste,Programvare som tjeneste,Skill,,3
-Logistikk,Logistikk,Skill,,3
-Dataintegrasjonsprosesser,Dataintegrasjonsprosesser,Skill,,3
-Fullstack utvikler,Fullstack utvikler,Skill,,3
-Linux,Linux,Skill,,3
-Application Programming Interfaces (APIs),Application Programming Interfaces (APIs),Skill,,3
-Felling,Felling,Skill,,3
-Brukbarhetstesting,Brukbarhetstesting,Skill,,3
-Informasjonssikkerhet,Informasjonssikkerhet,Skill,,3
-Infrastructure as code (IaC),Infrastructure as code (IaC),Skill,,3
-Forretningsutvikling,Forretningsutvikling,Skill,,3
-Internet of Things,Internet of Things,Skill,,3
-Gjennomføre kvalitative undersøkelser,Gjennomføre kvalitative undersøkelser,Skill,,3
-Bokføring,Bokføring,Skill,,3
-C++ (Programming language),C++ (Programming language),Skill,,3
-Bygge datadashboard,Bygge datadashboard,Skill,,3
-Standardisere prosesser,Standardisere prosesser,Skill,,3
-Tensorflow,Tensorflow,Skill,,3
+Bioingeniørfaglig kompetanse,Bioingeniørfaglig kompetanse,Skill,,3
 Segmentere,Segmentere,Skill,,3
-Amazon Web Services (AWS),Amazon Web Services (AWS),Skill,,3
-Bruke verktøy,Bruke verktøy,Skill,,3
-Økologi,Økologi,Skill,,3
-Markedsanalyse,Markedsanalyse,Skill,,3
-Robotikk,Robotikk,Skill,,3
-Forskrifter,Forskrifter,Skill,,3
-Optimalisering av konvertering,Optimalisering av konvertering,Skill,,3
-Datainnsamling og analyse,Datainnsamling og analyse,Skill,,3
-Analyse av forretningsdata,Analyse av forretningsdata,Skill,,3
-Digitale ferdigheter,Digitale ferdigheter,Skill,,3
+Bokføring,Bokføring,Skill,,3
+Finansiell rapportering,Finansiell rapportering,Skill,,3
 Kunnskap om teknologi,Kunnskap om teknologi,Skill,,3
+Forskrifter,Forskrifter,Skill,,3
+Digitale ferdigheter,Digitale ferdigheter,Skill,,3
+Linux,Linux,Skill,,3
+Robotikk,Robotikk,Skill,,3
+Informasjonssikkerhet,Informasjonssikkerhet,Skill,,3
 Digital Commerce,Digital Commerce,Skill,,3
-React.js,React.js,Skill,,2
-Modellering (økonomi),Modellering (økonomi),Skill,,2
-PostgreSQL,PostgreSQL,Skill,,2
-Modellering og simulering,Modellering og simulering,Skill,,2
-Algoritmer,Algoritmer,Skill,,2
-CSS (Cascading Style Sheets),CSS (Cascading Style Sheets),Skill,,2
-Operational Excellence,Operational Excellence,Skill,,2
-Utvikling av digitale verktøy,Utvikling av digitale verktøy,Skill,,2
-PySpark,PySpark,Skill,,2
-Terraform,Terraform,Skill,,2
-Digital annonsering,Digital annonsering,Skill,,2
-Likviditetsstyring,Likviditetsstyring,Skill,,2
-Sikkerhetsklarering,Sikkerhetsklarering,Skill,,2
-Prosessanalyse,Prosessanalyse,Skill,,2
+Bygge datadashboard,Bygge datadashboard,Skill,,3
+Økologi,Økologi,Skill,,3
+NoSQL,NoSQL,Skill,,3
+Dataintegrasjonsprosesser,Dataintegrasjonsprosesser,Skill,,3
+Internet of Things,Internet of Things,Skill,,3
+Brukbarhetstesting,Brukbarhetstesting,Skill,,3
+CUDA (Compute Unified Device Architecture),CUDA (Compute Unified Device Architecture),Skill,,3
+Bruke verktøy,Bruke verktøy,Skill,,3
+Programvare som tjeneste,Programvare som tjeneste,Skill,,3
+Infrastructure as code (IaC),Infrastructure as code (IaC),Skill,,3
+Google Adwords,Google Adwords,Skill,,3
+Analyse av forretningsdata,Analyse av forretningsdata,Skill,,3
+Tensorflow,Tensorflow,Skill,,3
+Apache Spark,Apache Spark,Skill,,3
+Logistikk,Logistikk,Skill,,3
+Docker,Docker,Skill,,3
+Datainnsamling og analyse,Datainnsamling og analyse,Skill,,3
+Software Engineering,Software Engineering,Skill,,3
+Vitenskapelig forskning,Vitenskapelig forskning,Skill,,3
+Application Programming Interfaces (APIs),Application Programming Interfaces (APIs),Skill,,3
+R,R,Skill,,3
+Felling,Felling,Skill,,3
+Optimalisering av konvertering,Optimalisering av konvertering,Skill,,3
+Fullstack utvikler,Fullstack utvikler,Skill,,3
+Standardisere prosesser,Standardisere prosesser,Skill,,3
+Forretningsutvikling,Forretningsutvikling,Skill,,3
+Gjennomføre kvalitative undersøkelser,Gjennomføre kvalitative undersøkelser,Skill,,3
+Biologi,Biologi,Skill,,3
+Amazon Web Services (AWS),Amazon Web Services (AWS),Skill,,3
+C++ (Programming language),C++ (Programming language),Skill,,3
+Internkontroll,Internkontroll,Skill,,3
+Account Management,Account Management,Skill,,3
+Markedsanalyse,Markedsanalyse,Skill,,3
+Systemoptimering,Systemoptimering,Skill,,3
+Kontinuerlig forbedringsprosess (CIP),Kontinuerlig forbedringsprosess (CIP),Skill,,2
+Rapporteringsverktøy,Rapporteringsverktøy,Skill,,2
+Scikit-learn,Scikit-learn,Skill,,2
 Nordisk spåk,Nordisk spåk,Skill,,2
-Finansiell revisjon,Finansiell revisjon,Skill,,2
-Airflow,Airflow,Skill,,2
-Epidemiologi,Epidemiologi,Skill,,2
-Deep Learning,Deep Learning,Skill,,2
-Konsekvensanalyse,Konsekvensanalyse,Skill,,2
-Organisere data,Organisere data,Skill,,2
-Nettverksinfrastruktur,Nettverksinfrastruktur,Skill,,2
+CSS (Cascading Style Sheets),CSS (Cascading Style Sheets),Skill,,2
+Nettverkskonsepter,Nettverkskonsepter,Skill,,2
+Programvaredesign,Programvaredesign,Skill,,2
+Python Scripting,Python Scripting,Skill,,2
+Kybernetikk,Kybernetikk,Skill,,2
+Bedriftsøkonomi,Bedriftsøkonomi,Skill,,2
+Digital annonsering,Digital annonsering,Skill,,2
 Detalj prosjektering/ engineering elektro,Detalj prosjektering/ engineering elektro,Skill,,2
-Lage prediktive modeller,Lage prediktive modeller,Skill,,2
-Analyser av nøkkeltall,Analyser av nøkkeltall,Skill,,2
-Dyreforsøk,Dyreforsøk,Skill,,2
+Disaster Recovery (IKT),Disaster Recovery (IKT),Skill,,2
+A/B-testing (konverteringsoptimalisering),A/B-testing (konverteringsoptimalisering),Skill,,2
+Lage Benchmarks,Lage Benchmarks,Skill,,2
+Mergers & Acquisitions (M&A),Mergers & Acquisitions (M&A),Skill,,2
+kunnskap om produktledelse,kunnskap om produktledelse,Skill,,2
+Go-to-market strategi,Go-to-market strategi,Skill,,2
+Store språkmodeller,Store språkmodeller,Skill,,2
 Generative artificial intelligence,Generative artificial intelligence,Skill,,2
 Figma,Figma,Skill,,2
+Epidemiologi,Epidemiologi,Skill,,2
+Maskinlæringsmetoder,Maskinlæringsmetoder,Skill,,2
+Snowflake,Snowflake,Skill,,2
+Analyser av nøkkeltall,Analyser av nøkkeltall,Skill,,2
+Teknologiledelse,Teknologiledelse,Skill,,2
+Akvakultur,Akvakultur,Skill,,2
+Likviditetsstyring,Likviditetsstyring,Skill,,2
+Dyreforsøk,Dyreforsøk,Skill,,2
+PySpark,PySpark,Skill,,2
+Kunnskap om relevante lover og forskrifter,Kunnskap om relevante lover og forskrifter,Skill,,2
+Social Media,Social Media,Skill,,2
+Jenkins (Software),Jenkins (Software),Skill,,2
+User support,User support,Skill,,2
+Deep Learning,Deep Learning,Skill,,2
+Internprising,Internprising,Skill,,2
+Operational Excellence,Operational Excellence,Skill,,2
+Produktkø (Product backlog),Produktkø (Product backlog),Skill,,2
+Bash (operativsystem),Bash (operativsystem),Skill,,2
+Airflow,Airflow,Skill,,2
+Operating System (ICT),Operating System (ICT),Skill,,2
+Behersker IT-/datasystemer,Behersker IT-/datasystemer,Skill,,2
+Sikkerhetsklarering,Sikkerhetsklarering,Skill,,2
+Prosessanalyse,Prosessanalyse,Skill,,2
+Finansanalyse,Finansanalyse,Skill,,2
+Konsolidert finansregnskap,Konsolidert finansregnskap,Skill,,2
 Landingpage,Landingpage,Skill,,2
 ServiceNow,ServiceNow,Skill,,2
-Backend webutvikling,Backend webutvikling,Skill,,2
-Snowflake,Snowflake,Skill,,2
-Servicearbeid,Servicearbeid,Skill,,2
-Utvikle brukergrensesnitt,Utvikle brukergrensesnitt,Skill,,2
-Teknologiledelse,Teknologiledelse,Skill,,2
-Customer Relationship Management (CRM),Customer Relationship Management (CRM),Skill,,2
-Lage Benchmarks,Lage Benchmarks,Skill,,2
-Kunnskap om relevante lover og forskrifter,Kunnskap om relevante lover og forskrifter,Skill,,2
-Bash (operativsystem),Bash (operativsystem),Skill,,2
-IT Infrastructure Library (ITIL),IT Infrastructure Library (ITIL),Skill,,2
-DevOps,DevOps,Skill,,2
-REST (API),REST (API),Skill,,2
-Installasjon,Installasjon,Skill,,2
-Dataprogrammering,Dataprogrammering,Skill,,2
-Akvakultur,Akvakultur,Skill,,2
-Scikit-learn,Scikit-learn,Skill,,2
-Behersker root cause analysis,Behersker root cause analysis,Skill,,2
-Go-to-market strategi,Go-to-market strategi,Skill,,2
-Jenkins (Software),Jenkins (Software),Skill,,2
-IT Infrastructure Management,IT Infrastructure Management,Skill,,2
-Kontinuerlig forbedringsprosess (CIP),Kontinuerlig forbedringsprosess (CIP),Skill,,2
-Konsolidert finansregnskap,Konsolidert finansregnskap,Skill,,2
-IKT-støtte,IKT-støtte,Skill,,2
-Rapporteringsverktøy,Rapporteringsverktøy,Skill,,2
-Internprising,Internprising,Skill,,2
-kunnskap om produktledelse,kunnskap om produktledelse,Skill,,2
-Data Warehouse,Data Warehouse,Skill,,2
 Prosjektledelse,Prosjektledelse,Skill,,2
-Interaksjonsdesign,Interaksjonsdesign,Skill,,2
-Dokumentasjon,Dokumentasjon,Skill,,2
-Kybernetikk,Kybernetikk,Skill,,2
-Behersker IT-/datasystemer,Behersker IT-/datasystemer,Skill,,2
-Python Scripting,Python Scripting,Skill,,2
-Disaster Recovery (IKT),Disaster Recovery (IKT),Skill,,2
-Produktkø (Product backlog),Produktkø (Product backlog),Skill,,2
-Risikovurdering,Risikovurdering,Skill,,2
-Maskinlæringsmetoder,Maskinlæringsmetoder,Skill,,2
-Nettverkskonsepter,Nettverkskonsepter,Skill,,2
-Finansiell planlegging og analyse,Finansiell planlegging og analyse,Skill,,2
-Tolke data,Tolke data,Skill,,2
-Bedriftsøkonomi,Bedriftsøkonomi,Skill,,2
-Finansanalyse,Finansanalyse,Skill,,2
-Mergers & Acquisitions (M&A),Mergers & Acquisitions (M&A),Skill,,2
-Social Media,Social Media,Skill,,2
+Nettverksinfrastruktur,Nettverksinfrastruktur,Skill,,2
 Molekylærbiologi,Molekylærbiologi,Skill,,2
-Due Diligence analyse,Due Diligence analyse,Skill,,2
-A/B-testing (konverteringsoptimalisering),A/B-testing (konverteringsoptimalisering),Skill,,2
-Microsoft Office,Microsoft Office,Skill,,2
-Operating System (ICT),Operating System (ICT),Skill,,2
-User support,User support,Skill,,2
+Finansiell revisjon,Finansiell revisjon,Skill,,2
+Risikovurdering,Risikovurdering,Skill,,2
+Terraform,Terraform,Skill,,2
+Behersker root cause analysis,Behersker root cause analysis,Skill,,2
+Konsekvensanalyse,Konsekvensanalyse,Skill,,2
+IKT-støtte,IKT-støtte,Skill,,2
+Customer Relationship Management (CRM),Customer Relationship Management (CRM),Skill,,2
+Finansiell planlegging og analyse,Finansiell planlegging og analyse,Skill,,2
+Data Warehouse,Data Warehouse,Skill,,2
 Computer vision,Computer vision,Skill,,2
-Matematikk,Matematikk,Skill,,2
 Six sigma-metoder,Six sigma-metoder,Skill,,2
-Store språkmodeller,Store språkmodeller,Skill,,2
+Modellering og simulering,Modellering og simulering,Skill,,2
+Backend webutvikling,Backend webutvikling,Skill,,2
+Modellering (økonomi),Modellering (økonomi),Skill,,2
+IT Infrastructure Library (ITIL),IT Infrastructure Library (ITIL),Skill,,2
+Microsoft Office,Microsoft Office,Skill,,2
+Utvikling av digitale verktøy,Utvikling av digitale verktøy,Skill,,2
+Tolke data,Tolke data,Skill,,2
 IFS ERP,IFS ERP,Skill,,2
-Programvaredesign,Programvaredesign,Skill,,2
-Annonsering i sosiale medier,Annonsering i sosiale medier,Skill,,1
-Content design,Content design,Skill,,1
-Programledelse,Programledelse,Skill,,1
-Modbus,Modbus,Skill,,1
-Tableau,Tableau,Skill,,1
-Kassesystem,Kassesystem,Skill,,1
-Multi threaded programming,Multi threaded programming,Skill,,1
-Forskningsmetoder,Forskningsmetoder,Skill,,1
-Hendelsehåndtering,Hendelsehåndtering,Skill,,1
-Lavspenning,Lavspenning,Skill,,1
-Søkemotoroptimalisering,Søkemotoroptimalisering,Skill,,1
-Markedsstrategi,Markedsstrategi,Skill,,1
-Strategirådgivning,Strategirådgivning,Skill,,1
-Salgserfaring,Salgserfaring,Skill,,1
-Microsoft 365 SharePoint,Microsoft 365 SharePoint,Skill,,1
-Analysere data om klienter,Analysere data om klienter,Skill,,1
-ARM Cortex-M,ARM Cortex-M,Skill,,1
-Prisanalyse,Prisanalyse,Skill,,1
-Utvikle digitale plattformer og tjenester,Utvikle digitale plattformer og tjenester,Skill,,1
-skrive og lese norske tekniske dokumenter,skrive og lese norske tekniske dokumenter,Skill,,1
-Kontraktshåndtering,Kontraktshåndtering,Skill,,1
-Document Management Systems (DMS),Document Management Systems (DMS),Skill,,1
-Tilbakemelding fra kunde,Tilbakemelding fra kunde,Skill,,1
-Qualtrics,Qualtrics,Skill,,1
-Brukeropplevelsesundersøkelse,Brukeropplevelsesundersøkelse,Skill,,1
-Microsoft Certified Professional (MCP),Microsoft Certified Professional (MCP),Skill,,1
-Løse praktiske,Løse praktiske,Skill,,1
-Native Apps,Native Apps,Skill,,1
-.NET Framework,.NET Framework,Skill,,1
-React Native,React Native,Skill,,1
-Mobilapplikasjon,Mobilapplikasjon,Skill,,1
-Apache Kafka,Apache Kafka,Skill,,1
-Active Directory (IT-nettverk),Active Directory (IT-nettverk),Skill,,1
-Produkteier,Produkteier,Skill,,1
-Strategisk systemutvikling,Strategisk systemutvikling,Skill,,1
-Hjelpe til med innhold til sosiale medier,Hjelpe til med innhold til sosiale medier,Skill,,1
-ADL,ADL,Skill,,1
-Service-Level-Agreement (SLA) Management,Service-Level-Agreement (SLA) Management,Skill,,1
-Petroleumsteknologi,Petroleumsteknologi,Skill,,1
-Behov og kravsanalyse,Behov og kravsanalyse,Skill,,1
-Kreativitet,Kreativitet,Skill,,1
-SAP (Systems,SAP (Systems,Skill,,1
-Analysere kontrakter,Analysere kontrakter,Skill,,1
-Finansforvaltning,Finansforvaltning,Skill,,1
-ICT Architecture,ICT Architecture,Skill,,1
-PRINCE2,PRINCE2,Skill,,1
-PowerShell,PowerShell,Skill,,1
-Microsoft Active Directory (AD),Microsoft Active Directory (AD),Skill,,1
-Sikre interoperabilitet,Sikre interoperabilitet,Skill,,1
-Systemadministrasjon,Systemadministrasjon,Skill,,1
-Azure Data Factory,Azure Data Factory,Skill,,1
-Kvalitetsprosess,Kvalitetsprosess,Skill,,1
-Containere eller containerplattformer,Containere eller containerplattformer,Skill,,1
-Elektroindustri (bransje),Elektroindustri (bransje),Skill,,1
-Mobile Devices,Mobile Devices,Skill,,1
-Metadata standards,Metadata standards,Skill,,1
-IFRS 15,IFRS 15,Skill,,1
-Databaseutvikling,Databaseutvikling,Skill,,1
-FSE Lav- og Høyspenning,FSE Lav- og Høyspenning,Skill,,1
-Materialteknologi,Materialteknologi,Skill,,1
-Optimalisering av kostnader,Optimalisering av kostnader,Skill,,1
-Flowcytometri,Flowcytometri,Skill,,1
-Applications and Products for data processing),Applications and Products for data processing),Skill,,1
-Forbedre datakvalitet,Forbedre datakvalitet,Skill,,1
-Sårbarhetsanalyse,Sårbarhetsanalyse,Skill,,1
-.NET Core,.NET Core,Skill,,1
-Formell og systematisk dokumentasjon,Formell og systematisk dokumentasjon,Skill,,1
-Kostnadskontroll (Financial controlling),Kostnadskontroll (Financial controlling),Skill,,1
-Bibliotek (Programvare),Bibliotek (Programvare),Skill,,1
-Koordinere prosjekter og forbedringsaktiviteter for IT - løsninger,Koordinere prosjekter og forbedringsaktiviteter for IT - løsninger,Skill,,1
-Bergenstesten,Bergenstesten,Skill,,1
-Rust (Programming Language),Rust (Programming Language),Skill,,1
-Data struktur,Data struktur,Skill,,1
-Aktiv oppfølging,Aktiv oppfølging,Skill,,1
-Utføre feltarbeid,Utføre feltarbeid,Skill,,1
-Axapta,Axapta,Skill,,1
-Due Diligence,Due Diligence,Skill,,1
-Digitalisering av prosesser,Digitalisering av prosesser,Skill,,1
-Utføre dataanalyse,Utføre dataanalyse,Skill,,1
-Byggeledelse,Byggeledelse,Skill,,1
-Prince 2 prosjektledelse metodikk,Prince 2 prosjektledelse metodikk,Skill,,1
-.NET MAUI (Multi-Platform App UI),.NET MAUI (Multi-Platform App UI),Skill,,1
-Bruker-orientert design,Bruker-orientert design,Skill,,1
-Sikkerhetsadministrasjon,Sikkerhetsadministrasjon,Skill,,1
-Etterfylling,Etterfylling,Skill,,1
-Politikkstudier,Politikkstudier,Skill,,1
-Gjennomføring av studier,Gjennomføring av studier,Skill,,1
-Kjemi,Kjemi,Skill,,1
-Kundeportefølje,Kundeportefølje,Skill,,1
-Veterinærmedisin,Veterinærmedisin,Skill,,1
-Corporate Finance,Corporate Finance,Skill,,1
-Plukking og pakking,Plukking og pakking,Skill,,1
-Utføre laste- og losseoperasjoner,Utføre laste- og losseoperasjoner,Skill,,1
-Genteknologi,Genteknologi,Skill,,1
-Embedded C,Embedded C,Skill,,1
-Etterretning,Etterretning,Skill,,1
-Business-analyse,Business-analyse,Skill,,1
-Microservices,Microservices,Skill,,1
-Forretningsarkitektur,Forretningsarkitektur,Skill,,1
-Kryptoanalyse,Kryptoanalyse,Skill,,1
-Angular,Angular,Skill,,1
-Process documentation,Process documentation,Skill,,1
-IT-operasjoner,IT-operasjoner,Skill,,1
-Visual Basic,Visual Basic,Skill,,1
-Prosjektleveranse,Prosjektleveranse,Skill,,1
-Sikkerhetsregler,Sikkerhetsregler,Skill,,1
-Vann- og avløpsanlegg,Vann- og avløpsanlegg,Skill,,1
-Elektronikk,Elektronikk,Skill,,1
-Atlassian JIRA,Atlassian JIRA,Skill,,1
-Økonomistyring,Økonomistyring,Skill,,1
-Risikoanalyse,Risikoanalyse,Skill,,1
-Immunologi,Immunologi,Skill,,1
-Lean methods,Lean methods,Skill,,1
-SOP,SOP,Skill,,1
-Betjene og overvåke alarmsystemer,Betjene og overvåke alarmsystemer,Skill,,1
-Explainable AI,Explainable AI,Skill,,1
-Rapportering av ytelse,Rapportering av ytelse,Skill,,1
-Teknisk ledelse,Teknisk ledelse,Skill,,1
-Databaseadministrasjon,Databaseadministrasjon,Skill,,1
-Streamingteknologi,Streamingteknologi,Skill,,1
-Markedsundersøkelser,Markedsundersøkelser,Skill,,1
-Forretningsstrategiplaner,Forretningsstrategiplaner,Skill,,1
-Business-planlegging,Business-planlegging,Skill,,1
-Prosjektøkonomi,Prosjektøkonomi,Skill,,1
-Design computer network,Design computer network,Skill,,1
-Sikkerhetsteknikk,Sikkerhetsteknikk,Skill,,1
-Scala,Scala,Skill,,1
-Blodbankvirksomhet,Blodbankvirksomhet,Skill,,1
-samle opplysninger fra fysiske eller elektroniske kilder,samle opplysninger fra fysiske eller elektroniske kilder,Skill,,1
-Dokumentering og registrering av informasjon,Dokumentering og registrering av informasjon,Skill,,1
-Mekanisk feilsøking /vedlikehold,Mekanisk feilsøking /vedlikehold,Skill,,1
-Publisere akademisk forskning,Publisere akademisk forskning,Skill,,1
-VHDL,VHDL,Skill,,1
-Prosessutvikling (forretningsprosesser),Prosessutvikling (forretningsprosesser),Skill,,1
-Utvikle digitalt innhold,Utvikle digitalt innhold,Skill,,1
-Microsoft Power Point 2011,Microsoft Power Point 2011,Skill,,1
-Saksbehandle søknader,Saksbehandle søknader,Skill,,1
-Benytte maskinlæring,Benytte maskinlæring,Skill,,1
-Utarbeide kontrakt,Utarbeide kontrakt,Skill,,1
-Innholds- og omfangsledelse,Innholds- og omfangsledelse,Skill,,1
-Pumper,Pumper,Skill,,1
-Elektriske høyspenningsinstallasjoner,Elektriske høyspenningsinstallasjoner,Skill,,1
-Dyreproduksjonsvitenskap,Dyreproduksjonsvitenskap,Skill,,1
-Overvåkning og loggverktøy,Overvåkning og loggverktøy,Skill,,1
-Resultatanalyse,Resultatanalyse,Skill,,1
-Innholdsproduksjon,Innholdsproduksjon,Skill,,1
-SAP S/4HANA,SAP S/4HANA,Skill,,1
-Fabrikasjonsprosess,Fabrikasjonsprosess,Skill,,1
-Distribuert systemarkitektur (IKT),Distribuert systemarkitektur (IKT),Skill,,1
-Kotlin,Kotlin,Skill,,1
-Principal Component Analysis (PCA),Principal Component Analysis (PCA),Skill,,1
-Adobe After Effects,Adobe After Effects,Skill,,1
-Automasjon,Automasjon,Skill,,1
-Migrering av prosjektledelse,Migrering av prosjektledelse,Skill,,1
-Microsoft Teams,Microsoft Teams,Skill,,1
-IFRS 1,IFRS 1,Skill,,1
-Virologi,Virologi,Skill,,1
-Utforme spørreskjemaer,Utforme spørreskjemaer,Skill,,1
-Shopify,Shopify,Skill,,1
-GMP (Good Manufacturing Practice),GMP (Good Manufacturing Practice),Skill,,1
-API - integrasjoner,API - integrasjoner,Skill,,1
-Matematisk modellering,Matematisk modellering,Skill,,1
-air condition og byggteknologi,air condition og byggteknologi,Skill,,1
-Litteratursøk,Litteratursøk,Skill,,1
-HTML & CSS,HTML & CSS,Skill,,1
-A/B-Test,A/B-Test,Skill,,1
-Golang,Golang,Skill,,1
-Programvareintegrasjon,Programvareintegrasjon,Skill,,1
-IKT-sikkerhetsstandarder,IKT-sikkerhetsstandarder,Skill,,1
-Prosessoptimalisering (produksjonsprosesser),Prosessoptimalisering (produksjonsprosesser),Skill,,1
-Nettskyteknologier,Nettskyteknologier,Skill,,1
-WordPress,WordPress,Skill,,1
-Wide Area Network (WAN),Wide Area Network (WAN),Skill,,1
-BPM,BPM,Skill,,1
-Digital informasjonsinnhenting,Digital informasjonsinnhenting,Skill,,1
-Risikovurdering (forsikring),Risikovurdering (forsikring),Skill,,1
-Microsoft Windows,Microsoft Windows,Skill,,1
-Natural Language Processing (NLP),Natural Language Processing (NLP),Skill,,1
-Prosjektstyringsmetodikk,Prosjektstyringsmetodikk,Skill,,1
-Marinteknikk,Marinteknikk,Skill,,1
-Varemottak,Varemottak,Skill,,1
-Bygge Recommender- systemer,Bygge Recommender- systemer,Skill,,1
-Teknikker for virksomhetsverdsetting,Teknikker for virksomhetsverdsetting,Skill,,1
-Transformatorkunnskap,Transformatorkunnskap,Skill,,1
-Montering av elektriske systemer,Montering av elektriske systemer,Skill,,1
-Sensorer,Sensorer,Skill,,1
-Forsyningskjedestyring,Forsyningskjedestyring,Skill,,1
-Forskning,Forskning,Skill,,1
-Kundedialog,Kundedialog,Skill,,1
-Analysere forretningsprosesser,Analysere forretningsprosesser,Skill,,1
-Bred klinisk erfaring,Bred klinisk erfaring,Skill,,1
-Følge opp kundefordringer,Følge opp kundefordringer,Skill,,1
-Flyteknikk,Flyteknikk,Skill,,1
-FELASA Kategori C,FELASA Kategori C,Skill,,1
-Avkastning på investering (ROI),Avkastning på investering (ROI),Skill,,1
-Ta blodprøver,Ta blodprøver,Skill,,1
-Typografi,Typografi,Skill,,1
-Etterforskning av elektroniske spor,Etterforskning av elektroniske spor,Skill,,1
-Markedsføringskanal,Markedsføringskanal,Skill,,1
-Kartlegge,Kartlegge,Skill,,1
-Arbeid med nyhetsbrev,Arbeid med nyhetsbrev,Skill,,1
-Teknisk dokumentasjon,Teknisk dokumentasjon,Skill,,1
-Katalogisere,Katalogisere,Skill,,1
-SQLite,SQLite,Skill,,1
-Elektriske generatorer,Elektriske generatorer,Skill,,1
-Intranett,Intranett,Skill,,1
-Administrative ferdigheter,Administrative ferdigheter,Skill,,1
-Prosessdesign,Prosessdesign,Skill,,1
-Key Performance Indicator (KPI),Key Performance Indicator (KPI),Skill,,1
-Høyspenning,Høyspenning,Skill,,1
-Utvikling av markedsførings- og salgskonsepter,Utvikling av markedsførings- og salgskonsepter,Skill,,1
-VMware ESX,VMware ESX,Skill,,1
-Maritim teknologi,Maritim teknologi,Skill,,1
-Redux State Management,Redux State Management,Skill,,1
-Regnskap og bokføring,Regnskap og bokføring,Skill,,1
-operasjonelle problemer i industrielle prosesser,operasjonelle problemer i industrielle prosesser,Skill,,1
-Prediktiv analyse,Prediktiv analyse,Skill,,1
-Databanksystemforståelse,Databanksystemforståelse,Skill,,1
-Teknisk IT kompetanse,Teknisk IT kompetanse,Skill,,1
-Vedlikehold av industrimaskiner,Vedlikehold av industrimaskiner,Skill,,1
-Produktanalyse,Produktanalyse,Skill,,1
-Ahrefs,Ahrefs,Skill,,1
-Microsoft 365,Microsoft 365,Skill,,1
-Miljøkonsekvensanalyse,Miljøkonsekvensanalyse,Skill,,1
-Fundraising,Fundraising,Skill,,1
-Statistisk modellering,Statistisk modellering,Skill,,1
-Kryptografi,Kryptografi,Skill,,1
-ICT Security,ICT Security,Skill,,1
-Optimalisere salg,Optimalisere salg,Skill,,1
-Gjennomføre helserelatert forskning,Gjennomføre helserelatert forskning,Skill,,1
-MQTT,MQTT,Skill,,1
-Canva (Software),Canva (Software),Skill,,1
-Security Incident and Event Managpement (SIEM),Security Incident and Event Managpement (SIEM),Skill,,1
-Forstå,Forstå,Skill,,1
-Digital markedsføring,Digital markedsføring,Skill,,1
-Prometheus,Prometheus,Skill,,1
-B2B - erfaring,B2B - erfaring,Skill,,1
-Planlegge software-testing,Planlegge software-testing,Skill,,1
-Røkting,Røkting,Skill,,1
-Tidsplanlegging,Tidsplanlegging,Skill,,1
-Visma Business,Visma Business,Skill,,1
-Flåtestyring,Flåtestyring,Skill,,1
-Embedded Linux,Embedded Linux,Skill,,1
-Search Engine Marketing (SEM),Search Engine Marketing (SEM),Skill,,1
-Agile Scrum,Agile Scrum,Skill,,1
-Field Programmable Gate Array (FPGA),Field Programmable Gate Array (FPGA),Skill,,1
-Drifte vedlikeholdssystemer,Drifte vedlikeholdssystemer,Skill,,1
-Kuldeteknikk,Kuldeteknikk,Skill,,1
-ABAP (Programming language),ABAP (Programming language),Skill,,1
-Håndtere fusjoner og oppkjøp,Håndtere fusjoner og oppkjøp,Skill,,1
-Autonome systemer,Autonome systemer,Skill,,1
-Polymerasekjedereaksjon (PKR),Polymerasekjedereaksjon (PKR),Skill,,1
-Dataanalyse og rapportering,Dataanalyse og rapportering,Skill,,1
-Prosjektledelse IT,Prosjektledelse IT,Skill,,1
-Gårdsarbeid,Gårdsarbeid,Skill,,1
-Informasjonsarkitektur,Informasjonsarkitektur,Skill,,1
-Simulering,Simulering,Skill,,1
-Dansk,Dansk,Skill,,1
-C#.NET,C#.NET,Skill,,1
-Gransking,Gransking,Skill,,1
-SQL Script,SQL Script,Skill,,1
-ventilasjon,ventilasjon,Skill,,1
-Vue.js,Vue.js,Skill,,1
-Objektorientert programmering,Objektorientert programmering,Skill,,1
-CTI,CTI,Skill,,1
-Git (Versioning File System),Git (Versioning File System),Skill,,1
-Arkitektonisk design,Arkitektonisk design,Skill,,1
-Kontinuerlig integrasjon,Kontinuerlig integrasjon,Skill,,1
-Responsiv nettside,Responsiv nettside,Skill,,1
-Salesforce Inc.,Salesforce Inc.,Skill,,1
-Technical writing,Technical writing,Skill,,1
-Analyse av stordata,Analyse av stordata,Skill,,1
-Statistiske- og dataanalysemetoder,Statistiske- og dataanalysemetoder,Skill,,1
-Utvikle APIs,Utvikle APIs,Skill,,1
-Tekniske egenskaper,Tekniske egenskaper,Skill,,1
-Wireframing,Wireframing,Skill,,1
-Administrere ressurser,Administrere ressurser,Skill,,1
-Embedded Systems,Embedded Systems,Skill,,1
-Produktutvikling,Produktutvikling,Skill,,1
-Clustering algorithms,Clustering algorithms,Skill,,1
-Kvalitetsstyring,Kvalitetsstyring,Skill,,1
-Cellekultivering,Cellekultivering,Skill,,1
-Azure Synapse,Azure Synapse,Skill,,1
-Matfaget,Matfaget,Skill,,1
-Datasjø,Datasjø,Skill,,1
-Salesforce Marketing Cloud,Salesforce Marketing Cloud,Skill,,1
-Kampanjeplanlegging (markedsføring),Kampanjeplanlegging (markedsføring),Skill,,1
-KPI-rapporter,KPI-rapporter,Skill,,1
-Arbeidsdag,Arbeidsdag,Skill,,1
-Økonomisk administrasjon,Økonomisk administrasjon,Skill,,1
-Adgangskontroll,Adgangskontroll,Skill,,1
-Trusseletterretning,Trusseletterretning,Skill,,1
-Industriell økonomi,Industriell økonomi,Skill,,1
-Strategisk prosjektledelse,Strategisk prosjektledelse,Skill,,1
-Behandling av IKT-feil,Behandling av IKT-feil,Skill,,1
-IKT-infrastruktur,IKT-infrastruktur,Skill,,1
-Interativ designmetode,Interativ designmetode,Skill,,1
-E-Commerce og Digital Markedsføring,E-Commerce og Digital Markedsføring,Skill,,1
-Teknologisk forståelse,Teknologisk forståelse,Skill,,1
-Innholdsmarkedsføring,Innholdsmarkedsføring,Skill,,1
-Analyser økonomiske data,Analyser økonomiske data,Skill,,1
-Prissettingsstrategier,Prissettingsstrategier,Skill,,1
-Partielle differensialligninger,Partielle differensialligninger,Skill,,1
-EDIFACT,EDIFACT,Skill,,1
-Kjemiteknikk,Kjemiteknikk,Skill,,1
-Bicep (Azure),Bicep (Azure),Skill,,1
-Bruk av Agile-metodikk,Bruk av Agile-metodikk,Skill,,1
-Angi prisstrategier,Angi prisstrategier,Skill,,1
-GitHub,GitHub,Skill,,1
-Igangkjøring,Igangkjøring,Skill,,1
-Orkestrere musikk,Orkestrere musikk,Skill,,1
-SEMrush,SEMrush,Skill,,1
-Mikroelektronikk,Mikroelektronikk,Skill,,1
-Sosiale medier,Sosiale medier,Skill,,1
-Adobe (Software),Adobe (Software),Skill,,1
-Organisere delelager,Organisere delelager,Skill,,1
-Kommunikator,Kommunikator,Skill,,1
-Paid Social,Paid Social,Skill,,1
-Hold av melkekyr,Hold av melkekyr,Skill,,1
-Regresjonsanalyse,Regresjonsanalyse,Skill,,1
-Digital signalbehandling,Digital signalbehandling,Skill,,1
-Assembly (dataprogrammering),Assembly (dataprogrammering),Skill,,1
-Ytelsesanalyse,Ytelsesanalyse,Skill,,1
-prosjekt,prosjekt,Skill,,1
-Signalbehandling,Signalbehandling,Skill,,1
-Radiofrekvensteknikk,Radiofrekvensteknikk,Skill,,1
-ledelse,ledelse,Skill,,1
-Kontraktsrett,Kontraktsrett,Skill,,1
-Etterforsking,Etterforsking,Skill,,1
-MATLAB,MATLAB,Skill,,1
-Modellbygging,Modellbygging,Skill,,1
-Bank- og finansielle tjenester,Bank- og finansielle tjenester,Skill,,1
-Brukerforskning,Brukerforskning,Skill,,1
-Rør- og instrumenteringsdiagrammer,Rør- og instrumenteringsdiagrammer,Skill,,1
-QlikView,QlikView,Skill,,1
-Prosessteknikk,Prosessteknikk,Skill,,1
-Analysere bilder,Analysere bilder,Skill,,1
-Performance marketing,Performance marketing,Skill,,1
-Microsoft,Microsoft,Skill,,1
-Agile Frameworks,Agile Frameworks,Skill,,1
-Oseanografi,Oseanografi,Skill,,1
-Treasury/Risk Management (FI-FSCM-TRM),Treasury/Risk Management (FI-FSCM-TRM),Skill,,1
-Product Marketing,Product Marketing,Skill,,1
-Produktdesign,Produktdesign,Skill,,1
-Azure SQL-database,Azure SQL-database,Skill,,1
-Leting og produksjon av olje,Leting og produksjon av olje,Skill,,1
-Datasenter,Datasenter,Skill,,1
-Engelsk,Engelsk,Skill,,1
-undersøkelser og eksamener,undersøkelser og eksamener,Skill,,1
-Bedriftsrådgivning,Bedriftsrådgivning,Skill,,1
-Analyse,Analyse,Skill,,1
-Juridisk forskning,Juridisk forskning,Skill,,1
-Opprette innkjøpsordre,Opprette innkjøpsordre,Skill,,1
-Bransjekunnskap innen varme,Bransjekunnskap innen varme,Skill,,1
-Gode norsk- og engelskkunnskaper,Gode norsk- og engelskkunnskaper,Skill,,1
-Brukeropplevelse,Brukeropplevelse,Skill,,1
-Salgsprosess,Salgsprosess,Skill,,1
-Forbedring av produksjonsbetingelser,Forbedring av produksjonsbetingelser,Skill,,1
-Utføre lønnsomhetsanalyse,Utføre lønnsomhetsanalyse,Skill,,1
-Sikre informasjonspersonvern,Sikre informasjonspersonvern,Skill,,1
-Frikildeetterretning,Frikildeetterretning,Skill,,1
-Byggeteknikk,Byggeteknikk,Skill,,1
-Bannerannonsering,Bannerannonsering,Skill,,1
-Bærekraftig miljøarbeid,Bærekraftig miljøarbeid,Skill,,1
-Organisere lager,Organisere lager,Skill,,1
-Teknisk salg,Teknisk salg,Skill,,1
-Reparasjon,Reparasjon,Skill,,1
-Erfaring fra store byggeprosjekter,Erfaring fra store byggeprosjekter,Skill,,1
+Dataprogrammering,Dataprogrammering,Skill,,2
+Algoritmer,Algoritmer,Skill,,2
+Organisere data,Organisere data,Skill,,2
+Dokumentasjon,Dokumentasjon,Skill,,2
+Interaksjonsdesign,Interaksjonsdesign,Skill,,2
+React.js,React.js,Skill,,2
+PostgreSQL,PostgreSQL,Skill,,2
+Installasjon,Installasjon,Skill,,2
+Utvikle brukergrensesnitt,Utvikle brukergrensesnitt,Skill,,2
+IT Infrastructure Management,IT Infrastructure Management,Skill,,2
+Due Diligence analyse,Due Diligence analyse,Skill,,2
+DevOps,DevOps,Skill,,2
+Matematikk,Matematikk,Skill,,2
+Servicearbeid,Servicearbeid,Skill,,2
+REST (API),REST (API),Skill,,2
+Lage prediktive modeller,Lage prediktive modeller,Skill,,2
