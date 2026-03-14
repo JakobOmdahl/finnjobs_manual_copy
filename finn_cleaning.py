@@ -46,7 +46,7 @@ file_names = [
     r"data\forretningsanalyse.txt",
     r"data\forretningsanalytiker.txt",
     r"data\machine_learning.txt",
-    r"data\analyse.txt",
+    # r"data\analyse.txt",
 ]
 
 for file_name in file_names:
