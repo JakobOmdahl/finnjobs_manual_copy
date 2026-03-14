@@ -210,6 +210,6 @@ for _, row in df.iterrows():
                 )
 
 skill_bridging = pd.DataFrame(rows)
-
+skill_bridging.drop_duplicates()
 
 skill_bridging.to_csv("data_edge_skill_bridging.csv", index=False, encoding="utf-8-sig")

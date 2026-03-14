@@ -11,546 +11,546 @@ azure ad,azure ad,11
 datavitenskap,datavitenskap,10
 informatikk,informatikk,10
 rapportering,rapportering,9
-kvalitetssikring av data,kvalitetssikring av data,8
-microsoft excel,microsoft excel,8
-prosjekteringsledelse,prosjekteringsledelse,8
 norsk,norsk,8
 moderne software-utvikling,moderne software-utvikling,8
+prosjekteringsledelse,prosjekteringsledelse,8
+kvalitetssikring av data,kvalitetssikring av data,8
 power bi,power bi,8
+microsoft excel,microsoft excel,8
 c# (programmeringsspråk),c# (programmeringsspråk),8
+kjennskap til skyplattformer,kjennskap til skyplattformer,7
 database,database,7
-mlops,mlops,7
 programmeringsspråk,programmeringsspråk,7
 data modeling,data modeling,7
-kjennskap til skyplattformer,kjennskap til skyplattformer,7
 digitalisering,digitalisering,7
+mlops,mlops,7
 budsjettarbeid,budsjettarbeid,7
-data engineering,data engineering,6
-prognoser,prognoser,6
-dataanalyseverktøy,dataanalyseverktøy,6
 erp-systemer,erp-systemer,6
 java (programmeringsspråk),java (programmeringsspråk),6
+prognoser,prognoser,6
 statistikk,statistikk,6
 kvalitetssikring,kvalitetssikring,6
-k8s,k8s,5
-datastyring,datastyring,5
-general data protection regulation (gdpr),general data protection regulation (gdpr),5
-dataarkitektur,dataarkitektur,5
-datadrevet markedsføring,datadrevet markedsføring,5
-development of data pipelines,development of data pipelines,5
-behandle data,behandle data,5
-administrere data,administrere data,5
+dataanalyseverktøy,dataanalyseverktøy,6
+data engineering,data engineering,6
 ingeniørkunst,ingeniørkunst,5
+k8s,k8s,5
+development of data pipelines,development of data pipelines,5
+administrere data,administrere data,5
 support / brukerstøtte,support / brukerstøtte,5
+dataarkitektur,dataarkitektur,5
+general data protection regulation (gdpr),general data protection regulation (gdpr),5
+datadrevet markedsføring,datadrevet markedsføring,5
+behandle data,behandle data,5
+datastyring,datastyring,5
 pytorch,pytorch,4
-typescript,typescript,4
-prototype,prototype,4
-produsere innhold,produsere innhold,4
-regulatory compliance,regulatory compliance,4
-kontinuerlig forbedringsarbeid,kontinuerlig forbedringsarbeid,4
 controlling,controlling,4
-google analytics,google analytics,4
-cybersikkerhet,cybersikkerhet,4
-opprettholde dataintegritet,opprettholde dataintegritet,4
-go,go,4
+prototype,prototype,4
+typescript,typescript,4
 risikostyring,risikostyring,4
-infrastructure as code (iac),infrastructure as code (iac),3
-kunnskap om teknologi,kunnskap om teknologi,3
-account management,account management,3
-r,r,3
-digitale ferdigheter,digitale ferdigheter,3
-bruke verktøy,bruke verktøy,3
-finansiell rapportering,finansiell rapportering,3
-bioingeniørfaglig kompetanse,bioingeniørfaglig kompetanse,3
-fullstack utvikler,fullstack utvikler,3
-application programming interfaces (apis),application programming interfaces (apis),3
-cuda (compute unified device architecture),cuda (compute unified device architecture),3
-internet of things,internet of things,3
-gjennomføre kvalitative undersøkelser,gjennomføre kvalitative undersøkelser,3
-nosql,nosql,3
-internkontroll,internkontroll,3
-software engineering,software engineering,3
-datainnsamling og analyse,datainnsamling og analyse,3
-bokføring,bokføring,3
-markedsanalyse,markedsanalyse,3
-systemoptimering,systemoptimering,3
-digital commerce,digital commerce,3
-tensorflow,tensorflow,3
-apache spark,apache spark,3
-programvare som tjeneste,programvare som tjeneste,3
-docker,docker,3
-amazon web services (aws),amazon web services (aws),3
-logistikk,logistikk,3
-segmentere,segmentere,3
-dataintegrasjonsprosesser,dataintegrasjonsprosesser,3
-økologi,økologi,3
-felling,felling,3
-forretningsutvikling,forretningsutvikling,3
-standardisere prosesser,standardisere prosesser,3
-javascript,javascript,3
-bygge datadashboard,bygge datadashboard,3
-google adwords,google adwords,3
+kontinuerlig forbedringsarbeid,kontinuerlig forbedringsarbeid,4
+regulatory compliance,regulatory compliance,4
+produsere innhold,produsere innhold,4
+opprettholde dataintegritet,opprettholde dataintegritet,4
+google analytics,google analytics,4
+go,go,4
+cybersikkerhet,cybersikkerhet,4
 analyse av forretningsdata,analyse av forretningsdata,3
-linux,linux,3
+biologi,biologi,3
+nosql,nosql,3
 forskrifter,forskrifter,3
-vitenskapelig forskning,vitenskapelig forskning,3
-optimalisering av konvertering,optimalisering av konvertering,3
+cuda (compute unified device architecture),cuda (compute unified device architecture),3
+tensorflow,tensorflow,3
+kunnskap om teknologi,kunnskap om teknologi,3
+bruke verktøy,bruke verktøy,3
+bokføring,bokføring,3
 brukbarhetstesting,brukbarhetstesting,3
-c++ (programming language),c++ (programming language),3
+programvare som tjeneste,programvare som tjeneste,3
+digital commerce,digital commerce,3
+felling,felling,3
+google adwords,google adwords,3
+gjennomføre kvalitative undersøkelser,gjennomføre kvalitative undersøkelser,3
+logistikk,logistikk,3
+fullstack utvikler,fullstack utvikler,3
 informasjonssikkerhet,informasjonssikkerhet,3
 robotikk,robotikk,3
-biologi,biologi,3
-maskinlæringsmetoder,maskinlæringsmetoder,2
-backend webutvikling,backend webutvikling,2
-it infrastructure library (itil),it infrastructure library (itil),2
-dokumentasjon,dokumentasjon,2
-due diligence analyse,due diligence analyse,2
-nettverksinfrastruktur,nettverksinfrastruktur,2
-prosjektledelse,prosjektledelse,2
-behersker it-/datasystemer,behersker it-/datasystemer,2
-go-to-market strategi,go-to-market strategi,2
-rest (api),rest (api),2
-a/b-testing (konverteringsoptimalisering),a/b-testing (konverteringsoptimalisering),2
-teknologiledelse,teknologiledelse,2
-rapporteringsverktøy,rapporteringsverktøy,2
-detalj prosjektering/ engineering elektro,detalj prosjektering/ engineering elektro,2
-css (cascading style sheets),css (cascading style sheets),2
+digitale ferdigheter,digitale ferdigheter,3
+apache spark,apache spark,3
+bioingeniørfaglig kompetanse,bioingeniørfaglig kompetanse,3
+account management,account management,3
+markedsanalyse,markedsanalyse,3
+vitenskapelig forskning,vitenskapelig forskning,3
+finansiell rapportering,finansiell rapportering,3
+linux,linux,3
+standardisere prosesser,standardisere prosesser,3
+c++ (programming language),c++ (programming language),3
+økologi,økologi,3
+internkontroll,internkontroll,3
+internet of things,internet of things,3
+forretningsutvikling,forretningsutvikling,3
+amazon web services (aws),amazon web services (aws),3
+r,r,3
+software engineering,software engineering,3
+optimalisering av konvertering,optimalisering av konvertering,3
+application programming interfaces (apis),application programming interfaces (apis),3
+bygge datadashboard,bygge datadashboard,3
+dataintegrasjonsprosesser,dataintegrasjonsprosesser,3
+systemoptimering,systemoptimering,3
+infrastructure as code (iac),infrastructure as code (iac),3
+segmentere,segmentere,3
+datainnsamling og analyse,datainnsamling og analyse,3
+javascript,javascript,3
+docker,docker,3
 finansiell revisjon,finansiell revisjon,2
-likviditetsstyring,likviditetsstyring,2
-react.js,react.js,2
-python scripting,python scripting,2
-it infrastructure management,it infrastructure management,2
-tolke data,tolke data,2
-ifs erp,ifs erp,2
-utvikle brukergrensesnitt,utvikle brukergrensesnitt,2
-molekylærbiologi,molekylærbiologi,2
-kontinuerlig forbedringsprosess (cip),kontinuerlig forbedringsprosess (cip),2
-lage prediktive modeller,lage prediktive modeller,2
-analyser av nøkkeltall,analyser av nøkkeltall,2
-kunnskap om produktledelse,kunnskap om produktledelse,2
-snowflake,snowflake,2
-generative artificial intelligence,generative artificial intelligence,2
-akvakultur,akvakultur,2
-installasjon,installasjon,2
-operating system (ict),operating system (ict),2
-matematikk,matematikk,2
+data warehouse,data warehouse,2
+terraform,terraform,2
 kunnskap om relevante lover og forskrifter,kunnskap om relevante lover og forskrifter,2
-pyspark,pyspark,2
-microsoft office,microsoft office,2
-user support,user support,2
-mergers & acquisitions (m&a),mergers & acquisitions (m&a),2
-digital annonsering,digital annonsering,2
+risikovurdering,risikovurdering,2
+modellering og simulering,modellering og simulering,2
+ikt-støtte,ikt-støtte,2
+python scripting,python scripting,2
+dokumentasjon,dokumentasjon,2
+programvaredesign,programvaredesign,2
+produktkø (product backlog),produktkø (product backlog),2
+matematikk,matematikk,2
+dataprogrammering,dataprogrammering,2
+organisere data,organisere data,2
+modellering (økonomi),modellering (økonomi),2
+bedriftsøkonomi,bedriftsøkonomi,2
+it infrastructure library (itil),it infrastructure library (itil),2
+deep learning,deep learning,2
+prosessanalyse,prosessanalyse,2
+kontinuerlig forbedringsprosess (cip),kontinuerlig forbedringsprosess (cip),2
+nettverksinfrastruktur,nettverksinfrastruktur,2
+css (cascading style sheets),css (cascading style sheets),2
+operational excellence,operational excellence,2
+rest (api),rest (api),2
+social media,social media,2
+tolke data,tolke data,2
+a/b-testing (konverteringsoptimalisering),a/b-testing (konverteringsoptimalisering),2
+figma,figma,2
 nordisk spåk,nordisk spåk,2
+mergers & acquisitions (m&a),mergers & acquisitions (m&a),2
+utvikling av digitale verktøy,utvikling av digitale verktøy,2
+kunnskap om produktledelse,kunnskap om produktledelse,2
+behersker it-/datasystemer,behersker it-/datasystemer,2
+postgresql,postgresql,2
+lage benchmarks,lage benchmarks,2
+devops,devops,2
+konsekvensanalyse,konsekvensanalyse,2
+backend webutvikling,backend webutvikling,2
+customer relationship management (crm),customer relationship management (crm),2
+molekylærbiologi,molekylærbiologi,2
+teknologiledelse,teknologiledelse,2
+dyreforsøk,dyreforsøk,2
+interaksjonsdesign,interaksjonsdesign,2
+prosjektledelse,prosjektledelse,2
+internprising,internprising,2
+installasjon,installasjon,2
+akvakultur,akvakultur,2
+it infrastructure management,it infrastructure management,2
+generative artificial intelligence,generative artificial intelligence,2
+digital annonsering,digital annonsering,2
+ifs erp,ifs erp,2
+algoritmer,algoritmer,2
+disaster recovery (ikt),disaster recovery (ikt),2
+finansiell planlegging og analyse,finansiell planlegging og analyse,2
+landingpage,landingpage,2
+lage prediktive modeller,lage prediktive modeller,2
+microsoft office,microsoft office,2
+maskinlæringsmetoder,maskinlæringsmetoder,2
+finansanalyse,finansanalyse,2
+operating system (ict),operating system (ict),2
+utvikle brukergrensesnitt,utvikle brukergrensesnitt,2
+due diligence analyse,due diligence analyse,2
+six sigma-metoder,six sigma-metoder,2
+scikit-learn,scikit-learn,2
 nettverkskonsepter,nettverkskonsepter,2
 store språkmodeller,store språkmodeller,2
-devops,devops,2
-organisere data,organisere data,2
-dataprogrammering,dataprogrammering,2
-modellering (økonomi),modellering (økonomi),2
-computer vision,computer vision,2
-postgresql,postgresql,2
-figma,figma,2
-ikt-støtte,ikt-støtte,2
-data warehouse,data warehouse,2
-konsolidert finansregnskap,konsolidert finansregnskap,2
-algoritmer,algoritmer,2
-jenkins (software),jenkins (software),2
-deep learning,deep learning,2
-modellering og simulering,modellering og simulering,2
-six sigma-metoder,six sigma-metoder,2
-social media,social media,2
-sikkerhetsklarering,sikkerhetsklarering,2
-risikovurdering,risikovurdering,2
-kybernetikk,kybernetikk,2
-terraform,terraform,2
-disaster recovery (ikt),disaster recovery (ikt),2
 servicenow,servicenow,2
-konsekvensanalyse,konsekvensanalyse,2
-interaksjonsdesign,interaksjonsdesign,2
+detalj prosjektering/ engineering elektro,detalj prosjektering/ engineering elektro,2
+computer vision,computer vision,2
+kybernetikk,kybernetikk,2
+user support,user support,2
+react.js,react.js,2
+analyser av nøkkeltall,analyser av nøkkeltall,2
+sikkerhetsklarering,sikkerhetsklarering,2
+konsolidert finansregnskap,konsolidert finansregnskap,2
 airflow,airflow,2
-lage benchmarks,lage benchmarks,2
-dyreforsøk,dyreforsøk,2
-operational excellence,operational excellence,2
-programvaredesign,programvaredesign,2
-behersker root cause analysis,behersker root cause analysis,2
-utvikling av digitale verktøy,utvikling av digitale verktøy,2
-internprising,internprising,2
-bedriftsøkonomi,bedriftsøkonomi,2
+jenkins (software),jenkins (software),2
 epidemiologi,epidemiologi,2
-landingpage,landingpage,2
-produktkø (product backlog),produktkø (product backlog),2
-scikit-learn,scikit-learn,2
-servicearbeid,servicearbeid,2
+snowflake,snowflake,2
+rapporteringsverktøy,rapporteringsverktøy,2
+pyspark,pyspark,2
+behersker root cause analysis,behersker root cause analysis,2
 bash (operativsystem),bash (operativsystem),2
-finansanalyse,finansanalyse,2
-prosessanalyse,prosessanalyse,2
-finansiell planlegging og analyse,finansiell planlegging og analyse,2
-customer relationship management (crm),customer relationship management (crm),2
-streamingteknologi,streamingteknologi,1
-administrere ressurser,administrere ressurser,1
-embedded systems,embedded systems,1
-byggeteknikk,byggeteknikk,1
-qualtrics,qualtrics,1
-reparasjon,reparasjon,1
-genteknologi,genteknologi,1
-process documentation,process documentation,1
-prince 2 prosjektledelse metodikk,prince 2 prosjektledelse metodikk,1
-analysere kontrakter,analysere kontrakter,1
-resultatanalyse,resultatanalyse,1
-innholdsmarkedsføring,innholdsmarkedsføring,1
-politikkstudier,politikkstudier,1
-produktutvikling,produktutvikling,1
-kassesystem,kassesystem,1
-applications and products for data processing),applications and products for data processing),1
-mobile devices,mobile devices,1
-azure data factory,azure data factory,1
-it-operasjoner,it-operasjoner,1
-utarbeide kontrakt,utarbeide kontrakt,1
-kampanjeplanlegging (markedsføring),kampanjeplanlegging (markedsføring),1
-microsoft active directory (ad),microsoft active directory (ad),1
-arbeidsdag,arbeidsdag,1
-kotlin,kotlin,1
-rust (programming language),rust (programming language),1
-angi prisstrategier,angi prisstrategier,1
-montering av elektriske systemer,montering av elektriske systemer,1
-objektorientert programmering,objektorientert programmering,1
-salesforce marketing cloud,salesforce marketing cloud,1
-analysere forretningsprosesser,analysere forretningsprosesser,1
-.net core,.net core,1
-organisere lager,organisere lager,1
-polymerasekjedereaksjon (pkr),polymerasekjedereaksjon (pkr),1
-abap (programming language),abap (programming language),1
-utføre lønnsomhetsanalyse,utføre lønnsomhetsanalyse,1
-benytte maskinlæring,benytte maskinlæring,1
-signalbehandling,signalbehandling,1
-hjelpe til med innhold til sosiale medier,hjelpe til med innhold til sosiale medier,1
-microsoft windows,microsoft windows,1
-kjemiteknikk,kjemiteknikk,1
-skrive og lese norske tekniske dokumenter,skrive og lese norske tekniske dokumenter,1
-strategisk prosjektledelse,strategisk prosjektledelse,1
-bygge recommender- systemer,bygge recommender- systemer,1
-golang,golang,1
-vmware esx,vmware esx,1
-gårdsarbeid,gårdsarbeid,1
-juridisk forskning,juridisk forskning,1
-product marketing,product marketing,1
-ahrefs,ahrefs,1
-annonsering i sosiale medier,annonsering i sosiale medier,1
-erfaring fra store byggeprosjekter,erfaring fra store byggeprosjekter,1
-kundeportefølje,kundeportefølje,1
-etterfylling,etterfylling,1
-radiofrekvensteknikk,radiofrekvensteknikk,1
-redux state management,redux state management,1
-key performance indicator (kpi),key performance indicator (kpi),1
-sap (systems,sap (systems,1
-prissettingsstrategier,prissettingsstrategier,1
-databaseutvikling,databaseutvikling,1
-salesforce inc.,salesforce inc.,1
-digital signalbehandling,digital signalbehandling,1
-elektriske generatorer,elektriske generatorer,1
-etterforskning av elektroniske spor,etterforskning av elektroniske spor,1
-search engine marketing (sem),search engine marketing (sem),1
-vann- og avløpsanlegg,vann- og avløpsanlegg,1
-adgangskontroll,adgangskontroll,1
-ta blodprøver,ta blodprøver,1
-arkitektonisk design,arkitektonisk design,1
-undersøkelser og eksamener,undersøkelser og eksamener,1
-html & css,html & css,1
-optimalisering av kostnader,optimalisering av kostnader,1
-axapta,axapta,1
-rapportering av ytelse,rapportering av ytelse,1
-produkteier,produkteier,1
-visual basic,visual basic,1
-sårbarhetsanalyse,sårbarhetsanalyse,1
-teknikker for virksomhetsverdsetting,teknikker for virksomhetsverdsetting,1
-mobilapplikasjon,mobilapplikasjon,1
-planlegge software-testing,planlegge software-testing,1
-hold av melkekyr,hold av melkekyr,1
-blodbankvirksomhet,blodbankvirksomhet,1
-optimalisere salg,optimalisere salg,1
-operasjonelle problemer i industrielle prosesser,operasjonelle problemer i industrielle prosesser,1
-atlassian jira,atlassian jira,1
-plukking og pakking,plukking og pakking,1
-prosjekt,prosjekt,1
-risikovurdering (forsikring),risikovurdering (forsikring),1
-bransjekunnskap innen varme,bransjekunnskap innen varme,1
-gjennomføring av studier,gjennomføring av studier,1
-datasenter,datasenter,1
-mikroelektronikk,mikroelektronikk,1
-organisere delelager,organisere delelager,1
-informasjonsarkitektur,informasjonsarkitektur,1
-modbus,modbus,1
-kvalitetsstyring,kvalitetsstyring,1
-prosessoptimalisering (produksjonsprosesser),prosessoptimalisering (produksjonsprosesser),1
-fabrikasjonsprosess,fabrikasjonsprosess,1
-ikt-infrastruktur,ikt-infrastruktur,1
-kjemi,kjemi,1
-wide area network (wan),wide area network (wan),1
-edifact,edifact,1
-matfaget,matfaget,1
-sikkerhetsregler,sikkerhetsregler,1
-forskningsmetoder,forskningsmetoder,1
-explainable ai,explainable ai,1
-kontraktsrett,kontraktsrett,1
-teknisk ledelse,teknisk ledelse,1
-opprette innkjøpsordre,opprette innkjøpsordre,1
-corporate finance,corporate finance,1
-produktanalyse,produktanalyse,1
-lavspenning,lavspenning,1
-adobe after effects,adobe after effects,1
-utføre laste- og losseoperasjoner,utføre laste- og losseoperasjoner,1
-frikildeetterretning,frikildeetterretning,1
-kryptografi,kryptografi,1
-prosjektledelse it,prosjektledelse it,1
-analysere data om klienter,analysere data om klienter,1
-transformatorkunnskap,transformatorkunnskap,1
-powershell,powershell,1
-kartlegge,kartlegge,1
-varemottak,varemottak,1
-microsoft 365,microsoft 365,1
-industriell økonomi,industriell økonomi,1
-markedsundersøkelser,markedsundersøkelser,1
-innholds- og omfangsledelse,innholds- og omfangsledelse,1
-tableau,tableau,1
-analysere bilder,analysere bilder,1
-wordpress,wordpress,1
-canva (software),canva (software),1
-databanksystemforståelse,databanksystemforståelse,1
-tekniske egenskaper,tekniske egenskaper,1
-gjennomføre helserelatert forskning,gjennomføre helserelatert forskning,1
-materialteknologi,materialteknologi,1
-finansforvaltning,finansforvaltning,1
-markedsstrategi,markedsstrategi,1
-assembly (dataprogrammering),assembly (dataprogrammering),1
-bruker-orientert design,bruker-orientert design,1
-marinteknikk,marinteknikk,1
-sikkerhetsadministrasjon,sikkerhetsadministrasjon,1
-arbeid med nyhetsbrev,arbeid med nyhetsbrev,1
-regnskap og bokføring,regnskap og bokføring,1
-brukeropplevelse,brukeropplevelse,1
-løse praktiske,løse praktiske,1
-etterforsking,etterforsking,1
-ytelsesanalyse,ytelsesanalyse,1
-maritim teknologi,maritim teknologi,1
-utforme spørreskjemaer,utforme spørreskjemaer,1
-digital informasjonsinnhenting,digital informasjonsinnhenting,1
-kostnadskontroll (financial controlling),kostnadskontroll (financial controlling),1
+go-to-market strategi,go-to-market strategi,2
+servicearbeid,servicearbeid,2
+likviditetsstyring,likviditetsstyring,2
 b2b - erfaring,b2b - erfaring,1
-digital markedsføring,digital markedsføring,1
-flyteknikk,flyteknikk,1
-drifte vedlikeholdssystemer,drifte vedlikeholdssystemer,1
-paid social,paid social,1
-migrering av prosjektledelse,migrering av prosjektledelse,1
-røkting,røkting,1
-lean methods,lean methods,1
-forstå,forstå,1
-prosjektleveranse,prosjektleveranse,1
-kontinuerlig integrasjon,kontinuerlig integrasjon,1
-datasjø,datasjø,1
-ifrs 15,ifrs 15,1
-utvikling av markedsførings- og salgskonsepter,utvikling av markedsførings- og salgskonsepter,1
-agile scrum,agile scrum,1
-principal component analysis (pca),principal component analysis (pca),1
-administrative ferdigheter,administrative ferdigheter,1
-formell og systematisk dokumentasjon,formell og systematisk dokumentasjon,1
-forskning,forskning,1
-dataanalyse og rapportering,dataanalyse og rapportering,1
-forretningsarkitektur,forretningsarkitektur,1
-vedlikehold av industrimaskiner,vedlikehold av industrimaskiner,1
+forbedring av produksjonsbetingelser,forbedring av produksjonsbetingelser,1
+azure data factory,azure data factory,1
+kontraktsrett,kontraktsrett,1
+datasenter,datasenter,1
+adgangskontroll,adgangskontroll,1
+bibliotek (programvare),bibliotek (programvare),1
+business-analyse,business-analyse,1
 due diligence,due diligence,1
-embedded c,embedded c,1
-miljøkonsekvensanalyse,miljøkonsekvensanalyse,1
+strategirådgivning,strategirådgivning,1
+overvåkning og loggverktøy,overvåkning og loggverktøy,1
+utvikle digitalt innhold,utvikle digitalt innhold,1
+document management systems (dms),document management systems (dms),1
+utføre lønnsomhetsanalyse,utføre lønnsomhetsanalyse,1
+mobilapplikasjon,mobilapplikasjon,1
+prince2,prince2,1
+nettskyteknologier,nettskyteknologier,1
+prissettingsstrategier,prissettingsstrategier,1
+assembly (dataprogrammering),assembly (dataprogrammering),1
+risikovurdering (forsikring),risikovurdering (forsikring),1
+høyspenning,høyspenning,1
 design computer network,design computer network,1
+prosessdesign,prosessdesign,1
+business-planlegging,business-planlegging,1
+arbeid med nyhetsbrev,arbeid med nyhetsbrev,1
+microsoft certified professional (mcp),microsoft certified professional (mcp),1
+sop,sop,1
+kampanjeplanlegging (markedsføring),kampanjeplanlegging (markedsføring),1
+qlikview,qlikview,1
+matlab,matlab,1
+planlegge software-testing,planlegge software-testing,1
+avkastning på investering (roi),avkastning på investering (roi),1
+organisere lager,organisere lager,1
+leting og produksjon av olje,leting og produksjon av olje,1
+utføre feltarbeid,utføre feltarbeid,1
+analysere data om klienter,analysere data om klienter,1
+adobe (software),adobe (software),1
+søkemotoroptimalisering,søkemotoroptimalisering,1
+etterretning,etterretning,1
+annonsering i sosiale medier,annonsering i sosiale medier,1
+react native,react native,1
+kundeportefølje,kundeportefølje,1
+optimalisering av kostnader,optimalisering av kostnader,1
+maritim teknologi,maritim teknologi,1
+løse praktiske,løse praktiske,1
+adobe after effects,adobe after effects,1
+it-operasjoner,it-operasjoner,1
+digital markedsføring,digital markedsføring,1
+saksbehandle søknader,saksbehandle søknader,1
+kvalitetsstyring,kvalitetsstyring,1
+publisere akademisk forskning,publisere akademisk forskning,1
+data struktur,data struktur,1
 katalogisere,katalogisere,1
+bpm,bpm,1
+ikt-sikkerhetsstandarder,ikt-sikkerhetsstandarder,1
+politikkstudier,politikkstudier,1
+prometheus,prometheus,1
+røkting,røkting,1
+datasjø,datasjø,1
+microsoft teams,microsoft teams,1
+migrering av prosjektledelse,migrering av prosjektledelse,1
+sikkerhetsregler,sikkerhetsregler,1
+performance marketing,performance marketing,1
+vann- og avløpsanlegg,vann- og avløpsanlegg,1
+bank- og finansielle tjenester,bank- og finansielle tjenester,1
+utvikling av markedsførings- og salgskonsepter,utvikling av markedsførings- og salgskonsepter,1
+bærekraftig miljøarbeid,bærekraftig miljøarbeid,1
+.net framework,.net framework,1
+vue.js,vue.js,1
+flowcytometri,flowcytometri,1
+arbeidsdag,arbeidsdag,1
+kostnadskontroll (financial controlling),kostnadskontroll (financial controlling),1
+kommunikator,kommunikator,1
+oseanografi,oseanografi,1
+bruk av agile-metodikk,bruk av agile-metodikk,1
+risikoanalyse,risikoanalyse,1
+statistiske- og dataanalysemetoder,statistiske- og dataanalysemetoder,1
+innholds- og omfangsledelse,innholds- og omfangsledelse,1
+innholdsmarkedsføring,innholdsmarkedsføring,1
+rust (programming language),rust (programming language),1
+distribuert systemarkitektur (ikt),distribuert systemarkitektur (ikt),1
+kryptografi,kryptografi,1
+produktanalyse,produktanalyse,1
+embedded c,embedded c,1
 brukerforskning,brukerforskning,1
+metadata standards,metadata standards,1
+bransjekunnskap innen varme,bransjekunnskap innen varme,1
+dataanalyse og rapportering,dataanalyse og rapportering,1
+kontraktshåndtering,kontraktshåndtering,1
+databaseadministrasjon,databaseadministrasjon,1
+kpi-rapporter,kpi-rapporter,1
+regresjonsanalyse,regresjonsanalyse,1
+kreativitet,kreativitet,1
+ventilasjon,ventilasjon,1
+streamingteknologi,streamingteknologi,1
+varemottak,varemottak,1
+wide area network (wan),wide area network (wan),1
+optimalisere salg,optimalisere salg,1
+abap (programming language),abap (programming language),1
+ta blodprøver,ta blodprøver,1
+drifte vedlikeholdssystemer,drifte vedlikeholdssystemer,1
+.net core,.net core,1
+teknologisk forståelse,teknologisk forståelse,1
+skrive og lese norske tekniske dokumenter,skrive og lese norske tekniske dokumenter,1
 produktdesign,produktdesign,1
-automasjon,automasjon,1
-vhdl,vhdl,1
+canva (software),canva (software),1
+statistisk modellering,statistisk modellering,1
+formell og systematisk dokumentasjon,formell og systematisk dokumentasjon,1
+etterforsking,etterforsking,1
+innholdsproduksjon,innholdsproduksjon,1
+edifact,edifact,1
+forskningsmetoder,forskningsmetoder,1
+analyse av stordata,analyse av stordata,1
+apache kafka,apache kafka,1
+kontinuerlig integrasjon,kontinuerlig integrasjon,1
+bicep (azure),bicep (azure),1
+bergenstesten,bergenstesten,1
+security incident and event managpement (siem),security incident and event managpement (siem),1
+microsoft,microsoft,1
+programledelse,programledelse,1
+lean methods,lean methods,1
+databanksystemforståelse,databanksystemforståelse,1
+administrere ressurser,administrere ressurser,1
+forbedre datakvalitet,forbedre datakvalitet,1
+ict architecture,ict architecture,1
+clustering algorithms,clustering algorithms,1
+microsoft 365 sharepoint,microsoft 365 sharepoint,1
+økonomisk administrasjon,økonomisk administrasjon,1
+process documentation,process documentation,1
+angular,angular,1
 orkestrere musikk,orkestrere musikk,1
-behov og kravsanalyse,behov og kravsanalyse,1
+sikre informasjonspersonvern,sikre informasjonspersonvern,1
+tekniske egenskaper,tekniske egenskaper,1
+mekanisk feilsøking /vedlikehold,mekanisk feilsøking /vedlikehold,1
+frikildeetterretning,frikildeetterretning,1
+dansk,dansk,1
+bedriftsrådgivning,bedriftsrådgivning,1
+kvalitetsprosess,kvalitetsprosess,1
+produkteier,produkteier,1
+applications and products for data processing),applications and products for data processing),1
+byggeledelse,byggeledelse,1
+kassesystem,kassesystem,1
+ledelse,ledelse,1
+utarbeide kontrakt,utarbeide kontrakt,1
+produktutvikling,produktutvikling,1
+a/b-test,a/b-test,1
+sosiale medier,sosiale medier,1
+petroleumsteknologi,petroleumsteknologi,1
+prisanalyse,prisanalyse,1
+vmware esx,vmware esx,1
+veterinærmedisin,veterinærmedisin,1
+hendelsehåndtering,hendelsehåndtering,1
 rør- og instrumenteringsdiagrammer,rør- og instrumenteringsdiagrammer,1
-programvareintegrasjon,programvareintegrasjon,1
+native apps,native apps,1
+salgsprosess,salgsprosess,1
+explainable ai,explainable ai,1
+igangkjøring,igangkjøring,1
+matfaget,matfaget,1
+git (versioning file system),git (versioning file system),1
+adl,adl,1
+elektriske høyspenningsinstallasjoner,elektriske høyspenningsinstallasjoner,1
+opprette innkjøpsordre,opprette innkjøpsordre,1
+digital signalbehandling,digital signalbehandling,1
+databaseutvikling,databaseutvikling,1
+industriell økonomi,industriell økonomi,1
+prediktiv analyse,prediktiv analyse,1
+kotlin,kotlin,1
+natural language processing (nlp),natural language processing (nlp),1
+arm cortex-m,arm cortex-m,1
+felasa kategori c,felasa kategori c,1
+qualtrics,qualtrics,1
+agile frameworks,agile frameworks,1
+sikre interoperabilitet,sikre interoperabilitet,1
+simulering,simulering,1
+tilbakemelding fra kunde,tilbakemelding fra kunde,1
+marinteknikk,marinteknikk,1
+partielle differensialligninger,partielle differensialligninger,1
+prosjekt,prosjekt,1
+signalbehandling,signalbehandling,1
+systemadministrasjon,systemadministrasjon,1
+prince 2 prosjektledelse metodikk,prince 2 prosjektledelse metodikk,1
+sensorer,sensorer,1
+redux state management,redux state management,1
+dokumentering og registrering av informasjon,dokumentering og registrering av informasjon,1
+fabrikasjonsprosess,fabrikasjonsprosess,1
+forretningsarkitektur,forretningsarkitektur,1
+analyser økonomiske data,analyser økonomiske data,1
+utføre dataanalyse,utføre dataanalyse,1
+microsoft power point 2011,microsoft power point 2011,1
+modbus,modbus,1
+forstå,forstå,1
+ifrs 1,ifrs 1,1
+semrush,semrush,1
+sap s/4hana,sap s/4hana,1
+salesforce marketing cloud,salesforce marketing cloud,1
+finansforvaltning,finansforvaltning,1
+product marketing,product marketing,1
+markedsundersøkelser,markedsundersøkelser,1
+resultatanalyse,resultatanalyse,1
+microsoft windows,microsoft windows,1
+analysere bilder,analysere bilder,1
+api - integrasjoner,api - integrasjoner,1
 interativ designmetode,interativ designmetode,1
 teknisk it kompetanse,teknisk it kompetanse,1
-kpi-rapporter,kpi-rapporter,1
-publisere akademisk forskning,publisere akademisk forskning,1
-prosessdesign,prosessdesign,1
-koordinere prosjekter og forbedringsaktiviteter for it - løsninger,koordinere prosjekter og forbedringsaktiviteter for it - løsninger,1
-samle opplysninger fra fysiske eller elektroniske kilder,samle opplysninger fra fysiske eller elektroniske kilder,1
-petroleumsteknologi,petroleumsteknologi,1
-api - integrasjoner,api - integrasjoner,1
-innholdsproduksjon,innholdsproduksjon,1
-react native,react native,1
-sop,sop,1
-air condition og byggteknologi,air condition og byggteknologi,1
-aktiv oppfølging,aktiv oppfølging,1
-salgserfaring,salgserfaring,1
-risikoanalyse,risikoanalyse,1
-angular,angular,1
-embedded linux,embedded linux,1
-bred klinisk erfaring,bred klinisk erfaring,1
-prosjektstyringsmetodikk,prosjektstyringsmetodikk,1
-bærekraftig miljøarbeid,bærekraftig miljøarbeid,1
-prisanalyse,prisanalyse,1
-nettskyteknologier,nettskyteknologier,1
-prosjektøkonomi,prosjektøkonomi,1
-utvikle digitalt innhold,utvikle digitalt innhold,1
-service-level-agreement (sla) management,service-level-agreement (sla) management,1
-adl,adl,1
-litteratursøk,litteratursøk,1
-mekanisk feilsøking /vedlikehold,mekanisk feilsøking /vedlikehold,1
-e-commerce og digital markedsføring,e-commerce og digital markedsføring,1
-avkastning på investering (roi),avkastning på investering (roi),1
-forretningsstrategiplaner,forretningsstrategiplaner,1
-utføre dataanalyse,utføre dataanalyse,1
-natural language processing (nlp),natural language processing (nlp),1
-sosiale medier,sosiale medier,1
-.net maui (multi-platform app ui),.net maui (multi-platform app ui),1
-kundedialog,kundedialog,1
-vue.js,vue.js,1
-security incident and event managpement (siem),security incident and event managpement (siem),1
-intranett,intranett,1
-prometheus,prometheus,1
-utvikle apis,utvikle apis,1
-multi threaded programming,multi threaded programming,1
-felasa kategori c,felasa kategori c,1
-sikre interoperabilitet,sikre interoperabilitet,1
-bibliotek (programvare),bibliotek (programvare),1
-distribuert systemarkitektur (ikt),distribuert systemarkitektur (ikt),1
+kjemi,kjemi,1
+informasjonsarkitektur,informasjonsarkitektur,1
 responsiv nettside,responsiv nettside,1
-saksbehandle søknader,saksbehandle søknader,1
-bergenstesten,bergenstesten,1
-semrush,semrush,1
-kreativitet,kreativitet,1
-søkemotoroptimalisering,søkemotoroptimalisering,1
-elektronikk,elektronikk,1
-forbedre datakvalitet,forbedre datakvalitet,1
-qlikview,qlikview,1
-data struktur,data struktur,1
-performance marketing,performance marketing,1
-igangkjøring,igangkjøring,1
-sql script,sql script,1
-engelsk,engelsk,1
-hendelsehåndtering,hendelsehåndtering,1
-teknisk dokumentasjon,teknisk dokumentasjon,1
-analyse av stordata,analyse av stordata,1
-kvalitetsprosess,kvalitetsprosess,1
-analyse,analyse,1
-bicep (azure),bicep (azure),1
-teknologisk forståelse,teknologisk forståelse,1
-agile frameworks,agile frameworks,1
-tidsplanlegging,tidsplanlegging,1
-arm cortex-m,arm cortex-m,1
-virologi,virologi,1
-systemadministrasjon,systemadministrasjon,1
-salgsprosess,salgsprosess,1
-scala,scala,1
-apache kafka,apache kafka,1
-strategirådgivning,strategirådgivning,1
-dokumentering og registrering av informasjon,dokumentering og registrering av informasjon,1
-sikkerhetsteknikk,sikkerhetsteknikk,1
-tilbakemelding fra kunde,tilbakemelding fra kunde,1
-overvåkning og loggverktøy,overvåkning og loggverktøy,1
-visma business,visma business,1
-microsoft 365 sharepoint,microsoft 365 sharepoint,1
-veterinærmedisin,veterinærmedisin,1
-teknisk salg,teknisk salg,1
-fundraising,fundraising,1
-databaseadministrasjon,databaseadministrasjon,1
-clustering algorithms,clustering algorithms,1
-technical writing,technical writing,1
-metadata standards,metadata standards,1
-gmp (good manufacturing practice),gmp (good manufacturing practice),1
-gransking,gransking,1
-ict architecture,ict architecture,1
-trusseletterretning,trusseletterretning,1
-statistiske- og dataanalysemetoder,statistiske- og dataanalysemetoder,1
-adobe (software),adobe (software),1
-c#.net,c#.net,1
-byggeledelse,byggeledelse,1
-bpm,bpm,1
-ledelse,ledelse,1
-business-planlegging,business-planlegging,1
-microsoft teams,microsoft teams,1
-behandling av ikt-feil,behandling av ikt-feil,1
-økonomistyring,økonomistyring,1
-immunologi,immunologi,1
-business-analyse,business-analyse,1
-ifrs 1,ifrs 1,1
-native apps,native apps,1
-ikt-sikkerhetsstandarder,ikt-sikkerhetsstandarder,1
-utføre feltarbeid,utføre feltarbeid,1
-simulering,simulering,1
-flåtestyring,flåtestyring,1
-partielle differensialligninger,partielle differensialligninger,1
-ict security,ict security,1
-fse lav- og høyspenning,fse lav- og høyspenning,1
-azure sql-database,azure sql-database,1
-treasury/risk management (fi-fscm-trm),treasury/risk management (fi-fscm-trm),1
-programledelse,programledelse,1
-microsoft certified professional (mcp),microsoft certified professional (mcp),1
-prince2,prince2,1
-brukeropplevelsesundersøkelse,brukeropplevelsesundersøkelse,1
-microsoft,microsoft,1
-mqtt,mqtt,1
-git (versioning file system),git (versioning file system),1
-sap s/4hana,sap s/4hana,1
-markedsføringskanal,markedsføringskanal,1
-digitalisering av prosesser,digitalisering av prosesser,1
-prediktiv analyse,prediktiv analyse,1
-økonomisk administrasjon,økonomisk administrasjon,1
-bruk av agile-metodikk,bruk av agile-metodikk,1
+microsoft 365,microsoft 365,1
 bannerannonsering,bannerannonsering,1
-kontraktshåndtering,kontraktshåndtering,1
-etterretning,etterretning,1
-matlab,matlab,1
-containere eller containerplattformer,containere eller containerplattformer,1
-cellekultivering,cellekultivering,1
-dansk,dansk,1
-analyser økonomiske data,analyser økonomiske data,1
-utvikle digitale plattformer og tjenester,utvikle digitale plattformer og tjenester,1
-kuldeteknikk,kuldeteknikk,1
-statistisk modellering,statistisk modellering,1
-typografi,typografi,1
-document management systems (dms),document management systems (dms),1
-elektroindustri (bransje),elektroindustri (bransje),1
-kryptoanalyse,kryptoanalyse,1
-a/b-test,a/b-test,1
-sensorer,sensorer,1
-sqlite,sqlite,1
-forbedring av produksjonsbetingelser,forbedring av produksjonsbetingelser,1
-bedriftsrådgivning,bedriftsrådgivning,1
-forsyningskjedestyring,forsyningskjedestyring,1
-microservices,microservices,1
-azure synapse,azure synapse,1
+ytelsesanalyse,ytelsesanalyse,1
+polymerasekjedereaksjon (pkr),polymerasekjedereaksjon (pkr),1
+gårdsarbeid,gårdsarbeid,1
+operasjonelle problemer i industrielle prosesser,operasjonelle problemer i industrielle prosesser,1
+scala,scala,1
+byggeteknikk,byggeteknikk,1
+organisere delelager,organisere delelager,1
+kjemiteknikk,kjemiteknikk,1
 field programmable gate array (fpga),field programmable gate array (fpga),1
+sikkerhetsadministrasjon,sikkerhetsadministrasjon,1
+analysere kontrakter,analysere kontrakter,1
+modellbygging,modellbygging,1
+bruker-orientert design,bruker-orientert design,1
+agile scrum,agile scrum,1
+juridisk forskning,juridisk forskning,1
+sikkerhetsteknikk,sikkerhetsteknikk,1
+litteratursøk,litteratursøk,1
+microsoft active directory (ad),microsoft active directory (ad),1
+forretningsstrategiplaner,forretningsstrategiplaner,1
+følge opp kundefordringer,følge opp kundefordringer,1
+microservices,microservices,1
+ict security,ict security,1
+e-commerce og digital markedsføring,e-commerce og digital markedsføring,1
+hold av melkekyr,hold av melkekyr,1
+administrative ferdigheter,administrative ferdigheter,1
+sap (systems,sap (systems,1
+technical writing,technical writing,1
+mobile devices,mobile devices,1
+digitalisering av prosesser,digitalisering av prosesser,1
+bygge recommender- systemer,bygge recommender- systemer,1
+reparasjon,reparasjon,1
+vhdl,vhdl,1
+teknikker for virksomhetsverdsetting,teknikker for virksomhetsverdsetting,1
+c#.net,c#.net,1
+kuldeteknikk,kuldeteknikk,1
+automasjon,automasjon,1
+betjene og overvåke alarmsystemer,betjene og overvåke alarmsystemer,1
+.net maui (multi-platform app ui),.net maui (multi-platform app ui),1
+ifrs 15,ifrs 15,1
+elektriske generatorer,elektriske generatorer,1
+forsyningskjedestyring,forsyningskjedestyring,1
+active directory (it-nettverk),active directory (it-nettverk),1
+paid social,paid social,1
+treasury/risk management (fi-fscm-trm),treasury/risk management (fi-fscm-trm),1
+virologi,virologi,1
+autonome systemer,autonome systemer,1
+benytte maskinlæring,benytte maskinlæring,1
+behov og kravsanalyse,behov og kravsanalyse,1
+objektorientert programmering,objektorientert programmering,1
+flåtestyring,flåtestyring,1
+wordpress,wordpress,1
+sårbarhetsanalyse,sårbarhetsanalyse,1
 prosessutvikling (forretningsprosesser),prosessutvikling (forretningsprosesser),1
 content design,content design,1
-microsoft power point 2011,microsoft power point 2011,1
-ventilasjon,ventilasjon,1
-betjene og overvåke alarmsystemer,betjene og overvåke alarmsystemer,1
-.net framework,.net framework,1
-bank- og finansielle tjenester,bank- og finansielle tjenester,1
-cti,cti,1
-strategisk systemutvikling,strategisk systemutvikling,1
-gode norsk- og engelskkunnskaper,gode norsk- og engelskkunnskaper,1
-høyspenning,høyspenning,1
-matematisk modellering,matematisk modellering,1
-regresjonsanalyse,regresjonsanalyse,1
-wireframing,wireframing,1
-kommunikator,kommunikator,1
-active directory (it-nettverk),active directory (it-nettverk),1
-elektriske høyspenningsinstallasjoner,elektriske høyspenningsinstallasjoner,1
-flowcytometri,flowcytometri,1
-sikre informasjonspersonvern,sikre informasjonspersonvern,1
-håndtere fusjoner og oppkjøp,håndtere fusjoner og oppkjøp,1
+prosjektøkonomi,prosjektøkonomi,1
 dyreproduksjonsvitenskap,dyreproduksjonsvitenskap,1
-autonome systemer,autonome systemer,1
-github,github,1
-leting og produksjon av olje,leting og produksjon av olje,1
-prosessteknikk,prosessteknikk,1
-oseanografi,oseanografi,1
-modellbygging,modellbygging,1
+azure sql-database,azure sql-database,1
+prosjektledelse it,prosjektledelse it,1
+strategisk systemutvikling,strategisk systemutvikling,1
+behandling av ikt-feil,behandling av ikt-feil,1
+erfaring fra store byggeprosjekter,erfaring fra store byggeprosjekter,1
+montering av elektriske systemer,montering av elektriske systemer,1
+håndtere fusjoner og oppkjøp,håndtere fusjoner og oppkjøp,1
+ikt-infrastruktur,ikt-infrastruktur,1
+strategisk prosjektledelse,strategisk prosjektledelse,1
+brukeropplevelsesundersøkelse,brukeropplevelsesundersøkelse,1
+powershell,powershell,1
+blodbankvirksomhet,blodbankvirksomhet,1
+utvikle digitale plattformer og tjenester,utvikle digitale plattformer og tjenester,1
+koordinere prosjekter og forbedringsaktiviteter for it - løsninger,koordinere prosjekter og forbedringsaktiviteter for it - løsninger,1
+golang,golang,1
+miljøkonsekvensanalyse,miljøkonsekvensanalyse,1
+service-level-agreement (sla) management,service-level-agreement (sla) management,1
 shopify,shopify,1
+github,github,1
+utforme spørreskjemaer,utforme spørreskjemaer,1
+teknisk dokumentasjon,teknisk dokumentasjon,1
+embedded linux,embedded linux,1
+axapta,axapta,1
+teknisk salg,teknisk salg,1
+corporate finance,corporate finance,1
+samle opplysninger fra fysiske eller elektroniske kilder,samle opplysninger fra fysiske eller elektroniske kilder,1
+programvareintegrasjon,programvareintegrasjon,1
+angi prisstrategier,angi prisstrategier,1
+mikroelektronikk,mikroelektronikk,1
+genteknologi,genteknologi,1
+cti,cti,1
+engelsk,engelsk,1
+utvikle apis,utvikle apis,1
+prosessoptimalisering (produksjonsprosesser),prosessoptimalisering (produksjonsprosesser),1
+analysere forretningsprosesser,analysere forretningsprosesser,1
+wireframing,wireframing,1
+fundraising,fundraising,1
+aktiv oppfølging,aktiv oppfølging,1
+transformatorkunnskap,transformatorkunnskap,1
+plukking og pakking,plukking og pakking,1
+radiofrekvensteknikk,radiofrekvensteknikk,1
+air condition og byggteknologi,air condition og byggteknologi,1
+økonomistyring,økonomistyring,1
+gjennomføring av studier,gjennomføring av studier,1
+atlassian jira,atlassian jira,1
+embedded systems,embedded systems,1
+materialteknologi,materialteknologi,1
+markedsføringskanal,markedsføringskanal,1
+rapportering av ytelse,rapportering av ytelse,1
+visma business,visma business,1
+sql script,sql script,1
+kundedialog,kundedialog,1
+utføre laste- og losseoperasjoner,utføre laste- og losseoperasjoner,1
+bred klinisk erfaring,bred klinisk erfaring,1
+etterfylling,etterfylling,1
+regnskap og bokføring,regnskap og bokføring,1
+forskning,forskning,1
+ahrefs,ahrefs,1
+matematisk modellering,matematisk modellering,1
+salesforce inc.,salesforce inc.,1
+elektronikk,elektronikk,1
+trusseletterretning,trusseletterretning,1
+azure synapse,azure synapse,1
+key performance indicator (kpi),key performance indicator (kpi),1
+gransking,gransking,1
+prosessteknikk,prosessteknikk,1
+undersøkelser og eksamener,undersøkelser og eksamener,1
+flyteknikk,flyteknikk,1
+tableau,tableau,1
+fse lav- og høyspenning,fse lav- og høyspenning,1
+markedsstrategi,markedsstrategi,1
+gmp (good manufacturing practice),gmp (good manufacturing practice),1
+teknisk ledelse,teknisk ledelse,1
+prosjektstyringsmetodikk,prosjektstyringsmetodikk,1
+hjelpe til med innhold til sosiale medier,hjelpe til med innhold til sosiale medier,1
+cellekultivering,cellekultivering,1
 pumper,pumper,1
-følge opp kundefordringer,følge opp kundefordringer,1
+principal component analysis (pca),principal component analysis (pca),1
+elektroindustri (bransje),elektroindustri (bransje),1
+digital informasjonsinnhenting,digital informasjonsinnhenting,1
+analyse,analyse,1
+salgserfaring,salgserfaring,1
+visual basic,visual basic,1
+immunologi,immunologi,1
+vedlikehold av industrimaskiner,vedlikehold av industrimaskiner,1
+typografi,typografi,1
+intranett,intranett,1
+containere eller containerplattformer,containere eller containerplattformer,1
+lavspenning,lavspenning,1
+mqtt,mqtt,1
+prosjektleveranse,prosjektleveranse,1
+multi threaded programming,multi threaded programming,1
+sqlite,sqlite,1
+html & css,html & css,1
+brukeropplevelse,brukeropplevelse,1
+tidsplanlegging,tidsplanlegging,1
+gode norsk- og engelskkunnskaper,gode norsk- og engelskkunnskaper,1
+kryptoanalyse,kryptoanalyse,1
+gjennomføre helserelatert forskning,gjennomføre helserelatert forskning,1
+search engine marketing (sem),search engine marketing (sem),1
+kartlegge,kartlegge,1
+etterforskning av elektroniske spor,etterforskning av elektroniske spor,1
+arkitektonisk design,arkitektonisk design,1
