@@ -60,6 +60,8 @@ def replace_words(row):
         "rest (api)": "api",
         "utvikle apis": "api",
         "api - integrasjoner": "api",
+        "generative artificial intelligence": "kunstig intelligens",
+        "explainable ai": "kunstig intelligens",
     }
     if row["Source"] in skill_set:
         row["Source"] = skill_set[row["Source"]]
