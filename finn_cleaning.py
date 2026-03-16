@@ -222,5 +222,5 @@ skill_bridging["Key"] = skill_bridging["Key"].apply(sort)
 skill_bridging.head()
 
 skill_bridging.drop_duplicates(subset=["Key"], inplace=True)
-skill_bridging = skill_bridging[["Source", "Target", "Type", "Industry"]]
+skill_bridging = skill_bridging[["Source", "Target", "Type", "Industry", "search_word"]]
 skill_bridging.to_csv("data_edge_skill_bridging.csv", index=False, encoding="utf-8-sig")
