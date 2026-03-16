@@ -204,6 +204,7 @@ for _, row in df.iterrows():
                     {
                         "Source": skill1,
                         "Target": skill2,
+                        "search_word": row["file"],
                         "Type": "Undirected",
                         "Industry": row["Industry"].split(",")[0],
                     }

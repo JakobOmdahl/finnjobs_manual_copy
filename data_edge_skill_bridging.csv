@@ -1,0 +1,2796 @@
+﻿Source,Target,Type,Industry
+controlling,prognoser,Undirected,Olje og gass
+controlling,analyser økonomiske data,Undirected,Olje og gass
+controlling,automatisering,Undirected,Olje og gass
+controlling,rapportering,Undirected,Olje og gass
+controlling,budsjettarbeid,Undirected,Olje og gass
+prognoser,analyser økonomiske data,Undirected,Olje og gass
+prognoser,automatisering,Undirected,Olje og gass
+prognoser,rapportering,Undirected,Olje og gass
+prognoser,budsjettarbeid,Undirected,Olje og gass
+analyser økonomiske data,automatisering,Undirected,Olje og gass
+analyser økonomiske data,rapportering,Undirected,Olje og gass
+analyser økonomiske data,budsjettarbeid,Undirected,Olje og gass
+automatisering,rapportering,Undirected,Olje og gass
+automatisering,budsjettarbeid,Undirected,Olje og gass
+rapportering,budsjettarbeid,Undirected,Olje og gass
+prosessanalyse,koordinere prosjekter og forbedringsaktiviteter for it - løsninger,Undirected,Bank
+prosessanalyse,bygge datadashboard,Undirected,Bank
+prosessanalyse,microsoft excel,Undirected,Bank
+prosessanalyse,dataanalyseverktøy,Undirected,Bank
+koordinere prosjekter og forbedringsaktiviteter for it - løsninger,bygge datadashboard,Undirected,Bank
+koordinere prosjekter og forbedringsaktiviteter for it - løsninger,microsoft excel,Undirected,Bank
+koordinere prosjekter og forbedringsaktiviteter for it - løsninger,dataanalyseverktøy,Undirected,Bank
+bygge datadashboard,microsoft excel,Undirected,Bank
+bygge datadashboard,dataanalyseverktøy,Undirected,Bank
+microsoft excel,dataanalyseverktøy,Undirected,Bank
+prognoser,finansanalyse,Undirected,Olje og gass
+prognoser,sap s/4hana,Undirected,Olje og gass
+prognoser,microsoft office,Undirected,Olje og gass
+prognoser,power bi,Undirected,Olje og gass
+finansanalyse,sap s/4hana,Undirected,Olje og gass
+finansanalyse,microsoft office,Undirected,Olje og gass
+finansanalyse,power bi,Undirected,Olje og gass
+finansanalyse,rapportering,Undirected,Olje og gass
+finansanalyse,budsjettarbeid,Undirected,Olje og gass
+sap s/4hana,microsoft office,Undirected,Olje og gass
+sap s/4hana,power bi,Undirected,Olje og gass
+sap s/4hana,rapportering,Undirected,Olje og gass
+sap s/4hana,budsjettarbeid,Undirected,Olje og gass
+microsoft office,power bi,Undirected,Olje og gass
+microsoft office,rapportering,Undirected,Olje og gass
+microsoft office,budsjettarbeid,Undirected,Olje og gass
+power bi,rapportering,Undirected,Olje og gass
+power bi,budsjettarbeid,Undirected,Olje og gass
+agile scrum,prosjektstyringsmetodikk,Undirected,IT
+agile scrum,python (dataprogrammering),Undirected,IT
+agile scrum,sql,Undirected,IT
+agile scrum,prince 2 prosjektledelse metodikk,Undirected,IT
+agile scrum,it infrastructure library (itil),Undirected,IT
+agile scrum,databanksystemforståelse,Undirected,IT
+prosjektstyringsmetodikk,python (dataprogrammering),Undirected,IT
+prosjektstyringsmetodikk,sql,Undirected,IT
+prosjektstyringsmetodikk,prince 2 prosjektledelse metodikk,Undirected,IT
+prosjektstyringsmetodikk,it infrastructure library (itil),Undirected,IT
+prosjektstyringsmetodikk,databanksystemforståelse,Undirected,IT
+python (dataprogrammering),sql,Undirected,IT
+python (dataprogrammering),prince 2 prosjektledelse metodikk,Undirected,IT
+python (dataprogrammering),it infrastructure library (itil),Undirected,IT
+python (dataprogrammering),databanksystemforståelse,Undirected,IT
+sql,prince 2 prosjektledelse metodikk,Undirected,IT
+sql,it infrastructure library (itil),Undirected,IT
+sql,databanksystemforståelse,Undirected,IT
+prince 2 prosjektledelse metodikk,it infrastructure library (itil),Undirected,IT
+prince 2 prosjektledelse metodikk,databanksystemforståelse,Undirected,IT
+it infrastructure library (itil),databanksystemforståelse,Undirected,IT
+risikostyring,microsoft power point 2011,Undirected,Industri og produksjon
+risikostyring,rapportering,Undirected,Industri og produksjon
+risikostyring,microsoft excel,Undirected,Industri og produksjon
+microsoft power point 2011,rapportering,Undirected,Industri og produksjon
+microsoft power point 2011,microsoft excel,Undirected,Industri og produksjon
+rapportering,microsoft excel,Undirected,Industri og produksjon
+python (dataprogrammering),prognoser,Undirected,Bank
+python (dataprogrammering),analysere data,Undirected,Bank
+python (dataprogrammering),lage prediktive modeller,Undirected,Bank
+python (dataprogrammering),maskinlæringsmetoder,Undirected,Bank
+python (dataprogrammering),statistisk modellering,Undirected,Bank
+sql,prognoser,Undirected,Bank
+sql,analysere data,Undirected,Bank
+sql,lage prediktive modeller,Undirected,Bank
+sql,maskinlæringsmetoder,Undirected,Bank
+sql,statistisk modellering,Undirected,Bank
+prognoser,analysere data,Undirected,Bank
+prognoser,lage prediktive modeller,Undirected,Bank
+prognoser,maskinlæringsmetoder,Undirected,Bank
+prognoser,statistisk modellering,Undirected,Bank
+analysere data,lage prediktive modeller,Undirected,Bank
+analysere data,maskinlæringsmetoder,Undirected,Bank
+analysere data,statistisk modellering,Undirected,Bank
+lage prediktive modeller,maskinlæringsmetoder,Undirected,Bank
+lage prediktive modeller,statistisk modellering,Undirected,Bank
+maskinlæringsmetoder,statistisk modellering,Undirected,Bank
+finansanalyse,teknikker for virksomhetsverdsetting,Undirected,Bank
+finansanalyse,corporate finance,Undirected,Bank
+finansanalyse,modellering (økonomi),Undirected,Bank
+finansanalyse,mergers & acquisitions (m&a),Undirected,Bank
+finansanalyse,norsk,Undirected,Bank
+teknikker for virksomhetsverdsetting,corporate finance,Undirected,Bank
+teknikker for virksomhetsverdsetting,modellering (økonomi),Undirected,Bank
+teknikker for virksomhetsverdsetting,mergers & acquisitions (m&a),Undirected,Bank
+teknikker for virksomhetsverdsetting,norsk,Undirected,Bank
+corporate finance,modellering (økonomi),Undirected,Bank
+corporate finance,mergers & acquisitions (m&a),Undirected,Bank
+corporate finance,norsk,Undirected,Bank
+modellering (økonomi),mergers & acquisitions (m&a),Undirected,Bank
+modellering (økonomi),norsk,Undirected,Bank
+mergers & acquisitions (m&a),norsk,Undirected,Bank
+controlling,erp-systemer,Undirected,Bank
+controlling,analysere data,Undirected,Bank
+controlling,microsoft excel,Undirected,Bank
+controlling,bokføring,Undirected,Bank
+controlling,norsk,Undirected,Bank
+prognoser,erp-systemer,Undirected,Bank
+prognoser,microsoft excel,Undirected,Bank
+prognoser,bokføring,Undirected,Bank
+prognoser,norsk,Undirected,Bank
+erp-systemer,analysere data,Undirected,Bank
+erp-systemer,rapportering,Undirected,Bank
+erp-systemer,microsoft excel,Undirected,Bank
+erp-systemer,bokføring,Undirected,Bank
+erp-systemer,norsk,Undirected,Bank
+analysere data,rapportering,Undirected,Bank
+analysere data,microsoft excel,Undirected,Bank
+analysere data,bokføring,Undirected,Bank
+analysere data,norsk,Undirected,Bank
+rapportering,bokføring,Undirected,Bank
+rapportering,norsk,Undirected,Bank
+microsoft excel,bokføring,Undirected,Bank
+microsoft excel,norsk,Undirected,Bank
+bokføring,norsk,Undirected,Bank
+due diligence,forretningsstrategiplaner,Undirected,Konsulent og rådgivning
+due diligence,håndtere fusjoner og oppkjøp,Undirected,Konsulent og rådgivning
+due diligence,prosjekteringsledelse,Undirected,Konsulent og rådgivning
+due diligence,markedsanalyse,Undirected,Konsulent og rådgivning
+forretningsstrategiplaner,håndtere fusjoner og oppkjøp,Undirected,Konsulent og rådgivning
+forretningsstrategiplaner,prosjekteringsledelse,Undirected,Konsulent og rådgivning
+forretningsstrategiplaner,markedsanalyse,Undirected,Konsulent og rådgivning
+håndtere fusjoner og oppkjøp,prosjekteringsledelse,Undirected,Konsulent og rådgivning
+håndtere fusjoner og oppkjøp,markedsanalyse,Undirected,Konsulent og rådgivning
+prosjekteringsledelse,markedsanalyse,Undirected,Konsulent og rådgivning
+planlegge software-testing,prosjekteringsledelse,Undirected,Bank
+planlegge software-testing,behov og kravsanalyse,Undirected,Bank
+prosjekteringsledelse,behov og kravsanalyse,Undirected,Bank
+amazon web services (aws),sql,Undirected,Bank
+amazon web services (aws),business-analyse,Undirected,Bank
+amazon web services (aws),konsekvensanalyse,Undirected,Bank
+sql,business-analyse,Undirected,Bank
+sql,konsekvensanalyse,Undirected,Bank
+business-analyse,konsekvensanalyse,Undirected,Bank
+behandle data,kvalitetssikring av data,Undirected,Drift og vedlikeholdstjenester
+behandle data,power bi,Undirected,Drift og vedlikeholdstjenester
+behandle data,standardisere prosesser,Undirected,Drift og vedlikeholdstjenester
+behandle data,analysere data,Undirected,Drift og vedlikeholdstjenester
+behandle data,rapportering,Undirected,Drift og vedlikeholdstjenester
+behandle data,microsoft excel,Undirected,Drift og vedlikeholdstjenester
+behandle data,gode norsk- og engelskkunnskaper,Undirected,Drift og vedlikeholdstjenester
+kvalitetssikring av data,power bi,Undirected,Drift og vedlikeholdstjenester
+kvalitetssikring av data,standardisere prosesser,Undirected,Drift og vedlikeholdstjenester
+kvalitetssikring av data,analysere data,Undirected,Drift og vedlikeholdstjenester
+kvalitetssikring av data,rapportering,Undirected,Drift og vedlikeholdstjenester
+kvalitetssikring av data,microsoft excel,Undirected,Drift og vedlikeholdstjenester
+kvalitetssikring av data,gode norsk- og engelskkunnskaper,Undirected,Drift og vedlikeholdstjenester
+power bi,standardisere prosesser,Undirected,Drift og vedlikeholdstjenester
+power bi,analysere data,Undirected,Drift og vedlikeholdstjenester
+power bi,microsoft excel,Undirected,Drift og vedlikeholdstjenester
+power bi,gode norsk- og engelskkunnskaper,Undirected,Drift og vedlikeholdstjenester
+standardisere prosesser,analysere data,Undirected,Drift og vedlikeholdstjenester
+standardisere prosesser,rapportering,Undirected,Drift og vedlikeholdstjenester
+standardisere prosesser,microsoft excel,Undirected,Drift og vedlikeholdstjenester
+standardisere prosesser,gode norsk- og engelskkunnskaper,Undirected,Drift og vedlikeholdstjenester
+analysere data,gode norsk- og engelskkunnskaper,Undirected,Drift og vedlikeholdstjenester
+rapportering,gode norsk- og engelskkunnskaper,Undirected,Drift og vedlikeholdstjenester
+microsoft excel,gode norsk- og engelskkunnskaper,Undirected,Drift og vedlikeholdstjenester
+analyser av nøkkeltall,treasury/risk management (fi-fscm-trm),Undirected,Bank
+analyser av nøkkeltall,budsjettarbeid,Undirected,Bank
+analyser av nøkkeltall,mergers & acquisitions (m&a),Undirected,Bank
+analyser av nøkkeltall,finansiell rapportering,Undirected,Bank
+analyser av nøkkeltall,likviditetsstyring,Undirected,Bank
+analyser av nøkkeltall,finansiell planlegging og analyse,Undirected,Bank
+treasury/risk management (fi-fscm-trm),budsjettarbeid,Undirected,Bank
+treasury/risk management (fi-fscm-trm),mergers & acquisitions (m&a),Undirected,Bank
+treasury/risk management (fi-fscm-trm),finansiell rapportering,Undirected,Bank
+treasury/risk management (fi-fscm-trm),likviditetsstyring,Undirected,Bank
+treasury/risk management (fi-fscm-trm),finansiell planlegging og analyse,Undirected,Bank
+budsjettarbeid,mergers & acquisitions (m&a),Undirected,Bank
+budsjettarbeid,finansiell rapportering,Undirected,Bank
+budsjettarbeid,likviditetsstyring,Undirected,Bank
+budsjettarbeid,finansiell planlegging og analyse,Undirected,Bank
+mergers & acquisitions (m&a),finansiell rapportering,Undirected,Bank
+mergers & acquisitions (m&a),likviditetsstyring,Undirected,Bank
+mergers & acquisitions (m&a),finansiell planlegging og analyse,Undirected,Bank
+finansiell rapportering,likviditetsstyring,Undirected,Bank
+finansiell rapportering,finansiell planlegging og analyse,Undirected,Bank
+likviditetsstyring,finansiell planlegging og analyse,Undirected,Bank
+data modeling,sql,Undirected,Butikk og varehandel
+data modeling,data warehouse,Undirected,Butikk og varehandel
+data modeling,analyse av forretningsdata,Undirected,Butikk og varehandel
+data modeling,administrere data,Undirected,Butikk og varehandel
+data modeling,bygge datadashboard,Undirected,Butikk og varehandel
+data modeling,analysere data,Undirected,Butikk og varehandel
+data modeling,microsoft excel,Undirected,Butikk og varehandel
+sql,data warehouse,Undirected,Butikk og varehandel
+sql,analyse av forretningsdata,Undirected,Butikk og varehandel
+sql,administrere data,Undirected,Butikk og varehandel
+sql,bygge datadashboard,Undirected,Butikk og varehandel
+sql,microsoft excel,Undirected,Butikk og varehandel
+data warehouse,analyse av forretningsdata,Undirected,Butikk og varehandel
+data warehouse,administrere data,Undirected,Butikk og varehandel
+data warehouse,bygge datadashboard,Undirected,Butikk og varehandel
+data warehouse,analysere data,Undirected,Butikk og varehandel
+data warehouse,microsoft excel,Undirected,Butikk og varehandel
+analyse av forretningsdata,administrere data,Undirected,Butikk og varehandel
+analyse av forretningsdata,bygge datadashboard,Undirected,Butikk og varehandel
+analyse av forretningsdata,analysere data,Undirected,Butikk og varehandel
+analyse av forretningsdata,microsoft excel,Undirected,Butikk og varehandel
+administrere data,bygge datadashboard,Undirected,Butikk og varehandel
+administrere data,analysere data,Undirected,Butikk og varehandel
+administrere data,microsoft excel,Undirected,Butikk og varehandel
+bygge datadashboard,analysere data,Undirected,Butikk og varehandel
+kontinuerlig forbedringsprosess (cip),kunnskap om teknologi,Undirected,Bank
+kontinuerlig forbedringsprosess (cip),kontinuerlig forbedringsarbeid,Undirected,Bank
+kontinuerlig forbedringsprosess (cip),teknologiledelse,Undirected,Bank
+kunnskap om teknologi,kontinuerlig forbedringsarbeid,Undirected,Bank
+kunnskap om teknologi,teknologiledelse,Undirected,Bank
+kontinuerlig forbedringsarbeid,teknologiledelse,Undirected,Bank
+software engineering,informatikk,Undirected,Forskning
+software engineering,programmeringsspråk,Undirected,Forskning
+informatikk,programmeringsspråk,Undirected,Forskning
+linux,python (dataprogrammering),Undirected,Fiskeri og oppdrett
+linux,git (versioning file system),Undirected,Fiskeri og oppdrett
+linux,utvikle brukergrensesnitt,Undirected,Fiskeri og oppdrett
+python (dataprogrammering),git (versioning file system),Undirected,Fiskeri og oppdrett
+python (dataprogrammering),utvikle brukergrensesnitt,Undirected,Fiskeri og oppdrett
+git (versioning file system),utvikle brukergrensesnitt,Undirected,Fiskeri og oppdrett
+data modeling,organisere data,Undirected,IT
+data modeling,datavitenskap,Undirected,IT
+data modeling,informasjonssikkerhet,Undirected,IT
+data modeling,utvikle digitale plattformer og tjenester,Undirected,IT
+data modeling,informatikk,Undirected,IT
+organisere data,analyse av forretningsdata,Undirected,IT
+organisere data,administrere data,Undirected,IT
+organisere data,datavitenskap,Undirected,IT
+organisere data,informasjonssikkerhet,Undirected,IT
+organisere data,utvikle digitale plattformer og tjenester,Undirected,IT
+organisere data,informatikk,Undirected,IT
+analyse av forretningsdata,datavitenskap,Undirected,IT
+analyse av forretningsdata,informasjonssikkerhet,Undirected,IT
+analyse av forretningsdata,utvikle digitale plattformer og tjenester,Undirected,IT
+analyse av forretningsdata,informatikk,Undirected,IT
+administrere data,datavitenskap,Undirected,IT
+administrere data,informasjonssikkerhet,Undirected,IT
+administrere data,utvikle digitale plattformer og tjenester,Undirected,IT
+administrere data,informatikk,Undirected,IT
+datavitenskap,informasjonssikkerhet,Undirected,IT
+datavitenskap,utvikle digitale plattformer og tjenester,Undirected,IT
+datavitenskap,informatikk,Undirected,IT
+informasjonssikkerhet,utvikle digitale plattformer og tjenester,Undirected,IT
+informasjonssikkerhet,informatikk,Undirected,IT
+utvikle digitale plattformer og tjenester,informatikk,Undirected,IT
+software engineering,moderne software-utvikling,Undirected,Forskning
+moderne software-utvikling,programmeringsspråk,Undirected,Forskning
+hendelsehåndtering,security incident and event managpement (siem),Undirected,IT
+hendelsehåndtering,etterretning,Undirected,IT
+hendelsehåndtering,etterforskning av elektroniske spor,Undirected,IT
+hendelsehåndtering,analyse,Undirected,IT
+hendelsehåndtering,trusseletterretning,Undirected,IT
+hendelsehåndtering,dataanalyseverktøy,Undirected,IT
+hendelsehåndtering,cti,Undirected,IT
+security incident and event managpement (siem),etterretning,Undirected,IT
+security incident and event managpement (siem),etterforskning av elektroniske spor,Undirected,IT
+security incident and event managpement (siem),analyse,Undirected,IT
+security incident and event managpement (siem),trusseletterretning,Undirected,IT
+security incident and event managpement (siem),dataanalyseverktøy,Undirected,IT
+security incident and event managpement (siem),cti,Undirected,IT
+etterretning,etterforskning av elektroniske spor,Undirected,IT
+etterretning,analyse,Undirected,IT
+etterretning,trusseletterretning,Undirected,IT
+etterretning,dataanalyseverktøy,Undirected,IT
+etterretning,cti,Undirected,IT
+etterforskning av elektroniske spor,analyse,Undirected,IT
+etterforskning av elektroniske spor,trusseletterretning,Undirected,IT
+etterforskning av elektroniske spor,dataanalyseverktøy,Undirected,IT
+etterforskning av elektroniske spor,cti,Undirected,IT
+analyse,trusseletterretning,Undirected,IT
+analyse,dataanalyseverktøy,Undirected,IT
+analyse,cti,Undirected,IT
+trusseletterretning,dataanalyseverktøy,Undirected,IT
+trusseletterretning,cti,Undirected,IT
+dataanalyseverktøy,cti,Undirected,IT
+airflow,scala,Undirected,Konsulent og rådgivning
+airflow,python (dataprogrammering),Undirected,Konsulent og rådgivning
+airflow,sql,Undirected,Konsulent og rådgivning
+airflow,data warehouse,Undirected,Konsulent og rådgivning
+airflow,snowflake,Undirected,Konsulent og rådgivning
+airflow,datastyring,Undirected,Konsulent og rådgivning
+scala,python (dataprogrammering),Undirected,Konsulent og rådgivning
+scala,sql,Undirected,Konsulent og rådgivning
+scala,data warehouse,Undirected,Konsulent og rådgivning
+scala,snowflake,Undirected,Konsulent og rådgivning
+scala,datastyring,Undirected,Konsulent og rådgivning
+python (dataprogrammering),data warehouse,Undirected,Konsulent og rådgivning
+python (dataprogrammering),snowflake,Undirected,Konsulent og rådgivning
+python (dataprogrammering),datastyring,Undirected,Konsulent og rådgivning
+sql,snowflake,Undirected,Konsulent og rådgivning
+sql,datastyring,Undirected,Konsulent og rådgivning
+data warehouse,snowflake,Undirected,Konsulent og rådgivning
+data warehouse,datastyring,Undirected,Konsulent og rådgivning
+snowflake,datastyring,Undirected,Konsulent og rådgivning
+frikildeetterretning,python (dataprogrammering),Undirected,Bank
+frikildeetterretning,samle opplysninger fra fysiske eller elektroniske kilder,Undirected,Bank
+frikildeetterretning,etterforsking,Undirected,Bank
+frikildeetterretning,risikovurdering,Undirected,Bank
+frikildeetterretning,analyse av stordata,Undirected,Bank
+frikildeetterretning,gransking,Undirected,Bank
+frikildeetterretning,dataanalyseverktøy,Undirected,Bank
+python (dataprogrammering),samle opplysninger fra fysiske eller elektroniske kilder,Undirected,Bank
+python (dataprogrammering),etterforsking,Undirected,Bank
+python (dataprogrammering),risikovurdering,Undirected,Bank
+python (dataprogrammering),analyse av stordata,Undirected,Bank
+python (dataprogrammering),gransking,Undirected,Bank
+python (dataprogrammering),dataanalyseverktøy,Undirected,Bank
+samle opplysninger fra fysiske eller elektroniske kilder,etterforsking,Undirected,Bank
+samle opplysninger fra fysiske eller elektroniske kilder,risikovurdering,Undirected,Bank
+samle opplysninger fra fysiske eller elektroniske kilder,analyse av stordata,Undirected,Bank
+samle opplysninger fra fysiske eller elektroniske kilder,gransking,Undirected,Bank
+samle opplysninger fra fysiske eller elektroniske kilder,dataanalyseverktøy,Undirected,Bank
+etterforsking,risikovurdering,Undirected,Bank
+etterforsking,analyse av stordata,Undirected,Bank
+etterforsking,gransking,Undirected,Bank
+etterforsking,dataanalyseverktøy,Undirected,Bank
+risikovurdering,analyse av stordata,Undirected,Bank
+risikovurdering,gransking,Undirected,Bank
+risikovurdering,dataanalyseverktøy,Undirected,Bank
+analyse av stordata,gransking,Undirected,Bank
+analyse av stordata,dataanalyseverktøy,Undirected,Bank
+gransking,dataanalyseverktøy,Undirected,Bank
+datainnsamling og analyse,internet of things,Undirected,Offentlig administrasjon
+datainnsamling og analyse,datavitenskap,Undirected,Offentlig administrasjon
+datainnsamling og analyse,analysere data,Undirected,Offentlig administrasjon
+datainnsamling og analyse,kjemi,Undirected,Offentlig administrasjon
+internet of things,datavitenskap,Undirected,Offentlig administrasjon
+internet of things,analysere data,Undirected,Offentlig administrasjon
+internet of things,kjemi,Undirected,Offentlig administrasjon
+datavitenskap,analysere data,Undirected,Offentlig administrasjon
+datavitenskap,kjemi,Undirected,Offentlig administrasjon
+analysere data,kjemi,Undirected,Offentlig administrasjon
+python (dataprogrammering),maskinlæring,Undirected,IT
+python (dataprogrammering),analyse av forretningsdata,Undirected,IT
+python (dataprogrammering),azure ad,Undirected,IT
+python (dataprogrammering),statistikk,Undirected,IT
+python (dataprogrammering),dataarkitektur,Undirected,IT
+sql,maskinlæring,Undirected,IT
+sql,azure ad,Undirected,IT
+sql,statistikk,Undirected,IT
+sql,dataarkitektur,Undirected,IT
+maskinlæring,analyse av forretningsdata,Undirected,IT
+maskinlæring,analysere data,Undirected,IT
+maskinlæring,azure ad,Undirected,IT
+maskinlæring,statistikk,Undirected,IT
+maskinlæring,dataarkitektur,Undirected,IT
+analyse av forretningsdata,azure ad,Undirected,IT
+analyse av forretningsdata,statistikk,Undirected,IT
+analyse av forretningsdata,dataarkitektur,Undirected,IT
+analysere data,azure ad,Undirected,IT
+analysere data,statistikk,Undirected,IT
+analysere data,dataarkitektur,Undirected,IT
+azure ad,statistikk,Undirected,IT
+azure ad,dataarkitektur,Undirected,IT
+statistikk,dataarkitektur,Undirected,IT
+bygge recommender- systemer,maskinlæring,Undirected,Internettbaserte tjenester
+bygge recommender- systemer,ci/cd (continuous integration and continuous delivery),Undirected,Internettbaserte tjenester
+bygge recommender- systemer,datavitenskap,Undirected,Internettbaserte tjenester
+bygge recommender- systemer,development of data pipelines,Undirected,Internettbaserte tjenester
+bygge recommender- systemer,mlops,Undirected,Internettbaserte tjenester
+maskinlæring,ci/cd (continuous integration and continuous delivery),Undirected,Internettbaserte tjenester
+maskinlæring,datavitenskap,Undirected,Internettbaserte tjenester
+maskinlæring,development of data pipelines,Undirected,Internettbaserte tjenester
+maskinlæring,mlops,Undirected,Internettbaserte tjenester
+ci/cd (continuous integration and continuous delivery),datavitenskap,Undirected,Internettbaserte tjenester
+ci/cd (continuous integration and continuous delivery),development of data pipelines,Undirected,Internettbaserte tjenester
+ci/cd (continuous integration and continuous delivery),mlops,Undirected,Internettbaserte tjenester
+datavitenskap,development of data pipelines,Undirected,Internettbaserte tjenester
+datavitenskap,mlops,Undirected,Internettbaserte tjenester
+development of data pipelines,mlops,Undirected,Internettbaserte tjenester
+prosessutvikling (forretningsprosesser),plukking og pakking,Undirected,Olje og gass
+prosessutvikling (forretningsprosesser),organisere lager,Undirected,Olje og gass
+prosessutvikling (forretningsprosesser),erp-systemer,Undirected,Olje og gass
+prosessutvikling (forretningsprosesser),logistikk,Undirected,Olje og gass
+prosessutvikling (forretningsprosesser),utføre laste- og losseoperasjoner,Undirected,Olje og gass
+prosessutvikling (forretningsprosesser),varemottak,Undirected,Olje og gass
+prosessutvikling (forretningsprosesser),organisere delelager,Undirected,Olje og gass
+plukking og pakking,organisere lager,Undirected,Olje og gass
+plukking og pakking,erp-systemer,Undirected,Olje og gass
+plukking og pakking,logistikk,Undirected,Olje og gass
+plukking og pakking,utføre laste- og losseoperasjoner,Undirected,Olje og gass
+plukking og pakking,varemottak,Undirected,Olje og gass
+plukking og pakking,organisere delelager,Undirected,Olje og gass
+organisere lager,erp-systemer,Undirected,Olje og gass
+organisere lager,logistikk,Undirected,Olje og gass
+organisere lager,utføre laste- og losseoperasjoner,Undirected,Olje og gass
+organisere lager,varemottak,Undirected,Olje og gass
+organisere lager,organisere delelager,Undirected,Olje og gass
+erp-systemer,logistikk,Undirected,Olje og gass
+erp-systemer,utføre laste- og losseoperasjoner,Undirected,Olje og gass
+erp-systemer,varemottak,Undirected,Olje og gass
+erp-systemer,organisere delelager,Undirected,Olje og gass
+logistikk,utføre laste- og losseoperasjoner,Undirected,Olje og gass
+logistikk,varemottak,Undirected,Olje og gass
+logistikk,organisere delelager,Undirected,Olje og gass
+utføre laste- og losseoperasjoner,varemottak,Undirected,Olje og gass
+utføre laste- og losseoperasjoner,organisere delelager,Undirected,Olje og gass
+varemottak,organisere delelager,Undirected,Olje og gass
+kvalitetssikring,behersker root cause analysis,Undirected,Bil
+kvalitetssikring,kvalitetssikring av data,Undirected,Bil
+kvalitetssikring,service-level-agreement (sla) management,Undirected,Bil
+kvalitetssikring,microsoft excel,Undirected,Bil
+kvalitetssikring,kontinuerlig forbedringsarbeid,Undirected,Bil
+behersker root cause analysis,kvalitetssikring av data,Undirected,Bil
+behersker root cause analysis,service-level-agreement (sla) management,Undirected,Bil
+behersker root cause analysis,microsoft excel,Undirected,Bil
+behersker root cause analysis,kontinuerlig forbedringsarbeid,Undirected,Bil
+kvalitetssikring av data,service-level-agreement (sla) management,Undirected,Bil
+kvalitetssikring av data,kontinuerlig forbedringsarbeid,Undirected,Bil
+service-level-agreement (sla) management,microsoft excel,Undirected,Bil
+service-level-agreement (sla) management,kontinuerlig forbedringsarbeid,Undirected,Bil
+microsoft excel,kontinuerlig forbedringsarbeid,Undirected,Bil
+prediktiv analyse,python (dataprogrammering),Undirected,Reise og turisme
+prediktiv analyse,tensorflow,Undirected,Reise og turisme
+prediktiv analyse,sql,Undirected,Reise og turisme
+prediktiv analyse,maskinlæring,Undirected,Reise og turisme
+prediktiv analyse,mlops,Undirected,Reise og turisme
+prediktiv analyse,scikit-learn,Undirected,Reise og turisme
+prediktiv analyse,pytorch,Undirected,Reise og turisme
+python (dataprogrammering),tensorflow,Undirected,Reise og turisme
+python (dataprogrammering),mlops,Undirected,Reise og turisme
+python (dataprogrammering),scikit-learn,Undirected,Reise og turisme
+python (dataprogrammering),pytorch,Undirected,Reise og turisme
+tensorflow,sql,Undirected,Reise og turisme
+tensorflow,maskinlæring,Undirected,Reise og turisme
+tensorflow,mlops,Undirected,Reise og turisme
+tensorflow,scikit-learn,Undirected,Reise og turisme
+tensorflow,pytorch,Undirected,Reise og turisme
+sql,mlops,Undirected,Reise og turisme
+sql,scikit-learn,Undirected,Reise og turisme
+sql,pytorch,Undirected,Reise og turisme
+maskinlæring,scikit-learn,Undirected,Reise og turisme
+maskinlæring,pytorch,Undirected,Reise og turisme
+mlops,scikit-learn,Undirected,Reise og turisme
+mlops,pytorch,Undirected,Reise og turisme
+scikit-learn,pytorch,Undirected,Reise og turisme
+sikkerhetsklarering,ingeniørkunst,Undirected,Elektronikk
+sikkerhetsklarering,drifte vedlikeholdssystemer,Undirected,Elektronikk
+sikkerhetsklarering,flyteknikk,Undirected,Elektronikk
+sikkerhetsklarering,analysere data,Undirected,Elektronikk
+ingeniørkunst,drifte vedlikeholdssystemer,Undirected,Elektronikk
+ingeniørkunst,flyteknikk,Undirected,Elektronikk
+ingeniørkunst,analysere data,Undirected,Elektronikk
+drifte vedlikeholdssystemer,flyteknikk,Undirected,Elektronikk
+drifte vedlikeholdssystemer,analysere data,Undirected,Elektronikk
+flyteknikk,analysere data,Undirected,Elektronikk
+python (dataprogrammering),datavitenskap,Undirected,IT
+sql,datavitenskap,Undirected,IT
+data modeling,python (dataprogrammering),Undirected,IT
+data modeling,ci/cd (continuous integration and continuous delivery),Undirected,IT
+data modeling,power bi,Undirected,IT
+data modeling,pyspark,Undirected,IT
+data modeling,azure ad,Undirected,IT
+data modeling,dataarkitektur,Undirected,IT
+python (dataprogrammering),ci/cd (continuous integration and continuous delivery),Undirected,IT
+python (dataprogrammering),power bi,Undirected,IT
+python (dataprogrammering),pyspark,Undirected,IT
+sql,ci/cd (continuous integration and continuous delivery),Undirected,IT
+sql,power bi,Undirected,IT
+sql,pyspark,Undirected,IT
+ci/cd (continuous integration and continuous delivery),power bi,Undirected,IT
+ci/cd (continuous integration and continuous delivery),pyspark,Undirected,IT
+ci/cd (continuous integration and continuous delivery),azure ad,Undirected,IT
+ci/cd (continuous integration and continuous delivery),dataarkitektur,Undirected,IT
+power bi,pyspark,Undirected,IT
+power bi,azure ad,Undirected,IT
+power bi,dataarkitektur,Undirected,IT
+pyspark,azure ad,Undirected,IT
+pyspark,dataarkitektur,Undirected,IT
+prosjekteringsledelse,kunnskap om produktledelse,Undirected,Fiskeri og oppdrett
+prosjekteringsledelse,programvare som tjeneste,Undirected,Fiskeri og oppdrett
+prosjekteringsledelse,akvakultur,Undirected,Fiskeri og oppdrett
+kunnskap om produktledelse,programvare som tjeneste,Undirected,Fiskeri og oppdrett
+kunnskap om produktledelse,akvakultur,Undirected,Fiskeri og oppdrett
+programvare som tjeneste,akvakultur,Undirected,Fiskeri og oppdrett
+kvalitetssikring av data,statistikk,Undirected,Offentlig administrasjon
+kvalitetssikring av data,programmeringsspråk,Undirected,Offentlig administrasjon
+statistikk,programmeringsspråk,Undirected,Offentlig administrasjon
+analysere data,programmeringsspråk,Undirected,Offentlig administrasjon
+python (dataprogrammering),apache spark,Undirected,IT - programvare
+python (dataprogrammering),a/b-testing (konverteringsoptimalisering),Undirected,IT - programvare
+sql,apache spark,Undirected,IT - programvare
+sql,a/b-testing (konverteringsoptimalisering),Undirected,IT - programvare
+apache spark,a/b-testing (konverteringsoptimalisering),Undirected,IT - programvare
+apache spark,analysere data,Undirected,IT - programvare
+apache spark,lage prediktive modeller,Undirected,IT - programvare
+a/b-testing (konverteringsoptimalisering),analysere data,Undirected,IT - programvare
+a/b-testing (konverteringsoptimalisering),lage prediktive modeller,Undirected,IT - programvare
+python (dataprogrammering),ingeniørarbeid,Undirected,Medisinsk utstyr og rekvisita
+python (dataprogrammering),kunstig intelligens,Undirected,Medisinsk utstyr og rekvisita
+python (dataprogrammering),informatikk,Undirected,Medisinsk utstyr og rekvisita
+maskinlæring,ingeniørarbeid,Undirected,Medisinsk utstyr og rekvisita
+maskinlæring,kunstig intelligens,Undirected,Medisinsk utstyr og rekvisita
+maskinlæring,informatikk,Undirected,Medisinsk utstyr og rekvisita
+datavitenskap,ingeniørarbeid,Undirected,Medisinsk utstyr og rekvisita
+datavitenskap,kunstig intelligens,Undirected,Medisinsk utstyr og rekvisita
+datavitenskap,azure ad,Undirected,Medisinsk utstyr og rekvisita
+ingeniørarbeid,kunstig intelligens,Undirected,Medisinsk utstyr og rekvisita
+ingeniørarbeid,mlops,Undirected,Medisinsk utstyr og rekvisita
+ingeniørarbeid,azure ad,Undirected,Medisinsk utstyr og rekvisita
+ingeniørarbeid,informatikk,Undirected,Medisinsk utstyr og rekvisita
+kunstig intelligens,mlops,Undirected,Medisinsk utstyr og rekvisita
+kunstig intelligens,azure ad,Undirected,Medisinsk utstyr og rekvisita
+kunstig intelligens,informatikk,Undirected,Medisinsk utstyr og rekvisita
+mlops,azure ad,Undirected,Medisinsk utstyr og rekvisita
+mlops,informatikk,Undirected,Medisinsk utstyr og rekvisita
+azure ad,informatikk,Undirected,Medisinsk utstyr og rekvisita
+cybersikkerhet,servicearbeid,Undirected,Farmasi og legemiddel
+cybersikkerhet,opprettholde dataintegritet,Undirected,Farmasi og legemiddel
+cybersikkerhet,power bi,Undirected,Farmasi og legemiddel
+cybersikkerhet,rapporteringsverktøy,Undirected,Farmasi og legemiddel
+cybersikkerhet,analysere data,Undirected,Farmasi og legemiddel
+cybersikkerhet,dataanalyseverktøy,Undirected,Farmasi og legemiddel
+servicearbeid,opprettholde dataintegritet,Undirected,Farmasi og legemiddel
+servicearbeid,power bi,Undirected,Farmasi og legemiddel
+servicearbeid,rapporteringsverktøy,Undirected,Farmasi og legemiddel
+servicearbeid,analysere data,Undirected,Farmasi og legemiddel
+servicearbeid,dataanalyseverktøy,Undirected,Farmasi og legemiddel
+opprettholde dataintegritet,power bi,Undirected,Farmasi og legemiddel
+opprettholde dataintegritet,rapporteringsverktøy,Undirected,Farmasi og legemiddel
+opprettholde dataintegritet,analysere data,Undirected,Farmasi og legemiddel
+opprettholde dataintegritet,dataanalyseverktøy,Undirected,Farmasi og legemiddel
+power bi,rapporteringsverktøy,Undirected,Farmasi og legemiddel
+power bi,dataanalyseverktøy,Undirected,Farmasi og legemiddel
+rapporteringsverktøy,analysere data,Undirected,Farmasi og legemiddel
+rapporteringsverktøy,dataanalyseverktøy,Undirected,Farmasi og legemiddel
+analysere data,dataanalyseverktøy,Undirected,Farmasi og legemiddel
+ta blodprøver,bioingeniørfaglig kompetanse,Undirected,Forskning
+ta blodprøver,immunologi,Undirected,Forskning
+ta blodprøver,blodbankvirksomhet,Undirected,Forskning
+ta blodprøver,dyreforsøk,Undirected,Forskning
+ta blodprøver,molekylærbiologi,Undirected,Forskning
+ta blodprøver,felasa kategori c,Undirected,Forskning
+bioingeniørfaglig kompetanse,immunologi,Undirected,Forskning
+bioingeniørfaglig kompetanse,blodbankvirksomhet,Undirected,Forskning
+bioingeniørfaglig kompetanse,dyreforsøk,Undirected,Forskning
+bioingeniørfaglig kompetanse,molekylærbiologi,Undirected,Forskning
+bioingeniørfaglig kompetanse,felasa kategori c,Undirected,Forskning
+immunologi,blodbankvirksomhet,Undirected,Forskning
+immunologi,dyreforsøk,Undirected,Forskning
+immunologi,molekylærbiologi,Undirected,Forskning
+immunologi,felasa kategori c,Undirected,Forskning
+blodbankvirksomhet,dyreforsøk,Undirected,Forskning
+blodbankvirksomhet,molekylærbiologi,Undirected,Forskning
+blodbankvirksomhet,felasa kategori c,Undirected,Forskning
+dyreforsøk,molekylærbiologi,Undirected,Forskning
+dyreforsøk,felasa kategori c,Undirected,Forskning
+molekylærbiologi,felasa kategori c,Undirected,Forskning
+python (dataprogrammering),programmeringsspråk,Undirected,Bank
+python (dataprogrammering),bash (operativsystem),Undirected,Bank
+python (dataprogrammering),automatisering,Undirected,Bank
+python (dataprogrammering),powershell,Undirected,Bank
+python (dataprogrammering),bicep (azure),Undirected,Bank
+programmeringsspråk,ci/cd (continuous integration and continuous delivery),Undirected,Bank
+programmeringsspråk,bash (operativsystem),Undirected,Bank
+programmeringsspråk,automatisering,Undirected,Bank
+programmeringsspråk,powershell,Undirected,Bank
+programmeringsspråk,azure ad,Undirected,Bank
+programmeringsspråk,bicep (azure),Undirected,Bank
+ci/cd (continuous integration and continuous delivery),bash (operativsystem),Undirected,Bank
+ci/cd (continuous integration and continuous delivery),automatisering,Undirected,Bank
+ci/cd (continuous integration and continuous delivery),powershell,Undirected,Bank
+ci/cd (continuous integration and continuous delivery),bicep (azure),Undirected,Bank
+bash (operativsystem),automatisering,Undirected,Bank
+bash (operativsystem),powershell,Undirected,Bank
+bash (operativsystem),azure ad,Undirected,Bank
+bash (operativsystem),bicep (azure),Undirected,Bank
+automatisering,powershell,Undirected,Bank
+automatisering,azure ad,Undirected,Bank
+automatisering,bicep (azure),Undirected,Bank
+powershell,azure ad,Undirected,Bank
+powershell,bicep (azure),Undirected,Bank
+azure ad,bicep (azure),Undirected,Bank
+python (dataprogrammering),moderne software-utvikling,Undirected,Bank
+python (dataprogrammering),generative artificial intelligence,Undirected,Bank
+maskinlæring,moderne software-utvikling,Undirected,Bank
+maskinlæring,generative artificial intelligence,Undirected,Bank
+moderne software-utvikling,kunstig intelligens,Undirected,Bank
+moderne software-utvikling,generative artificial intelligence,Undirected,Bank
+moderne software-utvikling,azure ad,Undirected,Bank
+kunstig intelligens,generative artificial intelligence,Undirected,Bank
+generative artificial intelligence,azure ad,Undirected,Bank
+moderne software-utvikling,kotlin,Undirected,IT
+moderne software-utvikling,java (programmeringsspråk),Undirected,IT
+moderne software-utvikling,bruk av agile-metodikk,Undirected,IT
+kotlin,java (programmeringsspråk),Undirected,IT
+kotlin,bruk av agile-metodikk,Undirected,IT
+java (programmeringsspråk),bruk av agile-metodikk,Undirected,IT
+tolke data,rapportering av ytelse,Undirected,Olje og gass
+tolke data,ytelsesanalyse,Undirected,Olje og gass
+tolke data,analysere data,Undirected,Olje og gass
+tolke data,technical writing,Undirected,Olje og gass
+tolke data,support / brukerstøtte,Undirected,Olje og gass
+rapportering av ytelse,ytelsesanalyse,Undirected,Olje og gass
+rapportering av ytelse,analysere data,Undirected,Olje og gass
+rapportering av ytelse,technical writing,Undirected,Olje og gass
+rapportering av ytelse,support / brukerstøtte,Undirected,Olje og gass
+ytelsesanalyse,analysere data,Undirected,Olje og gass
+ytelsesanalyse,technical writing,Undirected,Olje og gass
+ytelsesanalyse,support / brukerstøtte,Undirected,Olje og gass
+analysere data,technical writing,Undirected,Olje og gass
+analysere data,support / brukerstøtte,Undirected,Olje og gass
+technical writing,support / brukerstøtte,Undirected,Olje og gass
+python (dataprogrammering),tableau,Undirected,IT
+python (dataprogrammering),r,Undirected,IT
+tableau,snowflake,Undirected,IT
+tableau,apache spark,Undirected,IT
+tableau,power bi,Undirected,IT
+tableau,mlops,Undirected,IT
+tableau,pyspark,Undirected,IT
+tableau,r,Undirected,IT
+snowflake,apache spark,Undirected,IT
+snowflake,power bi,Undirected,IT
+snowflake,mlops,Undirected,IT
+snowflake,pyspark,Undirected,IT
+snowflake,r,Undirected,IT
+apache spark,power bi,Undirected,IT
+apache spark,mlops,Undirected,IT
+apache spark,pyspark,Undirected,IT
+apache spark,r,Undirected,IT
+power bi,mlops,Undirected,IT
+power bi,r,Undirected,IT
+mlops,pyspark,Undirected,IT
+mlops,r,Undirected,IT
+pyspark,r,Undirected,IT
+azure synapse,python (dataprogrammering),Undirected,IT
+azure synapse,sql,Undirected,IT
+azure synapse,azure data factory,Undirected,IT
+azure synapse,infrastructure as code (iac),Undirected,IT
+azure synapse,datastyring,Undirected,IT
+azure synapse,azure sql-database,Undirected,IT
+azure synapse,k8s,Undirected,IT
+python (dataprogrammering),azure data factory,Undirected,IT
+python (dataprogrammering),infrastructure as code (iac),Undirected,IT
+python (dataprogrammering),azure sql-database,Undirected,IT
+python (dataprogrammering),k8s,Undirected,IT
+sql,azure data factory,Undirected,IT
+sql,infrastructure as code (iac),Undirected,IT
+sql,azure sql-database,Undirected,IT
+sql,k8s,Undirected,IT
+azure data factory,infrastructure as code (iac),Undirected,IT
+azure data factory,datastyring,Undirected,IT
+azure data factory,azure sql-database,Undirected,IT
+azure data factory,k8s,Undirected,IT
+infrastructure as code (iac),datastyring,Undirected,IT
+infrastructure as code (iac),azure sql-database,Undirected,IT
+infrastructure as code (iac),k8s,Undirected,IT
+datastyring,azure sql-database,Undirected,IT
+datastyring,k8s,Undirected,IT
+azure sql-database,k8s,Undirected,IT
+digitale ferdigheter,microsoft office,Undirected,Forskning
+field programmable gate array (fpga),embedded systems,Undirected,Forskning
+field programmable gate array (fpga),kryptoanalyse,Undirected,Forskning
+field programmable gate array (fpga),informasjonssikkerhet,Undirected,Forskning
+field programmable gate array (fpga),sårbarhetsanalyse,Undirected,Forskning
+field programmable gate array (fpga),kryptografi,Undirected,Forskning
+field programmable gate array (fpga),mikroelektronikk,Undirected,Forskning
+field programmable gate array (fpga),vhdl,Undirected,Forskning
+embedded systems,kryptoanalyse,Undirected,Forskning
+embedded systems,informasjonssikkerhet,Undirected,Forskning
+embedded systems,sårbarhetsanalyse,Undirected,Forskning
+embedded systems,kryptografi,Undirected,Forskning
+embedded systems,mikroelektronikk,Undirected,Forskning
+embedded systems,vhdl,Undirected,Forskning
+kryptoanalyse,informasjonssikkerhet,Undirected,Forskning
+kryptoanalyse,sårbarhetsanalyse,Undirected,Forskning
+kryptoanalyse,kryptografi,Undirected,Forskning
+kryptoanalyse,mikroelektronikk,Undirected,Forskning
+kryptoanalyse,vhdl,Undirected,Forskning
+informasjonssikkerhet,sårbarhetsanalyse,Undirected,Forskning
+informasjonssikkerhet,kryptografi,Undirected,Forskning
+informasjonssikkerhet,mikroelektronikk,Undirected,Forskning
+informasjonssikkerhet,vhdl,Undirected,Forskning
+sårbarhetsanalyse,kryptografi,Undirected,Forskning
+sårbarhetsanalyse,mikroelektronikk,Undirected,Forskning
+sårbarhetsanalyse,vhdl,Undirected,Forskning
+kryptografi,mikroelektronikk,Undirected,Forskning
+kryptografi,vhdl,Undirected,Forskning
+mikroelektronikk,vhdl,Undirected,Forskning
+python (dataprogrammering),behandle data,Undirected,Forsvar og militær
+python (dataprogrammering),data engineering,Undirected,Forsvar og militær
+python (dataprogrammering),java (programmeringsspråk),Undirected,Forsvar og militær
+python (dataprogrammering),application programming interfaces (apis),Undirected,Forsvar og militær
+behandle data,ci/cd (continuous integration and continuous delivery),Undirected,Forsvar og militær
+behandle data,data engineering,Undirected,Forsvar og militær
+behandle data,java (programmeringsspråk),Undirected,Forsvar og militær
+behandle data,application programming interfaces (apis),Undirected,Forsvar og militær
+ci/cd (continuous integration and continuous delivery),data engineering,Undirected,Forsvar og militær
+ci/cd (continuous integration and continuous delivery),java (programmeringsspråk),Undirected,Forsvar og militær
+ci/cd (continuous integration and continuous delivery),application programming interfaces (apis),Undirected,Forsvar og militær
+data engineering,java (programmeringsspråk),Undirected,Forsvar og militær
+data engineering,application programming interfaces (apis),Undirected,Forsvar og militær
+java (programmeringsspråk),application programming interfaces (apis),Undirected,Forsvar og militær
+ingeniørkunst,python (dataprogrammering),Undirected,Maritim og offshore
+ingeniørkunst,matematikk,Undirected,Maritim og offshore
+ingeniørkunst,programmeringsspråk,Undirected,Maritim og offshore
+ingeniørkunst,datavitenskap,Undirected,Maritim og offshore
+ingeniørkunst,benytte maskinlæring,Undirected,Maritim og offshore
+ingeniørkunst,ingeniørarbeid,Undirected,Maritim og offshore
+python (dataprogrammering),matematikk,Undirected,Maritim og offshore
+python (dataprogrammering),benytte maskinlæring,Undirected,Maritim og offshore
+matematikk,programmeringsspråk,Undirected,Maritim og offshore
+matematikk,datavitenskap,Undirected,Maritim og offshore
+matematikk,benytte maskinlæring,Undirected,Maritim og offshore
+matematikk,ingeniørarbeid,Undirected,Maritim og offshore
+programmeringsspråk,datavitenskap,Undirected,Maritim og offshore
+programmeringsspråk,benytte maskinlæring,Undirected,Maritim og offshore
+programmeringsspråk,ingeniørarbeid,Undirected,Maritim og offshore
+datavitenskap,benytte maskinlæring,Undirected,Maritim og offshore
+benytte maskinlæring,ingeniørarbeid,Undirected,Maritim og offshore
+python (dataprogrammering),modellbygging,Undirected,Forsvar og militær
+tensorflow,ci/cd (continuous integration and continuous delivery),Undirected,Forsvar og militær
+tensorflow,modellbygging,Undirected,Forsvar og militær
+maskinlæring,modellbygging,Undirected,Forsvar og militær
+ci/cd (continuous integration and continuous delivery),modellbygging,Undirected,Forsvar og militær
+ci/cd (continuous integration and continuous delivery),scikit-learn,Undirected,Forsvar og militær
+ci/cd (continuous integration and continuous delivery),pytorch,Undirected,Forsvar og militær
+modellbygging,mlops,Undirected,Forsvar og militær
+modellbygging,scikit-learn,Undirected,Forsvar og militær
+modellbygging,pytorch,Undirected,Forsvar og militær
+moderne software-utvikling,automatisering,Undirected,n vi opererer i endres raskere enn noen gang
+moderne software-utvikling,analysere data,Undirected,n vi opererer i endres raskere enn noen gang
+moderne software-utvikling,informatikk,Undirected,n vi opererer i endres raskere enn noen gang
+automatisering,analysere data,Undirected,n vi opererer i endres raskere enn noen gang
+automatisering,kunstig intelligens,Undirected,n vi opererer i endres raskere enn noen gang
+automatisering,informatikk,Undirected,n vi opererer i endres raskere enn noen gang
+analysere data,kunstig intelligens,Undirected,n vi opererer i endres raskere enn noen gang
+analysere data,informatikk,Undirected,n vi opererer i endres raskere enn noen gang
+sikkerhetsklarering,kunnskap om teknologi,Undirected,Forsvar og militær
+sikkerhetsklarering,arkitektonisk design,Undirected,Forsvar og militær
+sikkerhetsklarering,sikre interoperabilitet,Undirected,Forsvar og militær
+sikkerhetsklarering,adl,Undirected,Forsvar og militær
+sikkerhetsklarering,digitalisering,Undirected,Forsvar og militær
+sikkerhetsklarering,forretningsarkitektur,Undirected,Forsvar og militær
+kunnskap om teknologi,arkitektonisk design,Undirected,Forsvar og militær
+kunnskap om teknologi,sikre interoperabilitet,Undirected,Forsvar og militær
+kunnskap om teknologi,adl,Undirected,Forsvar og militær
+kunnskap om teknologi,digitalisering,Undirected,Forsvar og militær
+kunnskap om teknologi,forretningsarkitektur,Undirected,Forsvar og militær
+arkitektonisk design,sikre interoperabilitet,Undirected,Forsvar og militær
+arkitektonisk design,adl,Undirected,Forsvar og militær
+arkitektonisk design,digitalisering,Undirected,Forsvar og militær
+arkitektonisk design,forretningsarkitektur,Undirected,Forsvar og militær
+sikre interoperabilitet,adl,Undirected,Forsvar og militær
+sikre interoperabilitet,digitalisering,Undirected,Forsvar og militær
+sikre interoperabilitet,forretningsarkitektur,Undirected,Forsvar og militær
+adl,digitalisering,Undirected,Forsvar og militær
+adl,forretningsarkitektur,Undirected,Forsvar og militær
+digitalisering,forretningsarkitektur,Undirected,Forsvar og militær
+python (dataprogrammering),arm cortex-m,Undirected,Elektronikk
+python (dataprogrammering),embedded c,Undirected,Elektronikk
+python (dataprogrammering),assembly (dataprogrammering),Undirected,Elektronikk
+python (dataprogrammering),jenkins (software),Undirected,Elektronikk
+python (dataprogrammering),kontinuerlig integrasjon,Undirected,Elektronikk
+linux,arm cortex-m,Undirected,Elektronikk
+linux,embedded c,Undirected,Elektronikk
+linux,assembly (dataprogrammering),Undirected,Elektronikk
+linux,jenkins (software),Undirected,Elektronikk
+linux,kontinuerlig integrasjon,Undirected,Elektronikk
+arm cortex-m,embedded c,Undirected,Elektronikk
+arm cortex-m,assembly (dataprogrammering),Undirected,Elektronikk
+arm cortex-m,jenkins (software),Undirected,Elektronikk
+arm cortex-m,kontinuerlig integrasjon,Undirected,Elektronikk
+embedded c,assembly (dataprogrammering),Undirected,Elektronikk
+embedded c,jenkins (software),Undirected,Elektronikk
+embedded c,kontinuerlig integrasjon,Undirected,Elektronikk
+assembly (dataprogrammering),jenkins (software),Undirected,Elektronikk
+assembly (dataprogrammering),kontinuerlig integrasjon,Undirected,Elektronikk
+jenkins (software),kontinuerlig integrasjon,Undirected,Elektronikk
+.net framework,c# (programmeringsspråk),Undirected,Butikk og varehandel
+.net framework,java (programmeringsspråk),Undirected,Butikk og varehandel
+.net framework,analysere data,Undirected,Butikk og varehandel
+.net framework,kunstig intelligens,Undirected,Butikk og varehandel
+.net framework,azure ad,Undirected,Butikk og varehandel
+c# (programmeringsspråk),java (programmeringsspråk),Undirected,Butikk og varehandel
+c# (programmeringsspråk),analysere data,Undirected,Butikk og varehandel
+c# (programmeringsspråk),kunstig intelligens,Undirected,Butikk og varehandel
+c# (programmeringsspråk),azure ad,Undirected,Butikk og varehandel
+java (programmeringsspråk),analysere data,Undirected,Butikk og varehandel
+java (programmeringsspråk),kunstig intelligens,Undirected,Butikk og varehandel
+java (programmeringsspråk),azure ad,Undirected,Butikk og varehandel
+sql,regulatory compliance,Undirected,Bank
+sql,arbeidsdag,Undirected,Bank
+sql,kvalitetssikring av data,Undirected,Bank
+sql,dataanalyse og rapportering,Undirected,Bank
+sql,opprettholde dataintegritet,Undirected,Bank
+regulatory compliance,arbeidsdag,Undirected,Bank
+regulatory compliance,kvalitetssikring av data,Undirected,Bank
+regulatory compliance,dataanalyse og rapportering,Undirected,Bank
+regulatory compliance,opprettholde dataintegritet,Undirected,Bank
+regulatory compliance,datastyring,Undirected,Bank
+arbeidsdag,kvalitetssikring av data,Undirected,Bank
+arbeidsdag,dataanalyse og rapportering,Undirected,Bank
+arbeidsdag,opprettholde dataintegritet,Undirected,Bank
+arbeidsdag,datastyring,Undirected,Bank
+kvalitetssikring av data,dataanalyse og rapportering,Undirected,Bank
+kvalitetssikring av data,opprettholde dataintegritet,Undirected,Bank
+kvalitetssikring av data,datastyring,Undirected,Bank
+dataanalyse og rapportering,opprettholde dataintegritet,Undirected,Bank
+dataanalyse og rapportering,datastyring,Undirected,Bank
+opprettholde dataintegritet,datastyring,Undirected,Bank
+python (dataprogrammering),bibliotek (programvare),Undirected,Bank
+matematikk,maskinlæring,Undirected,Bank
+matematikk,analysere data,Undirected,Bank
+matematikk,statistikk,Undirected,Bank
+matematikk,bibliotek (programvare),Undirected,Bank
+maskinlæring,bibliotek (programvare),Undirected,Bank
+datavitenskap,statistikk,Undirected,Bank
+datavitenskap,bibliotek (programvare),Undirected,Bank
+analysere data,bibliotek (programvare),Undirected,Bank
+statistikk,bibliotek (programvare),Undirected,Bank
+ingeniørkunst,petroleumsteknologi,Undirected,Olje og gass
+ingeniørkunst,elektronikk,Undirected,Olje og gass
+ingeniørkunst,detalj prosjektering/ engineering elektro,Undirected,Olje og gass
+ingeniørkunst,kjemiteknikk,Undirected,Olje og gass
+petroleumsteknologi,datavitenskap,Undirected,Olje og gass
+petroleumsteknologi,ingeniørarbeid,Undirected,Olje og gass
+petroleumsteknologi,elektronikk,Undirected,Olje og gass
+petroleumsteknologi,detalj prosjektering/ engineering elektro,Undirected,Olje og gass
+petroleumsteknologi,kjemiteknikk,Undirected,Olje og gass
+datavitenskap,elektronikk,Undirected,Olje og gass
+datavitenskap,detalj prosjektering/ engineering elektro,Undirected,Olje og gass
+datavitenskap,kjemiteknikk,Undirected,Olje og gass
+ingeniørarbeid,elektronikk,Undirected,Olje og gass
+ingeniørarbeid,detalj prosjektering/ engineering elektro,Undirected,Olje og gass
+ingeniørarbeid,kjemiteknikk,Undirected,Olje og gass
+elektronikk,detalj prosjektering/ engineering elektro,Undirected,Olje og gass
+elektronikk,kjemiteknikk,Undirected,Olje og gass
+detalj prosjektering/ engineering elektro,kjemiteknikk,Undirected,Olje og gass
+amazon web services (aws),angular,Undirected,Bank
+amazon web services (aws),python (dataprogrammering),Undirected,Bank
+amazon web services (aws),typescript,Undirected,Bank
+amazon web services (aws),javascript,Undirected,Bank
+amazon web services (aws),generative artificial intelligence,Undirected,Bank
+amazon web services (aws),.net core,Undirected,Bank
+angular,python (dataprogrammering),Undirected,Bank
+angular,sql,Undirected,Bank
+angular,typescript,Undirected,Bank
+angular,javascript,Undirected,Bank
+angular,generative artificial intelligence,Undirected,Bank
+angular,.net core,Undirected,Bank
+python (dataprogrammering),typescript,Undirected,Bank
+python (dataprogrammering),javascript,Undirected,Bank
+python (dataprogrammering),.net core,Undirected,Bank
+sql,typescript,Undirected,Bank
+sql,javascript,Undirected,Bank
+sql,generative artificial intelligence,Undirected,Bank
+sql,.net core,Undirected,Bank
+typescript,javascript,Undirected,Bank
+typescript,generative artificial intelligence,Undirected,Bank
+typescript,.net core,Undirected,Bank
+javascript,generative artificial intelligence,Undirected,Bank
+javascript,.net core,Undirected,Bank
+generative artificial intelligence,.net core,Undirected,Bank
+nosql,development of data pipelines,Undirected,Arbeidstaker- og arbeidsgiverorganisasjoner
+nosql,python (dataprogrammering),Undirected,Arbeidstaker- og arbeidsgiverorganisasjoner
+nosql,sql,Undirected,Arbeidstaker- og arbeidsgiverorganisasjoner
+development of data pipelines,python (dataprogrammering),Undirected,Arbeidstaker- og arbeidsgiverorganisasjoner
+development of data pipelines,sql,Undirected,Arbeidstaker- og arbeidsgiverorganisasjoner
+python (dataprogrammering),datasjø,Undirected,IT
+python (dataprogrammering),database,Undirected,IT
+sql,data engineering,Undirected,IT
+sql,datasjø,Undirected,IT
+sql,database,Undirected,IT
+data engineering,datasjø,Undirected,IT
+data engineering,development of data pipelines,Undirected,IT
+data engineering,datastyring,Undirected,IT
+data engineering,infrastructure as code (iac),Undirected,IT
+data engineering,database,Undirected,IT
+datasjø,development of data pipelines,Undirected,IT
+datasjø,datastyring,Undirected,IT
+datasjø,infrastructure as code (iac),Undirected,IT
+datasjø,database,Undirected,IT
+development of data pipelines,datastyring,Undirected,IT
+development of data pipelines,infrastructure as code (iac),Undirected,IT
+development of data pipelines,database,Undirected,IT
+datastyring,database,Undirected,IT
+infrastructure as code (iac),database,Undirected,IT
+metadata standards,forskrifter,Undirected,IT
+metadata standards,kvalitetssikring av data,Undirected,IT
+metadata standards,opprettholde dataintegritet,Undirected,IT
+metadata standards,datastyring,Undirected,IT
+metadata standards,general data protection regulation (gdpr),Undirected,IT
+metadata standards,katalogisere,Undirected,IT
+forskrifter,kvalitetssikring av data,Undirected,IT
+forskrifter,opprettholde dataintegritet,Undirected,IT
+forskrifter,datastyring,Undirected,IT
+forskrifter,general data protection regulation (gdpr),Undirected,IT
+forskrifter,katalogisere,Undirected,IT
+kvalitetssikring av data,general data protection regulation (gdpr),Undirected,IT
+kvalitetssikring av data,katalogisere,Undirected,IT
+opprettholde dataintegritet,general data protection regulation (gdpr),Undirected,IT
+opprettholde dataintegritet,katalogisere,Undirected,IT
+datastyring,general data protection regulation (gdpr),Undirected,IT
+datastyring,katalogisere,Undirected,IT
+general data protection regulation (gdpr),katalogisere,Undirected,IT
+maskinlæring,kvalitetssikring av data,Undirected,IT
+maskinlæring,informasjonssikkerhet,Undirected,IT
+maskinlæring,dokumentasjon,Undirected,IT
+maskinlæring,prototype,Undirected,IT
+kvalitetssikring av data,datavitenskap,Undirected,IT
+kvalitetssikring av data,informasjonssikkerhet,Undirected,IT
+kvalitetssikring av data,dokumentasjon,Undirected,IT
+kvalitetssikring av data,prototype,Undirected,IT
+kvalitetssikring av data,kunstig intelligens,Undirected,IT
+datavitenskap,dokumentasjon,Undirected,IT
+datavitenskap,prototype,Undirected,IT
+informasjonssikkerhet,dokumentasjon,Undirected,IT
+informasjonssikkerhet,prototype,Undirected,IT
+informasjonssikkerhet,kunstig intelligens,Undirected,IT
+informasjonssikkerhet,analysere data,Undirected,IT
+dokumentasjon,prototype,Undirected,IT
+dokumentasjon,kunstig intelligens,Undirected,IT
+dokumentasjon,analysere data,Undirected,IT
+prototype,kunstig intelligens,Undirected,IT
+prototype,analysere data,Undirected,IT
+forretningsutvikling,kontinuerlig forbedringsprosess (cip),Undirected,Annet
+forretningsutvikling,analysere data,Undirected,Annet
+forretningsutvikling,dokumentering og registrering av informasjon,Undirected,Annet
+forretningsutvikling,prosjekteringsledelse,Undirected,Annet
+forretningsutvikling,customer relationship management (crm),Undirected,Annet
+forretningsutvikling,support / brukerstøtte,Undirected,Annet
+kontinuerlig forbedringsprosess (cip),analysere data,Undirected,Annet
+kontinuerlig forbedringsprosess (cip),dokumentering og registrering av informasjon,Undirected,Annet
+kontinuerlig forbedringsprosess (cip),prosjekteringsledelse,Undirected,Annet
+kontinuerlig forbedringsprosess (cip),customer relationship management (crm),Undirected,Annet
+kontinuerlig forbedringsprosess (cip),support / brukerstøtte,Undirected,Annet
+analysere data,dokumentering og registrering av informasjon,Undirected,Annet
+analysere data,prosjekteringsledelse,Undirected,Annet
+analysere data,customer relationship management (crm),Undirected,Annet
+dokumentering og registrering av informasjon,prosjekteringsledelse,Undirected,Annet
+dokumentering og registrering av informasjon,customer relationship management (crm),Undirected,Annet
+dokumentering og registrering av informasjon,support / brukerstøtte,Undirected,Annet
+prosjekteringsledelse,customer relationship management (crm),Undirected,Annet
+prosjekteringsledelse,support / brukerstøtte,Undirected,Annet
+customer relationship management (crm),support / brukerstøtte,Undirected,Annet
+prosessdesign,analysere forretningsprosesser,Undirected,Helse og omsorg
+prosessdesign,prosessanalyse,Undirected,Helse og omsorg
+prosessdesign,process documentation,Undirected,Helse og omsorg
+prosessdesign,automasjon,Undirected,Helse og omsorg
+analysere forretningsprosesser,prosessanalyse,Undirected,Helse og omsorg
+analysere forretningsprosesser,process documentation,Undirected,Helse og omsorg
+analysere forretningsprosesser,automasjon,Undirected,Helse og omsorg
+prosessanalyse,process documentation,Undirected,Helse og omsorg
+prosessanalyse,automasjon,Undirected,Helse og omsorg
+process documentation,automasjon,Undirected,Helse og omsorg
+radiofrekvensteknikk,kunnskap om teknologi,Undirected,IT - maskinvare
+radiofrekvensteknikk,dataprogrammering,Undirected,IT - maskinvare
+radiofrekvensteknikk,elektriske generatorer,Undirected,IT - maskinvare
+radiofrekvensteknikk,ingeniørarbeid,Undirected,IT - maskinvare
+radiofrekvensteknikk,signalbehandling,Undirected,IT - maskinvare
+kunnskap om teknologi,dataprogrammering,Undirected,IT - maskinvare
+kunnskap om teknologi,elektriske generatorer,Undirected,IT - maskinvare
+kunnskap om teknologi,ingeniørarbeid,Undirected,IT - maskinvare
+kunnskap om teknologi,signalbehandling,Undirected,IT - maskinvare
+dataprogrammering,elektriske generatorer,Undirected,IT - maskinvare
+dataprogrammering,ingeniørarbeid,Undirected,IT - maskinvare
+dataprogrammering,signalbehandling,Undirected,IT - maskinvare
+elektriske generatorer,ingeniørarbeid,Undirected,IT - maskinvare
+elektriske generatorer,signalbehandling,Undirected,IT - maskinvare
+ingeniørarbeid,signalbehandling,Undirected,IT - maskinvare
+a/b-test,datadrevet markedsføring,Undirected,Annet
+a/b-test,segmentere,Undirected,Annet
+a/b-test,general data protection regulation (gdpr),Undirected,Annet
+a/b-test,analysere data om klienter,Undirected,Annet
+datadrevet markedsføring,segmentere,Undirected,Annet
+datadrevet markedsføring,general data protection regulation (gdpr),Undirected,Annet
+datadrevet markedsføring,analysere data om klienter,Undirected,Annet
+segmentere,general data protection regulation (gdpr),Undirected,Annet
+segmentere,analysere data om klienter,Undirected,Annet
+general data protection regulation (gdpr),analysere data om klienter,Undirected,Annet
+maskinlæring,docker,Undirected,Forskning
+docker,python (dataprogrammering),Undirected,Forskning
+six sigma-metoder,operational excellence,Undirected,Industri og produksjon
+six sigma-metoder,lean methods,Undirected,Industri og produksjon
+six sigma-metoder,lage benchmarks,Undirected,Industri og produksjon
+operational excellence,lean methods,Undirected,Industri og produksjon
+operational excellence,lage benchmarks,Undirected,Industri og produksjon
+lean methods,lage benchmarks,Undirected,Industri og produksjon
+programledelse,lage benchmarks,Undirected,Forsvar og militær
+programledelse,six sigma-metoder,Undirected,Forsvar og militær
+programledelse,internet of things,Undirected,Forsvar og militær
+programledelse,operational excellence,Undirected,Forsvar og militær
+programledelse,ingeniørarbeid,Undirected,Forsvar og militær
+lage benchmarks,internet of things,Undirected,Forsvar og militær
+lage benchmarks,ingeniørarbeid,Undirected,Forsvar og militær
+six sigma-metoder,internet of things,Undirected,Forsvar og militær
+six sigma-metoder,ingeniørarbeid,Undirected,Forsvar og militær
+internet of things,operational excellence,Undirected,Forsvar og militær
+internet of things,ingeniørarbeid,Undirected,Forsvar og militær
+operational excellence,ingeniørarbeid,Undirected,Forsvar og militær
+sql,moderne software-utvikling,Undirected,Eiendom
+sql,microsoft certified professional (mcp),Undirected,Eiendom
+sql,automatisering,Undirected,Eiendom
+sql,kunstig intelligens,Undirected,Eiendom
+maskinlæring,microsoft certified professional (mcp),Undirected,Eiendom
+maskinlæring,automatisering,Undirected,Eiendom
+maskinlæring,database,Undirected,Eiendom
+moderne software-utvikling,microsoft certified professional (mcp),Undirected,Eiendom
+moderne software-utvikling,datavitenskap,Undirected,Eiendom
+moderne software-utvikling,database,Undirected,Eiendom
+microsoft certified professional (mcp),datavitenskap,Undirected,Eiendom
+microsoft certified professional (mcp),automatisering,Undirected,Eiendom
+microsoft certified professional (mcp),kunstig intelligens,Undirected,Eiendom
+microsoft certified professional (mcp),database,Undirected,Eiendom
+datavitenskap,automatisering,Undirected,Eiendom
+datavitenskap,database,Undirected,Eiendom
+automatisering,database,Undirected,Eiendom
+kunstig intelligens,database,Undirected,Eiendom
+python (dataprogrammering),algoritmer,Undirected,Forskning
+python (dataprogrammering),partielle differensialligninger,Undirected,Forskning
+python (dataprogrammering),modellering og simulering,Undirected,Forskning
+python (dataprogrammering),c++ (programming language),Undirected,Forskning
+algoritmer,partielle differensialligninger,Undirected,Forskning
+algoritmer,modellering og simulering,Undirected,Forskning
+algoritmer,c++ (programming language),Undirected,Forskning
+algoritmer,maskinlæringsmetoder,Undirected,Forskning
+partielle differensialligninger,modellering og simulering,Undirected,Forskning
+partielle differensialligninger,c++ (programming language),Undirected,Forskning
+partielle differensialligninger,maskinlæringsmetoder,Undirected,Forskning
+modellering og simulering,c++ (programming language),Undirected,Forskning
+modellering og simulering,maskinlæringsmetoder,Undirected,Forskning
+c++ (programming language),maskinlæringsmetoder,Undirected,Forskning
+nosql,tensorflow,Undirected,Annet
+nosql,maskinlæring,Undirected,Annet
+nosql,kunstig intelligens,Undirected,Annet
+nosql,backend webutvikling,Undirected,Annet
+nosql,database,Undirected,Annet
+nosql,pytorch,Undirected,Annet
+python (dataprogrammering),backend webutvikling,Undirected,Annet
+tensorflow,kunstig intelligens,Undirected,Annet
+tensorflow,backend webutvikling,Undirected,Annet
+tensorflow,database,Undirected,Annet
+maskinlæring,backend webutvikling,Undirected,Annet
+kunstig intelligens,backend webutvikling,Undirected,Annet
+kunstig intelligens,pytorch,Undirected,Annet
+backend webutvikling,database,Undirected,Annet
+backend webutvikling,pytorch,Undirected,Annet
+database,pytorch,Undirected,Annet
+microsoft,administrere data,Undirected,Bygg og anlegg
+microsoft,opprette innkjøpsordre,Undirected,Bygg og anlegg
+microsoft,microsoft excel,Undirected,Bygg og anlegg
+administrere data,opprette innkjøpsordre,Undirected,Bygg og anlegg
+opprette innkjøpsordre,microsoft excel,Undirected,Bygg og anlegg
+digitalisering av prosesser,autonome systemer,Undirected,Industri og produksjon
+digitalisering av prosesser,kundedialog,Undirected,Industri og produksjon
+digitalisering av prosesser,regulatory compliance,Undirected,Industri og produksjon
+digitalisering av prosesser,kunstig intelligens,Undirected,Industri og produksjon
+digitalisering av prosesser,maritim teknologi,Undirected,Industri og produksjon
+digitalisering av prosesser,teknisk salg,Undirected,Industri og produksjon
+digitalisering av prosesser,kommunikator,Undirected,Industri og produksjon
+autonome systemer,kundedialog,Undirected,Industri og produksjon
+autonome systemer,regulatory compliance,Undirected,Industri og produksjon
+autonome systemer,kunstig intelligens,Undirected,Industri og produksjon
+autonome systemer,maritim teknologi,Undirected,Industri og produksjon
+autonome systemer,teknisk salg,Undirected,Industri og produksjon
+autonome systemer,kommunikator,Undirected,Industri og produksjon
+kundedialog,regulatory compliance,Undirected,Industri og produksjon
+kundedialog,kunstig intelligens,Undirected,Industri og produksjon
+kundedialog,maritim teknologi,Undirected,Industri og produksjon
+kundedialog,teknisk salg,Undirected,Industri og produksjon
+kundedialog,kommunikator,Undirected,Industri og produksjon
+regulatory compliance,kunstig intelligens,Undirected,Industri og produksjon
+regulatory compliance,maritim teknologi,Undirected,Industri og produksjon
+regulatory compliance,teknisk salg,Undirected,Industri og produksjon
+regulatory compliance,kommunikator,Undirected,Industri og produksjon
+kunstig intelligens,maritim teknologi,Undirected,Industri og produksjon
+kunstig intelligens,teknisk salg,Undirected,Industri og produksjon
+kunstig intelligens,kommunikator,Undirected,Industri og produksjon
+maritim teknologi,teknisk salg,Undirected,Industri og produksjon
+maritim teknologi,kommunikator,Undirected,Industri og produksjon
+teknisk salg,kommunikator,Undirected,Industri og produksjon
+betjene og overvåke alarmsystemer,sikkerhetsteknikk,Undirected,Industri og produksjon
+betjene og overvåke alarmsystemer,behersker it-/datasystemer,Undirected,Industri og produksjon
+betjene og overvåke alarmsystemer,ingeniørarbeid,Undirected,Industri og produksjon
+betjene og overvåke alarmsystemer,modbus,Undirected,Industri og produksjon
+sikkerhetsteknikk,behersker it-/datasystemer,Undirected,Industri og produksjon
+sikkerhetsteknikk,ingeniørarbeid,Undirected,Industri og produksjon
+sikkerhetsteknikk,modbus,Undirected,Industri og produksjon
+behersker it-/datasystemer,ingeniørarbeid,Undirected,Industri og produksjon
+behersker it-/datasystemer,modbus,Undirected,Industri og produksjon
+ingeniørarbeid,modbus,Undirected,Industri og produksjon
+internkontroll,ifrs 15,Undirected,Internettbaserte tjenester
+internkontroll,key performance indicator (kpi),Undirected,Internettbaserte tjenester
+internkontroll,prognoser,Undirected,Internettbaserte tjenester
+internkontroll,erp-systemer,Undirected,Internettbaserte tjenester
+internkontroll,programvare som tjeneste,Undirected,Internettbaserte tjenester
+internkontroll,finansiell rapportering,Undirected,Internettbaserte tjenester
+internkontroll,finansiell planlegging og analyse,Undirected,Internettbaserte tjenester
+ifrs 15,key performance indicator (kpi),Undirected,Internettbaserte tjenester
+ifrs 15,prognoser,Undirected,Internettbaserte tjenester
+ifrs 15,erp-systemer,Undirected,Internettbaserte tjenester
+ifrs 15,programvare som tjeneste,Undirected,Internettbaserte tjenester
+ifrs 15,finansiell rapportering,Undirected,Internettbaserte tjenester
+ifrs 15,finansiell planlegging og analyse,Undirected,Internettbaserte tjenester
+key performance indicator (kpi),prognoser,Undirected,Internettbaserte tjenester
+key performance indicator (kpi),erp-systemer,Undirected,Internettbaserte tjenester
+key performance indicator (kpi),programvare som tjeneste,Undirected,Internettbaserte tjenester
+key performance indicator (kpi),finansiell rapportering,Undirected,Internettbaserte tjenester
+key performance indicator (kpi),finansiell planlegging og analyse,Undirected,Internettbaserte tjenester
+prognoser,programvare som tjeneste,Undirected,Internettbaserte tjenester
+prognoser,finansiell rapportering,Undirected,Internettbaserte tjenester
+prognoser,finansiell planlegging og analyse,Undirected,Internettbaserte tjenester
+erp-systemer,programvare som tjeneste,Undirected,Internettbaserte tjenester
+erp-systemer,finansiell rapportering,Undirected,Internettbaserte tjenester
+erp-systemer,finansiell planlegging og analyse,Undirected,Internettbaserte tjenester
+programvare som tjeneste,finansiell rapportering,Undirected,Internettbaserte tjenester
+programvare som tjeneste,finansiell planlegging og analyse,Undirected,Internettbaserte tjenester
+account management,utføre dataanalyse,Undirected,Farmasi og legemiddel
+account management,forstå,Undirected,Farmasi og legemiddel
+account management,skrive og lese norske tekniske dokumenter,Undirected,Farmasi og legemiddel
+account management,norsk,Undirected,Farmasi og legemiddel
+utføre dataanalyse,forstå,Undirected,Farmasi og legemiddel
+utføre dataanalyse,skrive og lese norske tekniske dokumenter,Undirected,Farmasi og legemiddel
+utføre dataanalyse,norsk,Undirected,Farmasi og legemiddel
+forstå,skrive og lese norske tekniske dokumenter,Undirected,Farmasi og legemiddel
+forstå,norsk,Undirected,Farmasi og legemiddel
+skrive og lese norske tekniske dokumenter,norsk,Undirected,Farmasi og legemiddel
+redux state management,css (cascading style sheets),Undirected,IT - programvare
+redux state management,typescript,Undirected,IT - programvare
+redux state management,vue.js,Undirected,IT - programvare
+redux state management,responsiv nettside,Undirected,IT - programvare
+css (cascading style sheets),typescript,Undirected,IT - programvare
+css (cascading style sheets),vue.js,Undirected,IT - programvare
+css (cascading style sheets),responsiv nettside,Undirected,IT - programvare
+typescript,vue.js,Undirected,IT - programvare
+typescript,responsiv nettside,Undirected,IT - programvare
+vue.js,responsiv nettside,Undirected,IT - programvare
+sql,go,Undirected,IT - programvare
+sql,c# (programmeringsspråk),Undirected,IT - programvare
+sql,rest (api),Undirected,IT - programvare
+sql,distribuert systemarkitektur (ikt),Undirected,IT - programvare
+go,c# (programmeringsspråk),Undirected,IT - programvare
+go,rest (api),Undirected,IT - programvare
+go,distribuert systemarkitektur (ikt),Undirected,IT - programvare
+c# (programmeringsspråk),rest (api),Undirected,IT - programvare
+c# (programmeringsspråk),distribuert systemarkitektur (ikt),Undirected,IT - programvare
+rest (api),distribuert systemarkitektur (ikt),Undirected,IT - programvare
+internkontroll,regnskap og bokføring,Undirected,Kraft og energi
+internkontroll,ifrs 1,Undirected,Kraft og energi
+internkontroll,finansiell revisjon,Undirected,Kraft og energi
+internkontroll,internprising,Undirected,Kraft og energi
+internkontroll,bokføring,Undirected,Kraft og energi
+internkontroll,konsolidert finansregnskap,Undirected,Kraft og energi
+regnskap og bokføring,ifrs 1,Undirected,Kraft og energi
+regnskap og bokføring,finansiell revisjon,Undirected,Kraft og energi
+regnskap og bokføring,internprising,Undirected,Kraft og energi
+regnskap og bokføring,bokføring,Undirected,Kraft og energi
+regnskap og bokføring,konsolidert finansregnskap,Undirected,Kraft og energi
+ifrs 1,finansiell revisjon,Undirected,Kraft og energi
+ifrs 1,internprising,Undirected,Kraft og energi
+ifrs 1,bokføring,Undirected,Kraft og energi
+ifrs 1,konsolidert finansregnskap,Undirected,Kraft og energi
+finansiell revisjon,internprising,Undirected,Kraft og energi
+finansiell revisjon,bokføring,Undirected,Kraft og energi
+finansiell revisjon,konsolidert finansregnskap,Undirected,Kraft og energi
+internprising,bokføring,Undirected,Kraft og energi
+internprising,konsolidert finansregnskap,Undirected,Kraft og energi
+bokføring,konsolidert finansregnskap,Undirected,Kraft og energi
+paid social,content design,Undirected,Annet
+paid social,bannerannonsering,Undirected,Annet
+paid social,utvikle digitalt innhold,Undirected,Annet
+paid social,bruke verktøy,Undirected,Annet
+paid social,hjelpe til med innhold til sosiale medier,Undirected,Annet
+paid social,forbedring av produksjonsbetingelser,Undirected,Annet
+paid social,figma,Undirected,Annet
+content design,bannerannonsering,Undirected,Annet
+content design,utvikle digitalt innhold,Undirected,Annet
+content design,bruke verktøy,Undirected,Annet
+content design,hjelpe til med innhold til sosiale medier,Undirected,Annet
+content design,forbedring av produksjonsbetingelser,Undirected,Annet
+content design,figma,Undirected,Annet
+bannerannonsering,utvikle digitalt innhold,Undirected,Annet
+bannerannonsering,bruke verktøy,Undirected,Annet
+bannerannonsering,hjelpe til med innhold til sosiale medier,Undirected,Annet
+bannerannonsering,forbedring av produksjonsbetingelser,Undirected,Annet
+bannerannonsering,figma,Undirected,Annet
+utvikle digitalt innhold,bruke verktøy,Undirected,Annet
+utvikle digitalt innhold,hjelpe til med innhold til sosiale medier,Undirected,Annet
+utvikle digitalt innhold,forbedring av produksjonsbetingelser,Undirected,Annet
+utvikle digitalt innhold,figma,Undirected,Annet
+bruke verktøy,hjelpe til med innhold til sosiale medier,Undirected,Annet
+bruke verktøy,forbedring av produksjonsbetingelser,Undirected,Annet
+bruke verktøy,figma,Undirected,Annet
+hjelpe til med innhold til sosiale medier,forbedring av produksjonsbetingelser,Undirected,Annet
+hjelpe til med innhold til sosiale medier,figma,Undirected,Annet
+forbedring av produksjonsbetingelser,figma,Undirected,Annet
+react.js,css (cascading style sheets),Undirected,Bank
+react.js,typescript,Undirected,Bank
+react.js,javascript,Undirected,Bank
+react.js,html & css,Undirected,Bank
+css (cascading style sheets),javascript,Undirected,Bank
+css (cascading style sheets),html & css,Undirected,Bank
+typescript,html & css,Undirected,Bank
+javascript,html & css,Undirected,Bank
+forretningsutvikling,kontraktshåndtering,Undirected,Transport og logistikk
+forretningsutvikling,account management,Undirected,Transport og logistikk
+forretningsutvikling,salesforce inc.,Undirected,Transport og logistikk
+forretningsutvikling,opprettholde dataintegritet,Undirected,Transport og logistikk
+forretningsutvikling,digital commerce,Undirected,Transport og logistikk
+forretningsutvikling,norsk,Undirected,Transport og logistikk
+kontraktshåndtering,account management,Undirected,Transport og logistikk
+kontraktshåndtering,salesforce inc.,Undirected,Transport og logistikk
+kontraktshåndtering,opprettholde dataintegritet,Undirected,Transport og logistikk
+kontraktshåndtering,digital commerce,Undirected,Transport og logistikk
+kontraktshåndtering,norsk,Undirected,Transport og logistikk
+account management,salesforce inc.,Undirected,Transport og logistikk
+account management,opprettholde dataintegritet,Undirected,Transport og logistikk
+account management,digital commerce,Undirected,Transport og logistikk
+salesforce inc.,opprettholde dataintegritet,Undirected,Transport og logistikk
+salesforce inc.,digital commerce,Undirected,Transport og logistikk
+salesforce inc.,norsk,Undirected,Transport og logistikk
+opprettholde dataintegritet,digital commerce,Undirected,Transport og logistikk
+opprettholde dataintegritet,norsk,Undirected,Transport og logistikk
+digital commerce,norsk,Undirected,Transport og logistikk
+informatikk,konsekvensanalyse,Undirected,IT
+python (dataprogrammering),go,Undirected,Internettbaserte tjenester
+python (dataprogrammering),kjennskap til skyplattformer,Undirected,Internettbaserte tjenester
+python (dataprogrammering),terraform,Undirected,Internettbaserte tjenester
+linux,go,Undirected,Internettbaserte tjenester
+linux,kjennskap til skyplattformer,Undirected,Internettbaserte tjenester
+linux,terraform,Undirected,Internettbaserte tjenester
+go,kjennskap til skyplattformer,Undirected,Internettbaserte tjenester
+go,terraform,Undirected,Internettbaserte tjenester
+kjennskap til skyplattformer,terraform,Undirected,Internettbaserte tjenester
+mqtt,internet of things,Undirected,Bygg og anlegg
+mqtt,automatisering,Undirected,Bygg og anlegg
+mqtt,analysere data,Undirected,Bygg og anlegg
+mqtt,application programming interfaces (apis),Undirected,Bygg og anlegg
+mqtt,database,Undirected,Bygg og anlegg
+internet of things,automatisering,Undirected,Bygg og anlegg
+internet of things,application programming interfaces (apis),Undirected,Bygg og anlegg
+internet of things,database,Undirected,Bygg og anlegg
+automatisering,application programming interfaces (apis),Undirected,Bygg og anlegg
+analysere data,application programming interfaces (apis),Undirected,Bygg og anlegg
+analysere data,database,Undirected,Bygg og anlegg
+application programming interfaces (apis),database,Undirected,Bygg og anlegg
+risikovurdering,kunstig intelligens,Undirected,IT
+risikovurdering,store språkmodeller,Undirected,IT
+risikovurdering,informatikk,Undirected,IT
+risikovurdering,general data protection regulation (gdpr),Undirected,IT
+kunstig intelligens,store språkmodeller,Undirected,IT
+kunstig intelligens,general data protection regulation (gdpr),Undirected,IT
+store språkmodeller,informatikk,Undirected,IT
+store språkmodeller,general data protection regulation (gdpr),Undirected,IT
+informatikk,general data protection regulation (gdpr),Undirected,IT
+kundeportefølje,b2b - erfaring,Undirected,Annet
+kundeportefølje,salgsprosess,Undirected,Annet
+b2b - erfaring,salgsprosess,Undirected,Annet
+servicenow,kvalitetssikring,Undirected,IT
+servicenow,administrere data,Undirected,IT
+servicenow,javascript,Undirected,IT
+servicenow,automatisering,Undirected,IT
+servicenow,kunstig intelligens,Undirected,IT
+servicenow,database,Undirected,IT
+servicenow,digitalisering,Undirected,IT
+kvalitetssikring,administrere data,Undirected,IT
+kvalitetssikring,javascript,Undirected,IT
+kvalitetssikring,automatisering,Undirected,IT
+kvalitetssikring,kunstig intelligens,Undirected,IT
+kvalitetssikring,database,Undirected,IT
+kvalitetssikring,digitalisering,Undirected,IT
+administrere data,javascript,Undirected,IT
+administrere data,automatisering,Undirected,IT
+administrere data,kunstig intelligens,Undirected,IT
+administrere data,database,Undirected,IT
+administrere data,digitalisering,Undirected,IT
+javascript,automatisering,Undirected,IT
+javascript,kunstig intelligens,Undirected,IT
+javascript,database,Undirected,IT
+javascript,digitalisering,Undirected,IT
+automatisering,digitalisering,Undirected,IT
+kunstig intelligens,digitalisering,Undirected,IT
+database,digitalisering,Undirected,IT
+teknisk ledelse,nettskyteknologier,Undirected,IT - programvare
+teknisk ledelse,moderne software-utvikling,Undirected,IT - programvare
+teknisk ledelse,kjennskap til skyplattformer,Undirected,IT - programvare
+teknisk ledelse,kunstig intelligens,Undirected,IT - programvare
+teknisk ledelse,industriell økonomi,Undirected,IT - programvare
+teknisk ledelse,produktutvikling,Undirected,IT - programvare
+nettskyteknologier,moderne software-utvikling,Undirected,IT - programvare
+nettskyteknologier,kjennskap til skyplattformer,Undirected,IT - programvare
+nettskyteknologier,kunstig intelligens,Undirected,IT - programvare
+nettskyteknologier,industriell økonomi,Undirected,IT - programvare
+nettskyteknologier,produktutvikling,Undirected,IT - programvare
+moderne software-utvikling,kjennskap til skyplattformer,Undirected,IT - programvare
+moderne software-utvikling,industriell økonomi,Undirected,IT - programvare
+moderne software-utvikling,produktutvikling,Undirected,IT - programvare
+kjennskap til skyplattformer,kunstig intelligens,Undirected,IT - programvare
+kjennskap til skyplattformer,industriell økonomi,Undirected,IT - programvare
+kjennskap til skyplattformer,produktutvikling,Undirected,IT - programvare
+kunstig intelligens,industriell økonomi,Undirected,IT - programvare
+kunstig intelligens,produktutvikling,Undirected,IT - programvare
+industriell økonomi,produktutvikling,Undirected,IT - programvare
+prisanalyse,markedsundersøkelser,Undirected,Internettbaserte tjenester
+prisanalyse,analysere data,Undirected,Internettbaserte tjenester
+prisanalyse,modellering (økonomi),Undirected,Internettbaserte tjenester
+prisanalyse,prissettingsstrategier,Undirected,Internettbaserte tjenester
+prisanalyse,dataanalyseverktøy,Undirected,Internettbaserte tjenester
+prisanalyse,markedsanalyse,Undirected,Internettbaserte tjenester
+prisanalyse,angi prisstrategier,Undirected,Internettbaserte tjenester
+markedsundersøkelser,analysere data,Undirected,Internettbaserte tjenester
+markedsundersøkelser,modellering (økonomi),Undirected,Internettbaserte tjenester
+markedsundersøkelser,prissettingsstrategier,Undirected,Internettbaserte tjenester
+markedsundersøkelser,dataanalyseverktøy,Undirected,Internettbaserte tjenester
+markedsundersøkelser,markedsanalyse,Undirected,Internettbaserte tjenester
+markedsundersøkelser,angi prisstrategier,Undirected,Internettbaserte tjenester
+analysere data,modellering (økonomi),Undirected,Internettbaserte tjenester
+analysere data,prissettingsstrategier,Undirected,Internettbaserte tjenester
+analysere data,markedsanalyse,Undirected,Internettbaserte tjenester
+analysere data,angi prisstrategier,Undirected,Internettbaserte tjenester
+modellering (økonomi),prissettingsstrategier,Undirected,Internettbaserte tjenester
+modellering (økonomi),dataanalyseverktøy,Undirected,Internettbaserte tjenester
+modellering (økonomi),markedsanalyse,Undirected,Internettbaserte tjenester
+modellering (økonomi),angi prisstrategier,Undirected,Internettbaserte tjenester
+prissettingsstrategier,dataanalyseverktøy,Undirected,Internettbaserte tjenester
+prissettingsstrategier,markedsanalyse,Undirected,Internettbaserte tjenester
+prissettingsstrategier,angi prisstrategier,Undirected,Internettbaserte tjenester
+dataanalyseverktøy,markedsanalyse,Undirected,Internettbaserte tjenester
+dataanalyseverktøy,angi prisstrategier,Undirected,Internettbaserte tjenester
+markedsanalyse,angi prisstrategier,Undirected,Internettbaserte tjenester
+optimalisere salg,analyser av nøkkeltall,Undirected,Butikk og varehandel
+optimalisere salg,bruke verktøy,Undirected,Butikk og varehandel
+optimalisere salg,automatisering,Undirected,Butikk og varehandel
+optimalisere salg,analysere data,Undirected,Butikk og varehandel
+optimalisere salg,digital commerce,Undirected,Butikk og varehandel
+optimalisere salg,customer relationship management (crm),Undirected,Butikk og varehandel
+analyser av nøkkeltall,bruke verktøy,Undirected,Butikk og varehandel
+analyser av nøkkeltall,automatisering,Undirected,Butikk og varehandel
+analyser av nøkkeltall,analysere data,Undirected,Butikk og varehandel
+analyser av nøkkeltall,digital commerce,Undirected,Butikk og varehandel
+analyser av nøkkeltall,customer relationship management (crm),Undirected,Butikk og varehandel
+bruke verktøy,automatisering,Undirected,Butikk og varehandel
+bruke verktøy,analysere data,Undirected,Butikk og varehandel
+bruke verktøy,digital commerce,Undirected,Butikk og varehandel
+bruke verktøy,customer relationship management (crm),Undirected,Butikk og varehandel
+automatisering,digital commerce,Undirected,Butikk og varehandel
+automatisering,customer relationship management (crm),Undirected,Butikk og varehandel
+analysere data,digital commerce,Undirected,Butikk og varehandel
+digital commerce,customer relationship management (crm),Undirected,Butikk og varehandel
+nettverksinfrastruktur,design computer network,Undirected,Industri og produksjon
+nettverksinfrastruktur,sop,Undirected,Industri og produksjon
+nettverksinfrastruktur,wide area network (wan),Undirected,Industri og produksjon
+nettverksinfrastruktur,intranett,Undirected,Industri og produksjon
+nettverksinfrastruktur,installasjon,Undirected,Industri og produksjon
+design computer network,sop,Undirected,Industri og produksjon
+design computer network,wide area network (wan),Undirected,Industri og produksjon
+design computer network,intranett,Undirected,Industri og produksjon
+design computer network,installasjon,Undirected,Industri og produksjon
+sop,wide area network (wan),Undirected,Industri og produksjon
+sop,intranett,Undirected,Industri og produksjon
+sop,installasjon,Undirected,Industri og produksjon
+wide area network (wan),intranett,Undirected,Industri og produksjon
+wide area network (wan),installasjon,Undirected,Industri og produksjon
+intranett,installasjon,Undirected,Industri og produksjon
+aktiv oppfølging,høyspenning,Undirected,Industri og produksjon
+aktiv oppfølging,montering av elektriske systemer,Undirected,Industri og produksjon
+aktiv oppfølging,dokumentasjon,Undirected,Industri og produksjon
+aktiv oppfølging,igangkjøring,Undirected,Industri og produksjon
+aktiv oppfølging,lavspenning,Undirected,Industri og produksjon
+høyspenning,montering av elektriske systemer,Undirected,Industri og produksjon
+høyspenning,dokumentasjon,Undirected,Industri og produksjon
+høyspenning,igangkjøring,Undirected,Industri og produksjon
+høyspenning,lavspenning,Undirected,Industri og produksjon
+montering av elektriske systemer,dokumentasjon,Undirected,Industri og produksjon
+montering av elektriske systemer,igangkjøring,Undirected,Industri og produksjon
+montering av elektriske systemer,lavspenning,Undirected,Industri og produksjon
+dokumentasjon,igangkjøring,Undirected,Industri og produksjon
+dokumentasjon,lavspenning,Undirected,Industri og produksjon
+igangkjøring,lavspenning,Undirected,Industri og produksjon
+transformatorkunnskap,document management systems (dms),Undirected,Industri og produksjon
+transformatorkunnskap,erfaring fra store byggeprosjekter,Undirected,Industri og produksjon
+transformatorkunnskap,byggeledelse,Undirected,Industri og produksjon
+transformatorkunnskap,nordisk spåk,Undirected,Industri og produksjon
+transformatorkunnskap,økonomisk administrasjon,Undirected,Industri og produksjon
+transformatorkunnskap,ingeniørarbeid,Undirected,Industri og produksjon
+transformatorkunnskap,prosjekteringsledelse,Undirected,Industri og produksjon
+document management systems (dms),erfaring fra store byggeprosjekter,Undirected,Industri og produksjon
+document management systems (dms),byggeledelse,Undirected,Industri og produksjon
+document management systems (dms),nordisk spåk,Undirected,Industri og produksjon
+document management systems (dms),økonomisk administrasjon,Undirected,Industri og produksjon
+document management systems (dms),ingeniørarbeid,Undirected,Industri og produksjon
+document management systems (dms),prosjekteringsledelse,Undirected,Industri og produksjon
+erfaring fra store byggeprosjekter,byggeledelse,Undirected,Industri og produksjon
+erfaring fra store byggeprosjekter,nordisk spåk,Undirected,Industri og produksjon
+erfaring fra store byggeprosjekter,økonomisk administrasjon,Undirected,Industri og produksjon
+erfaring fra store byggeprosjekter,ingeniørarbeid,Undirected,Industri og produksjon
+erfaring fra store byggeprosjekter,prosjekteringsledelse,Undirected,Industri og produksjon
+byggeledelse,nordisk spåk,Undirected,Industri og produksjon
+byggeledelse,økonomisk administrasjon,Undirected,Industri og produksjon
+byggeledelse,ingeniørarbeid,Undirected,Industri og produksjon
+byggeledelse,prosjekteringsledelse,Undirected,Industri og produksjon
+nordisk spåk,økonomisk administrasjon,Undirected,Industri og produksjon
+nordisk spåk,ingeniørarbeid,Undirected,Industri og produksjon
+nordisk spåk,prosjekteringsledelse,Undirected,Industri og produksjon
+økonomisk administrasjon,ingeniørarbeid,Undirected,Industri og produksjon
+økonomisk administrasjon,prosjekteringsledelse,Undirected,Industri og produksjon
+ingeniørarbeid,prosjekteringsledelse,Undirected,Industri og produksjon
+utvikling av digitale verktøy,bruke verktøy,Undirected,Bank
+utvikling av digitale verktøy,følge opp kundefordringer,Undirected,Bank
+utvikling av digitale verktøy,saksbehandle søknader,Undirected,Bank
+utvikling av digitale verktøy,digitale ferdigheter,Undirected,Bank
+bruke verktøy,følge opp kundefordringer,Undirected,Bank
+bruke verktøy,saksbehandle søknader,Undirected,Bank
+bruke verktøy,digitale ferdigheter,Undirected,Bank
+følge opp kundefordringer,saksbehandle søknader,Undirected,Bank
+følge opp kundefordringer,digitale ferdigheter,Undirected,Bank
+saksbehandle søknader,digitale ferdigheter,Undirected,Bank
+prince2,kunnskap om produktledelse,Undirected,IT
+prince2,kunnskap om relevante lover og forskrifter,Undirected,IT
+prince2,kjennskap til skyplattformer,Undirected,IT
+prince2,produktkø (product backlog),Undirected,IT
+prince2,bruker-orientert design,Undirected,IT
+prince2,agile frameworks,Undirected,IT
+kunnskap om produktledelse,kunnskap om relevante lover og forskrifter,Undirected,IT
+kunnskap om produktledelse,kjennskap til skyplattformer,Undirected,IT
+kunnskap om produktledelse,produktkø (product backlog),Undirected,IT
+kunnskap om produktledelse,bruker-orientert design,Undirected,IT
+kunnskap om produktledelse,agile frameworks,Undirected,IT
+kunnskap om relevante lover og forskrifter,kjennskap til skyplattformer,Undirected,IT
+kunnskap om relevante lover og forskrifter,produktkø (product backlog),Undirected,IT
+kunnskap om relevante lover og forskrifter,bruker-orientert design,Undirected,IT
+kunnskap om relevante lover og forskrifter,agile frameworks,Undirected,IT
+kjennskap til skyplattformer,produktkø (product backlog),Undirected,IT
+kjennskap til skyplattformer,bruker-orientert design,Undirected,IT
+kjennskap til skyplattformer,agile frameworks,Undirected,IT
+produktkø (product backlog),bruker-orientert design,Undirected,IT
+produktkø (product backlog),agile frameworks,Undirected,IT
+bruker-orientert design,agile frameworks,Undirected,IT
+data modeling,containere eller containerplattformer,Undirected,Medie- og innholdsproduksjon
+data modeling,kjennskap til skyplattformer,Undirected,Medie- og innholdsproduksjon
+data modeling,automatisering,Undirected,Medie- og innholdsproduksjon
+data modeling,kunstig intelligens,Undirected,Medie- og innholdsproduksjon
+data modeling,orkestrere musikk,Undirected,Medie- og innholdsproduksjon
+ci/cd (continuous integration and continuous delivery),containere eller containerplattformer,Undirected,Medie- og innholdsproduksjon
+ci/cd (continuous integration and continuous delivery),kjennskap til skyplattformer,Undirected,Medie- og innholdsproduksjon
+ci/cd (continuous integration and continuous delivery),kunstig intelligens,Undirected,Medie- og innholdsproduksjon
+ci/cd (continuous integration and continuous delivery),orkestrere musikk,Undirected,Medie- og innholdsproduksjon
+containere eller containerplattformer,kjennskap til skyplattformer,Undirected,Medie- og innholdsproduksjon
+containere eller containerplattformer,automatisering,Undirected,Medie- og innholdsproduksjon
+containere eller containerplattformer,kunstig intelligens,Undirected,Medie- og innholdsproduksjon
+containere eller containerplattformer,dataarkitektur,Undirected,Medie- og innholdsproduksjon
+containere eller containerplattformer,orkestrere musikk,Undirected,Medie- og innholdsproduksjon
+kjennskap til skyplattformer,automatisering,Undirected,Medie- og innholdsproduksjon
+kjennskap til skyplattformer,dataarkitektur,Undirected,Medie- og innholdsproduksjon
+kjennskap til skyplattformer,orkestrere musikk,Undirected,Medie- og innholdsproduksjon
+automatisering,dataarkitektur,Undirected,Medie- og innholdsproduksjon
+automatisering,orkestrere musikk,Undirected,Medie- og innholdsproduksjon
+kunstig intelligens,dataarkitektur,Undirected,Medie- og innholdsproduksjon
+kunstig intelligens,orkestrere musikk,Undirected,Medie- og innholdsproduksjon
+dataarkitektur,orkestrere musikk,Undirected,Medie- og innholdsproduksjon
+utarbeide kontrakt,kontraktsrett,Undirected,Juridiske tjenester
+utarbeide kontrakt,automatisering,Undirected,Juridiske tjenester
+utarbeide kontrakt,juridisk forskning,Undirected,Juridiske tjenester
+utarbeide kontrakt,digitale ferdigheter,Undirected,Juridiske tjenester
+utarbeide kontrakt,analysere kontrakter,Undirected,Juridiske tjenester
+kontraktsrett,automatisering,Undirected,Juridiske tjenester
+kontraktsrett,juridisk forskning,Undirected,Juridiske tjenester
+kontraktsrett,digitale ferdigheter,Undirected,Juridiske tjenester
+kontraktsrett,analysere kontrakter,Undirected,Juridiske tjenester
+automatisering,juridisk forskning,Undirected,Juridiske tjenester
+automatisering,digitale ferdigheter,Undirected,Juridiske tjenester
+automatisering,analysere kontrakter,Undirected,Juridiske tjenester
+juridisk forskning,digitale ferdigheter,Undirected,Juridiske tjenester
+juridisk forskning,analysere kontrakter,Undirected,Juridiske tjenester
+digitale ferdigheter,analysere kontrakter,Undirected,Juridiske tjenester
+søkemotoroptimalisering,salesforce marketing cloud,Undirected,Markedsføring og annonsering
+søkemotoroptimalisering,datadrevet markedsføring,Undirected,Markedsføring og annonsering
+søkemotoroptimalisering,social media,Undirected,Markedsføring og annonsering
+søkemotoroptimalisering,google analytics,Undirected,Markedsføring og annonsering
+søkemotoroptimalisering,search engine marketing (sem),Undirected,Markedsføring og annonsering
+søkemotoroptimalisering,segmentere,Undirected,Markedsføring og annonsering
+søkemotoroptimalisering,arbeid med nyhetsbrev,Undirected,Markedsføring og annonsering
+salesforce marketing cloud,datadrevet markedsføring,Undirected,Markedsføring og annonsering
+salesforce marketing cloud,social media,Undirected,Markedsføring og annonsering
+salesforce marketing cloud,google analytics,Undirected,Markedsføring og annonsering
+salesforce marketing cloud,search engine marketing (sem),Undirected,Markedsføring og annonsering
+salesforce marketing cloud,segmentere,Undirected,Markedsføring og annonsering
+salesforce marketing cloud,arbeid med nyhetsbrev,Undirected,Markedsføring og annonsering
+datadrevet markedsføring,social media,Undirected,Markedsføring og annonsering
+datadrevet markedsføring,google analytics,Undirected,Markedsføring og annonsering
+datadrevet markedsføring,search engine marketing (sem),Undirected,Markedsføring og annonsering
+datadrevet markedsføring,arbeid med nyhetsbrev,Undirected,Markedsføring og annonsering
+social media,google analytics,Undirected,Markedsføring og annonsering
+social media,search engine marketing (sem),Undirected,Markedsføring og annonsering
+social media,segmentere,Undirected,Markedsføring og annonsering
+social media,arbeid med nyhetsbrev,Undirected,Markedsføring og annonsering
+google analytics,search engine marketing (sem),Undirected,Markedsføring og annonsering
+google analytics,segmentere,Undirected,Markedsføring og annonsering
+google analytics,arbeid med nyhetsbrev,Undirected,Markedsføring og annonsering
+search engine marketing (sem),segmentere,Undirected,Markedsføring og annonsering
+search engine marketing (sem),arbeid med nyhetsbrev,Undirected,Markedsføring og annonsering
+segmentere,arbeid med nyhetsbrev,Undirected,Markedsføring og annonsering
+ict architecture,kvalitetssikring,Undirected,IT
+ict architecture,kjennskap til skyplattformer,Undirected,IT
+ict architecture,adgangskontroll,Undirected,IT
+ict architecture,felling,Undirected,IT
+ict architecture,kunstig intelligens,Undirected,IT
+ict architecture,dataintegrasjonsprosesser,Undirected,IT
+ict architecture,bedriftsrådgivning,Undirected,IT
+kvalitetssikring,kjennskap til skyplattformer,Undirected,IT
+kvalitetssikring,adgangskontroll,Undirected,IT
+kvalitetssikring,felling,Undirected,IT
+kvalitetssikring,dataintegrasjonsprosesser,Undirected,IT
+kvalitetssikring,bedriftsrådgivning,Undirected,IT
+kjennskap til skyplattformer,adgangskontroll,Undirected,IT
+kjennskap til skyplattformer,felling,Undirected,IT
+kjennskap til skyplattformer,dataintegrasjonsprosesser,Undirected,IT
+kjennskap til skyplattformer,bedriftsrådgivning,Undirected,IT
+adgangskontroll,felling,Undirected,IT
+adgangskontroll,kunstig intelligens,Undirected,IT
+adgangskontroll,dataintegrasjonsprosesser,Undirected,IT
+adgangskontroll,bedriftsrådgivning,Undirected,IT
+felling,kunstig intelligens,Undirected,IT
+felling,dataintegrasjonsprosesser,Undirected,IT
+felling,bedriftsrådgivning,Undirected,IT
+kunstig intelligens,dataintegrasjonsprosesser,Undirected,IT
+kunstig intelligens,bedriftsrådgivning,Undirected,IT
+dataintegrasjonsprosesser,bedriftsrådgivning,Undirected,IT
+prototype,kartlegge,Undirected,HR
+prototype,brukbarhetstesting,Undirected,HR
+prototype,brukeropplevelsesundersøkelse,Undirected,HR
+kartlegge,brukbarhetstesting,Undirected,HR
+kartlegge,brukeropplevelsesundersøkelse,Undirected,HR
+brukbarhetstesting,brukeropplevelsesundersøkelse,Undirected,HR
+etterfylling,bedriftsøkonomi,Undirected,Butikk og varehandel
+etterfylling,prognoser,Undirected,Butikk og varehandel
+etterfylling,bpm,Undirected,Butikk og varehandel
+etterfylling,kassesystem,Undirected,Butikk og varehandel
+etterfylling,standardisere prosesser,Undirected,Butikk og varehandel
+etterfylling,forsyningskjedestyring,Undirected,Butikk og varehandel
+etterfylling,kontinuerlig forbedringsarbeid,Undirected,Butikk og varehandel
+bedriftsøkonomi,prognoser,Undirected,Butikk og varehandel
+bedriftsøkonomi,bpm,Undirected,Butikk og varehandel
+bedriftsøkonomi,kassesystem,Undirected,Butikk og varehandel
+bedriftsøkonomi,standardisere prosesser,Undirected,Butikk og varehandel
+bedriftsøkonomi,forsyningskjedestyring,Undirected,Butikk og varehandel
+bedriftsøkonomi,kontinuerlig forbedringsarbeid,Undirected,Butikk og varehandel
+prognoser,bpm,Undirected,Butikk og varehandel
+prognoser,kassesystem,Undirected,Butikk og varehandel
+prognoser,standardisere prosesser,Undirected,Butikk og varehandel
+prognoser,forsyningskjedestyring,Undirected,Butikk og varehandel
+prognoser,kontinuerlig forbedringsarbeid,Undirected,Butikk og varehandel
+bpm,kassesystem,Undirected,Butikk og varehandel
+bpm,standardisere prosesser,Undirected,Butikk og varehandel
+bpm,forsyningskjedestyring,Undirected,Butikk og varehandel
+bpm,kontinuerlig forbedringsarbeid,Undirected,Butikk og varehandel
+kassesystem,standardisere prosesser,Undirected,Butikk og varehandel
+kassesystem,forsyningskjedestyring,Undirected,Butikk og varehandel
+kassesystem,kontinuerlig forbedringsarbeid,Undirected,Butikk og varehandel
+standardisere prosesser,forsyningskjedestyring,Undirected,Butikk og varehandel
+standardisere prosesser,kontinuerlig forbedringsarbeid,Undirected,Butikk og varehandel
+forsyningskjedestyring,kontinuerlig forbedringsarbeid,Undirected,Butikk og varehandel
+social media,optimalisering av konvertering,Undirected,Internettbaserte tjenester
+social media,kunstig intelligens,Undirected,Internettbaserte tjenester
+social media,produsere innhold,Undirected,Internettbaserte tjenester
+optimalisering av konvertering,kunstig intelligens,Undirected,Internettbaserte tjenester
+optimalisering av konvertering,produsere innhold,Undirected,Internettbaserte tjenester
+kunstig intelligens,produsere innhold,Undirected,Internettbaserte tjenester
+produsere innhold,adobe after effects,Undirected,Konsulent og rådgivning
+produsere innhold,kvalitetssikring,Undirected,Konsulent og rådgivning
+produsere innhold,adobe (software),Undirected,Konsulent og rådgivning
+produsere innhold,typografi,Undirected,Konsulent og rådgivning
+produsere innhold,canva (software),Undirected,Konsulent og rådgivning
+produsere innhold,markedsføringskanal,Undirected,Konsulent og rådgivning
+produsere innhold,figma,Undirected,Konsulent og rådgivning
+adobe after effects,kvalitetssikring,Undirected,Konsulent og rådgivning
+adobe after effects,adobe (software),Undirected,Konsulent og rådgivning
+adobe after effects,typografi,Undirected,Konsulent og rådgivning
+adobe after effects,canva (software),Undirected,Konsulent og rådgivning
+adobe after effects,markedsføringskanal,Undirected,Konsulent og rådgivning
+adobe after effects,figma,Undirected,Konsulent og rådgivning
+kvalitetssikring,adobe (software),Undirected,Konsulent og rådgivning
+kvalitetssikring,typografi,Undirected,Konsulent og rådgivning
+kvalitetssikring,canva (software),Undirected,Konsulent og rådgivning
+kvalitetssikring,markedsføringskanal,Undirected,Konsulent og rådgivning
+kvalitetssikring,figma,Undirected,Konsulent og rådgivning
+adobe (software),typografi,Undirected,Konsulent og rådgivning
+adobe (software),canva (software),Undirected,Konsulent og rådgivning
+adobe (software),markedsføringskanal,Undirected,Konsulent og rådgivning
+adobe (software),figma,Undirected,Konsulent og rådgivning
+typografi,canva (software),Undirected,Konsulent og rådgivning
+typografi,markedsføringskanal,Undirected,Konsulent og rådgivning
+typografi,figma,Undirected,Konsulent og rådgivning
+canva (software),markedsføringskanal,Undirected,Konsulent og rådgivning
+canva (software),figma,Undirected,Konsulent og rådgivning
+markedsføringskanal,figma,Undirected,Konsulent og rådgivning
+due diligence analyse,risikoanalyse,Undirected,Internettbaserte tjenester
+due diligence analyse,sikkerhetsadministrasjon,Undirected,Internettbaserte tjenester
+due diligence analyse,kunstig intelligens,Undirected,Internettbaserte tjenester
+due diligence analyse,analysere data,Undirected,Internettbaserte tjenester
+due diligence analyse,optimalisering av kostnader,Undirected,Internettbaserte tjenester
+risikoanalyse,sikkerhetsadministrasjon,Undirected,Internettbaserte tjenester
+risikoanalyse,kunstig intelligens,Undirected,Internettbaserte tjenester
+risikoanalyse,analysere data,Undirected,Internettbaserte tjenester
+risikoanalyse,optimalisering av kostnader,Undirected,Internettbaserte tjenester
+sikkerhetsadministrasjon,kunstig intelligens,Undirected,Internettbaserte tjenester
+sikkerhetsadministrasjon,analysere data,Undirected,Internettbaserte tjenester
+sikkerhetsadministrasjon,optimalisering av kostnader,Undirected,Internettbaserte tjenester
+kunstig intelligens,optimalisering av kostnader,Undirected,Internettbaserte tjenester
+analysere data,optimalisering av kostnader,Undirected,Internettbaserte tjenester
+python (dataprogrammering),visual basic,Undirected,IT
+python (dataprogrammering),edifact,Undirected,IT
+python (dataprogrammering),abap (programming language),Undirected,IT
+python (dataprogrammering),applications and products for data processing),Undirected,IT
+python (dataprogrammering),c# (programmeringsspråk),Undirected,IT
+python (dataprogrammering),sap (systems,Undirected,IT
+visual basic,sql,Undirected,IT
+visual basic,edifact,Undirected,IT
+visual basic,abap (programming language),Undirected,IT
+visual basic,applications and products for data processing),Undirected,IT
+visual basic,c# (programmeringsspråk),Undirected,IT
+visual basic,java (programmeringsspråk),Undirected,IT
+visual basic,sap (systems,Undirected,IT
+sql,edifact,Undirected,IT
+sql,abap (programming language),Undirected,IT
+sql,applications and products for data processing),Undirected,IT
+sql,java (programmeringsspråk),Undirected,IT
+sql,sap (systems,Undirected,IT
+edifact,abap (programming language),Undirected,IT
+edifact,applications and products for data processing),Undirected,IT
+edifact,c# (programmeringsspråk),Undirected,IT
+edifact,java (programmeringsspråk),Undirected,IT
+edifact,sap (systems,Undirected,IT
+abap (programming language),applications and products for data processing),Undirected,IT
+abap (programming language),c# (programmeringsspråk),Undirected,IT
+abap (programming language),java (programmeringsspråk),Undirected,IT
+abap (programming language),sap (systems,Undirected,IT
+applications and products for data processing),c# (programmeringsspråk),Undirected,IT
+applications and products for data processing),java (programmeringsspråk),Undirected,IT
+applications and products for data processing),sap (systems,Undirected,IT
+c# (programmeringsspråk),sap (systems,Undirected,IT
+java (programmeringsspråk),sap (systems,Undirected,IT
+avkastning på investering (roi),shopify,Undirected,Butikk og varehandel
+avkastning på investering (roi),optimalisering av konvertering,Undirected,Butikk og varehandel
+avkastning på investering (roi),a/b-testing (konverteringsoptimalisering),Undirected,Butikk og varehandel
+avkastning på investering (roi),google analytics,Undirected,Butikk og varehandel
+avkastning på investering (roi),segmentere,Undirected,Butikk og varehandel
+avkastning på investering (roi),digital commerce,Undirected,Butikk og varehandel
+avkastning på investering (roi),google adwords,Undirected,Butikk og varehandel
+shopify,optimalisering av konvertering,Undirected,Butikk og varehandel
+shopify,a/b-testing (konverteringsoptimalisering),Undirected,Butikk og varehandel
+shopify,google analytics,Undirected,Butikk og varehandel
+shopify,segmentere,Undirected,Butikk og varehandel
+shopify,digital commerce,Undirected,Butikk og varehandel
+shopify,google adwords,Undirected,Butikk og varehandel
+optimalisering av konvertering,a/b-testing (konverteringsoptimalisering),Undirected,Butikk og varehandel
+optimalisering av konvertering,google analytics,Undirected,Butikk og varehandel
+optimalisering av konvertering,segmentere,Undirected,Butikk og varehandel
+optimalisering av konvertering,digital commerce,Undirected,Butikk og varehandel
+optimalisering av konvertering,google adwords,Undirected,Butikk og varehandel
+a/b-testing (konverteringsoptimalisering),google analytics,Undirected,Butikk og varehandel
+a/b-testing (konverteringsoptimalisering),segmentere,Undirected,Butikk og varehandel
+a/b-testing (konverteringsoptimalisering),digital commerce,Undirected,Butikk og varehandel
+a/b-testing (konverteringsoptimalisering),google adwords,Undirected,Butikk og varehandel
+google analytics,digital commerce,Undirected,Butikk og varehandel
+google analytics,google adwords,Undirected,Butikk og varehandel
+segmentere,digital commerce,Undirected,Butikk og varehandel
+segmentere,google adwords,Undirected,Butikk og varehandel
+digital commerce,google adwords,Undirected,Butikk og varehandel
+sikre informasjonspersonvern,cybersikkerhet,Undirected,IT
+sikre informasjonspersonvern,ikt-sikkerhetsstandarder,Undirected,IT
+sikre informasjonspersonvern,behersker it-/datasystemer,Undirected,IT
+sikre informasjonspersonvern,prosjektledelse it,Undirected,IT
+sikre informasjonspersonvern,marinteknikk,Undirected,IT
+sikre informasjonspersonvern,ikt-støtte,Undirected,IT
+cybersikkerhet,ikt-sikkerhetsstandarder,Undirected,IT
+cybersikkerhet,behersker it-/datasystemer,Undirected,IT
+cybersikkerhet,prosjektledelse it,Undirected,IT
+cybersikkerhet,marinteknikk,Undirected,IT
+cybersikkerhet,ikt-støtte,Undirected,IT
+ikt-sikkerhetsstandarder,behersker it-/datasystemer,Undirected,IT
+ikt-sikkerhetsstandarder,prosjektledelse it,Undirected,IT
+ikt-sikkerhetsstandarder,marinteknikk,Undirected,IT
+ikt-sikkerhetsstandarder,ikt-støtte,Undirected,IT
+behersker it-/datasystemer,prosjektledelse it,Undirected,IT
+behersker it-/datasystemer,marinteknikk,Undirected,IT
+behersker it-/datasystemer,ikt-støtte,Undirected,IT
+prosjektledelse it,marinteknikk,Undirected,IT
+prosjektledelse it,ikt-støtte,Undirected,IT
+marinteknikk,ikt-støtte,Undirected,IT
+sql,fullstack utvikler,Undirected,Internettbaserte tjenester
+sql,ingeniørarbeid,Undirected,Internettbaserte tjenester
+sql,github,Undirected,Internettbaserte tjenester
+ci/cd (continuous integration and continuous delivery),c# (programmeringsspråk),Undirected,Internettbaserte tjenester
+ci/cd (continuous integration and continuous delivery),typescript,Undirected,Internettbaserte tjenester
+ci/cd (continuous integration and continuous delivery),fullstack utvikler,Undirected,Internettbaserte tjenester
+ci/cd (continuous integration and continuous delivery),ingeniørarbeid,Undirected,Internettbaserte tjenester
+ci/cd (continuous integration and continuous delivery),github,Undirected,Internettbaserte tjenester
+c# (programmeringsspråk),typescript,Undirected,Internettbaserte tjenester
+c# (programmeringsspråk),fullstack utvikler,Undirected,Internettbaserte tjenester
+c# (programmeringsspråk),ingeniørarbeid,Undirected,Internettbaserte tjenester
+c# (programmeringsspråk),github,Undirected,Internettbaserte tjenester
+typescript,fullstack utvikler,Undirected,Internettbaserte tjenester
+typescript,ingeniørarbeid,Undirected,Internettbaserte tjenester
+typescript,github,Undirected,Internettbaserte tjenester
+fullstack utvikler,ingeniørarbeid,Undirected,Internettbaserte tjenester
+fullstack utvikler,github,Undirected,Internettbaserte tjenester
+ingeniørarbeid,github,Undirected,Internettbaserte tjenester
+optimalisering av konvertering,prototype,Undirected,IT
+optimalisering av konvertering,utvikling av markedsførings- og salgskonsepter,Undirected,IT
+optimalisering av konvertering,go-to-market strategi,Undirected,IT
+prototype,utvikling av markedsførings- og salgskonsepter,Undirected,IT
+prototype,go-to-market strategi,Undirected,IT
+kunstig intelligens,utvikling av markedsførings- og salgskonsepter,Undirected,IT
+kunstig intelligens,go-to-market strategi,Undirected,IT
+utvikling av markedsførings- og salgskonsepter,go-to-market strategi,Undirected,IT
+biologi,akvakultur,Undirected,Industri og produksjon
+biologi,logistikk,Undirected,Industri og produksjon
+biologi,automatisering,Undirected,Industri og produksjon
+biologi,kunstig intelligens,Undirected,Industri og produksjon
+biologi,kybernetikk,Undirected,Industri og produksjon
+biologi,robotikk,Undirected,Industri og produksjon
+biologi,bærekraftig miljøarbeid,Undirected,Industri og produksjon
+akvakultur,logistikk,Undirected,Industri og produksjon
+akvakultur,automatisering,Undirected,Industri og produksjon
+akvakultur,kunstig intelligens,Undirected,Industri og produksjon
+akvakultur,kybernetikk,Undirected,Industri og produksjon
+akvakultur,robotikk,Undirected,Industri og produksjon
+akvakultur,bærekraftig miljøarbeid,Undirected,Industri og produksjon
+logistikk,automatisering,Undirected,Industri og produksjon
+logistikk,kunstig intelligens,Undirected,Industri og produksjon
+logistikk,kybernetikk,Undirected,Industri og produksjon
+logistikk,robotikk,Undirected,Industri og produksjon
+logistikk,bærekraftig miljøarbeid,Undirected,Industri og produksjon
+automatisering,kybernetikk,Undirected,Industri og produksjon
+automatisering,robotikk,Undirected,Industri og produksjon
+automatisering,bærekraftig miljøarbeid,Undirected,Industri og produksjon
+kunstig intelligens,kybernetikk,Undirected,Industri og produksjon
+kunstig intelligens,robotikk,Undirected,Industri og produksjon
+kunstig intelligens,bærekraftig miljøarbeid,Undirected,Industri og produksjon
+kybernetikk,robotikk,Undirected,Industri og produksjon
+kybernetikk,bærekraftig miljøarbeid,Undirected,Industri og produksjon
+robotikk,bærekraftig miljøarbeid,Undirected,Industri og produksjon
+organisere data,behandle data,Undirected,IT
+organisere data,kvalitetssikring av data,Undirected,IT
+organisere data,data engineering,Undirected,IT
+organisere data,automatisering,Undirected,IT
+organisere data,systemoptimering,Undirected,IT
+organisere data,kunstig intelligens,Undirected,IT
+organisere data,dataarkitektur,Undirected,IT
+behandle data,automatisering,Undirected,IT
+behandle data,systemoptimering,Undirected,IT
+behandle data,kunstig intelligens,Undirected,IT
+behandle data,dataarkitektur,Undirected,IT
+kvalitetssikring av data,data engineering,Undirected,IT
+kvalitetssikring av data,automatisering,Undirected,IT
+kvalitetssikring av data,systemoptimering,Undirected,IT
+kvalitetssikring av data,dataarkitektur,Undirected,IT
+data engineering,automatisering,Undirected,IT
+data engineering,systemoptimering,Undirected,IT
+data engineering,kunstig intelligens,Undirected,IT
+data engineering,dataarkitektur,Undirected,IT
+automatisering,systemoptimering,Undirected,IT
+systemoptimering,kunstig intelligens,Undirected,IT
+systemoptimering,dataarkitektur,Undirected,IT
+mobilapplikasjon,react native,Undirected,Butikk og varehandel
+mobilapplikasjon,.net maui (multi-platform app ui),Undirected,Butikk og varehandel
+mobilapplikasjon,native apps,Undirected,Butikk og varehandel
+mobilapplikasjon,ingeniørarbeid,Undirected,Butikk og varehandel
+mobilapplikasjon,kunstig intelligens,Undirected,Butikk og varehandel
+mobilapplikasjon,informatikk,Undirected,Butikk og varehandel
+react native,.net maui (multi-platform app ui),Undirected,Butikk og varehandel
+react native,native apps,Undirected,Butikk og varehandel
+react native,ingeniørarbeid,Undirected,Butikk og varehandel
+react native,kunstig intelligens,Undirected,Butikk og varehandel
+react native,informatikk,Undirected,Butikk og varehandel
+.net maui (multi-platform app ui),native apps,Undirected,Butikk og varehandel
+.net maui (multi-platform app ui),ingeniørarbeid,Undirected,Butikk og varehandel
+.net maui (multi-platform app ui),kunstig intelligens,Undirected,Butikk og varehandel
+.net maui (multi-platform app ui),informatikk,Undirected,Butikk og varehandel
+native apps,ingeniørarbeid,Undirected,Butikk og varehandel
+native apps,kunstig intelligens,Undirected,Butikk og varehandel
+native apps,informatikk,Undirected,Butikk og varehandel
+strategisk systemutvikling,standardisere prosesser,Undirected,Butikk og varehandel
+strategisk systemutvikling,ingeniørarbeid,Undirected,Butikk og varehandel
+strategisk systemutvikling,kunstig intelligens,Undirected,Butikk og varehandel
+strategisk systemutvikling,informatikk,Undirected,Butikk og varehandel
+standardisere prosesser,ingeniørarbeid,Undirected,Butikk og varehandel
+standardisere prosesser,kunstig intelligens,Undirected,Butikk og varehandel
+standardisere prosesser,informatikk,Undirected,Butikk og varehandel
+markedsanalyse,python scripting,Undirected,Bank
+markedsanalyse,ahrefs,Undirected,Bank
+markedsanalyse,automatisering,Undirected,Bank
+markedsanalyse,semrush,Undirected,Bank
+markedsanalyse,kunstig intelligens,Undirected,Bank
+markedsanalyse,landingpage,Undirected,Bank
+markedsanalyse,google adwords,Undirected,Bank
+python scripting,ahrefs,Undirected,Bank
+python scripting,automatisering,Undirected,Bank
+python scripting,semrush,Undirected,Bank
+python scripting,kunstig intelligens,Undirected,Bank
+python scripting,landingpage,Undirected,Bank
+python scripting,google adwords,Undirected,Bank
+ahrefs,automatisering,Undirected,Bank
+ahrefs,semrush,Undirected,Bank
+ahrefs,kunstig intelligens,Undirected,Bank
+ahrefs,landingpage,Undirected,Bank
+ahrefs,google adwords,Undirected,Bank
+automatisering,semrush,Undirected,Bank
+automatisering,landingpage,Undirected,Bank
+automatisering,google adwords,Undirected,Bank
+semrush,kunstig intelligens,Undirected,Bank
+semrush,landingpage,Undirected,Bank
+semrush,google adwords,Undirected,Bank
+kunstig intelligens,landingpage,Undirected,Bank
+kunstig intelligens,google adwords,Undirected,Bank
+landingpage,google adwords,Undirected,Bank
+norsk,engelsk,Undirected,Annet
+general data protection regulation (gdpr),dataarkitektur,Undirected,Bank
+python (dataprogrammering),api - integrasjoner,Undirected,Bank
+api - integrasjoner,sql,Undirected,Bank
+api - integrasjoner,data engineering,Undirected,Bank
+api - integrasjoner,terraform,Undirected,Bank
+api - integrasjoner,development of data pipelines,Undirected,Bank
+api - integrasjoner,mlops,Undirected,Bank
+api - integrasjoner,k8s,Undirected,Bank
+sql,terraform,Undirected,Bank
+data engineering,terraform,Undirected,Bank
+data engineering,mlops,Undirected,Bank
+data engineering,k8s,Undirected,Bank
+terraform,development of data pipelines,Undirected,Bank
+terraform,mlops,Undirected,Bank
+terraform,k8s,Undirected,Bank
+development of data pipelines,k8s,Undirected,Bank
+mlops,k8s,Undirected,Bank
+markedsstrategi,datadrevet markedsføring,Undirected,Eiendom
+markedsstrategi,produsere innhold,Undirected,Eiendom
+markedsstrategi,kunstig intelligens,Undirected,Eiendom
+datadrevet markedsføring,produsere innhold,Undirected,Eiendom
+datadrevet markedsføring,kunstig intelligens,Undirected,Eiendom
+product marketing,innholdsproduksjon,Undirected,Event og arrangementer
+product marketing,prosjekteringsledelse,Undirected,Event og arrangementer
+product marketing,programvare som tjeneste,Undirected,Event og arrangementer
+innholdsproduksjon,prosjekteringsledelse,Undirected,Event og arrangementer
+innholdsproduksjon,programvare som tjeneste,Undirected,Event og arrangementer
+digitalisering,bioingeniørfaglig kompetanse,Undirected,Helse og omsorg
+digitalisering,analysere bilder,Undirected,Helse og omsorg
+digitalisering,biologi,Undirected,Helse og omsorg
+digitalisering,bergenstesten,Undirected,Helse og omsorg
+digitalisering,databaseutvikling,Undirected,Helse og omsorg
+bioingeniørfaglig kompetanse,analysere bilder,Undirected,Helse og omsorg
+bioingeniørfaglig kompetanse,biologi,Undirected,Helse og omsorg
+bioingeniørfaglig kompetanse,bergenstesten,Undirected,Helse og omsorg
+bioingeniørfaglig kompetanse,databaseutvikling,Undirected,Helse og omsorg
+analysere bilder,biologi,Undirected,Helse og omsorg
+analysere bilder,bergenstesten,Undirected,Helse og omsorg
+analysere bilder,databaseutvikling,Undirected,Helse og omsorg
+biologi,bergenstesten,Undirected,Helse og omsorg
+biologi,databaseutvikling,Undirected,Helse og omsorg
+bergenstesten,databaseutvikling,Undirected,Helse og omsorg
+interaksjonsdesign,brukbarhetstesting,Undirected,IT
+interaksjonsdesign,programvaredesign,Undirected,IT
+interaksjonsdesign,informasjonsarkitektur,Undirected,IT
+interaksjonsdesign,prototype,Undirected,IT
+interaksjonsdesign,wireframing,Undirected,IT
+brukbarhetstesting,programvaredesign,Undirected,IT
+brukbarhetstesting,informasjonsarkitektur,Undirected,IT
+brukbarhetstesting,wireframing,Undirected,IT
+programvaredesign,informasjonsarkitektur,Undirected,IT
+programvaredesign,prototype,Undirected,IT
+programvaredesign,wireframing,Undirected,IT
+informasjonsarkitektur,prototype,Undirected,IT
+informasjonsarkitektur,wireframing,Undirected,IT
+prototype,wireframing,Undirected,IT
+fabrikasjonsprosess,kunstig intelligens,Undirected,Industri og produksjon
+fabrikasjonsprosess,prosessoptimalisering (produksjonsprosesser),Undirected,Industri og produksjon
+fabrikasjonsprosess,ifs erp,Undirected,Industri og produksjon
+fabrikasjonsprosess,digitalisering,Undirected,Industri og produksjon
+kunstig intelligens,prosessoptimalisering (produksjonsprosesser),Undirected,Industri og produksjon
+kunstig intelligens,ifs erp,Undirected,Industri og produksjon
+prosessoptimalisering (produksjonsprosesser),ifs erp,Undirected,Industri og produksjon
+prosessoptimalisering (produksjonsprosesser),digitalisering,Undirected,Industri og produksjon
+ifs erp,digitalisering,Undirected,Industri og produksjon
+teknologisk forståelse,innholdsmarkedsføring,Undirected,Markedsføring og annonsering
+teknologisk forståelse,matfaget,Undirected,Markedsføring og annonsering
+teknologisk forståelse,sosiale medier,Undirected,Markedsføring og annonsering
+teknologisk forståelse,kreativitet,Undirected,Markedsføring og annonsering
+teknologisk forståelse,prosjektledelse,Undirected,Markedsføring og annonsering
+innholdsmarkedsføring,matfaget,Undirected,Markedsføring og annonsering
+innholdsmarkedsføring,sosiale medier,Undirected,Markedsføring og annonsering
+innholdsmarkedsføring,kreativitet,Undirected,Markedsføring og annonsering
+innholdsmarkedsføring,prosjektledelse,Undirected,Markedsføring og annonsering
+matfaget,sosiale medier,Undirected,Markedsføring og annonsering
+matfaget,kreativitet,Undirected,Markedsføring og annonsering
+matfaget,prosjektledelse,Undirected,Markedsføring og annonsering
+sosiale medier,kreativitet,Undirected,Markedsføring og annonsering
+sosiale medier,prosjektledelse,Undirected,Markedsføring og annonsering
+kreativitet,prosjektledelse,Undirected,Markedsføring og annonsering
+produsere innhold,wordpress,Undirected,Internettbaserte tjenester
+produsere innhold,digital annonsering,Undirected,Internettbaserte tjenester
+produsere innhold,google analytics,Undirected,Internettbaserte tjenester
+produsere innhold,landingpage,Undirected,Internettbaserte tjenester
+produsere innhold,kampanjeplanlegging (markedsføring),Undirected,Internettbaserte tjenester
+produsere innhold,google adwords,Undirected,Internettbaserte tjenester
+wordpress,digital annonsering,Undirected,Internettbaserte tjenester
+wordpress,datadrevet markedsføring,Undirected,Internettbaserte tjenester
+wordpress,google analytics,Undirected,Internettbaserte tjenester
+wordpress,landingpage,Undirected,Internettbaserte tjenester
+wordpress,kampanjeplanlegging (markedsføring),Undirected,Internettbaserte tjenester
+wordpress,google adwords,Undirected,Internettbaserte tjenester
+digital annonsering,datadrevet markedsføring,Undirected,Internettbaserte tjenester
+digital annonsering,google analytics,Undirected,Internettbaserte tjenester
+digital annonsering,landingpage,Undirected,Internettbaserte tjenester
+digital annonsering,kampanjeplanlegging (markedsføring),Undirected,Internettbaserte tjenester
+digital annonsering,google adwords,Undirected,Internettbaserte tjenester
+datadrevet markedsføring,landingpage,Undirected,Internettbaserte tjenester
+datadrevet markedsføring,kampanjeplanlegging (markedsføring),Undirected,Internettbaserte tjenester
+datadrevet markedsføring,google adwords,Undirected,Internettbaserte tjenester
+google analytics,landingpage,Undirected,Internettbaserte tjenester
+google analytics,kampanjeplanlegging (markedsføring),Undirected,Internettbaserte tjenester
+landingpage,kampanjeplanlegging (markedsføring),Undirected,Internettbaserte tjenester
+kampanjeplanlegging (markedsføring),google adwords,Undirected,Internettbaserte tjenester
+docker,ci/cd (continuous integration and continuous delivery),Undirected,IT
+docker,prometheus,Undirected,IT
+docker,cuda (compute unified device architecture),Undirected,IT
+docker,bash (operativsystem),Undirected,IT
+docker,felling,Undirected,IT
+docker,overvåkning og loggverktøy,Undirected,IT
+docker,systemoptimering,Undirected,IT
+ci/cd (continuous integration and continuous delivery),prometheus,Undirected,IT
+ci/cd (continuous integration and continuous delivery),cuda (compute unified device architecture),Undirected,IT
+ci/cd (continuous integration and continuous delivery),felling,Undirected,IT
+ci/cd (continuous integration and continuous delivery),overvåkning og loggverktøy,Undirected,IT
+ci/cd (continuous integration and continuous delivery),systemoptimering,Undirected,IT
+prometheus,cuda (compute unified device architecture),Undirected,IT
+prometheus,bash (operativsystem),Undirected,IT
+prometheus,felling,Undirected,IT
+prometheus,overvåkning og loggverktøy,Undirected,IT
+prometheus,systemoptimering,Undirected,IT
+cuda (compute unified device architecture),bash (operativsystem),Undirected,IT
+cuda (compute unified device architecture),felling,Undirected,IT
+cuda (compute unified device architecture),overvåkning og loggverktøy,Undirected,IT
+cuda (compute unified device architecture),systemoptimering,Undirected,IT
+bash (operativsystem),felling,Undirected,IT
+bash (operativsystem),overvåkning og loggverktøy,Undirected,IT
+bash (operativsystem),systemoptimering,Undirected,IT
+felling,overvåkning og loggverktøy,Undirected,IT
+felling,systemoptimering,Undirected,IT
+overvåkning og loggverktøy,systemoptimering,Undirected,IT
+docker,mlops,Undirected,IT
+docker,pytorch,Undirected,IT
+docker,k8s,Undirected,IT
+python (dataprogrammering),felling,Undirected,IT
+maskinlæring,felling,Undirected,IT
+maskinlæring,k8s,Undirected,IT
+felling,mlops,Undirected,IT
+felling,pytorch,Undirected,IT
+felling,k8s,Undirected,IT
+pytorch,k8s,Undirected,IT
+cybersikkerhet,due diligence analyse,Undirected,IT
+cybersikkerhet,go-to-market strategi,Undirected,IT
+cybersikkerhet,datasenter,Undirected,IT
+due diligence analyse,go-to-market strategi,Undirected,IT
+due diligence analyse,datasenter,Undirected,IT
+go-to-market strategi,datasenter,Undirected,IT
+controlling,axapta,Undirected,innsikt og lokal ekspertise.
+controlling,kunstig intelligens,Undirected,innsikt og lokal ekspertise.
+controlling,prosjekteringsledelse,Undirected,innsikt og lokal ekspertise.
+controlling,ifs erp,Undirected,innsikt og lokal ekspertise.
+controlling,kontinuerlig forbedringsarbeid,Undirected,innsikt og lokal ekspertise.
+axapta,erp-systemer,Undirected,innsikt og lokal ekspertise.
+axapta,kunstig intelligens,Undirected,innsikt og lokal ekspertise.
+axapta,prosjekteringsledelse,Undirected,innsikt og lokal ekspertise.
+axapta,ifs erp,Undirected,innsikt og lokal ekspertise.
+axapta,kontinuerlig forbedringsarbeid,Undirected,innsikt og lokal ekspertise.
+erp-systemer,kunstig intelligens,Undirected,innsikt og lokal ekspertise.
+erp-systemer,prosjekteringsledelse,Undirected,innsikt og lokal ekspertise.
+erp-systemer,ifs erp,Undirected,innsikt og lokal ekspertise.
+erp-systemer,kontinuerlig forbedringsarbeid,Undirected,innsikt og lokal ekspertise.
+kunstig intelligens,prosjekteringsledelse,Undirected,innsikt og lokal ekspertise.
+kunstig intelligens,kontinuerlig forbedringsarbeid,Undirected,innsikt og lokal ekspertise.
+prosjekteringsledelse,ifs erp,Undirected,innsikt og lokal ekspertise.
+prosjekteringsledelse,kontinuerlig forbedringsarbeid,Undirected,innsikt og lokal ekspertise.
+ifs erp,kontinuerlig forbedringsarbeid,Undirected,innsikt og lokal ekspertise.
+finansforvaltning,controlling,Undirected,innsikt og lokal ekspertise.
+finansforvaltning,økonomistyring,Undirected,innsikt og lokal ekspertise.
+finansforvaltning,kostnadskontroll (financial controlling),Undirected,innsikt og lokal ekspertise.
+finansforvaltning,analysere data,Undirected,innsikt og lokal ekspertise.
+finansforvaltning,risikostyring,Undirected,innsikt og lokal ekspertise.
+finansforvaltning,likviditetsstyring,Undirected,innsikt og lokal ekspertise.
+finansforvaltning,business-planlegging,Undirected,innsikt og lokal ekspertise.
+controlling,økonomistyring,Undirected,innsikt og lokal ekspertise.
+controlling,kostnadskontroll (financial controlling),Undirected,innsikt og lokal ekspertise.
+controlling,risikostyring,Undirected,innsikt og lokal ekspertise.
+controlling,likviditetsstyring,Undirected,innsikt og lokal ekspertise.
+controlling,business-planlegging,Undirected,innsikt og lokal ekspertise.
+økonomistyring,kostnadskontroll (financial controlling),Undirected,innsikt og lokal ekspertise.
+økonomistyring,analysere data,Undirected,innsikt og lokal ekspertise.
+økonomistyring,risikostyring,Undirected,innsikt og lokal ekspertise.
+økonomistyring,likviditetsstyring,Undirected,innsikt og lokal ekspertise.
+økonomistyring,business-planlegging,Undirected,innsikt og lokal ekspertise.
+kostnadskontroll (financial controlling),analysere data,Undirected,innsikt og lokal ekspertise.
+kostnadskontroll (financial controlling),risikostyring,Undirected,innsikt og lokal ekspertise.
+kostnadskontroll (financial controlling),likviditetsstyring,Undirected,innsikt og lokal ekspertise.
+kostnadskontroll (financial controlling),business-planlegging,Undirected,innsikt og lokal ekspertise.
+analysere data,risikostyring,Undirected,innsikt og lokal ekspertise.
+analysere data,likviditetsstyring,Undirected,innsikt og lokal ekspertise.
+analysere data,business-planlegging,Undirected,innsikt og lokal ekspertise.
+risikostyring,likviditetsstyring,Undirected,innsikt og lokal ekspertise.
+risikostyring,business-planlegging,Undirected,innsikt og lokal ekspertise.
+likviditetsstyring,business-planlegging,Undirected,innsikt og lokal ekspertise.
+flåtestyring,account management,Undirected,IT - programvare
+flåtestyring,tolke data,Undirected,IT - programvare
+flåtestyring,regulatory compliance,Undirected,IT - programvare
+account management,tolke data,Undirected,IT - programvare
+account management,regulatory compliance,Undirected,IT - programvare
+tolke data,regulatory compliance,Undirected,IT - programvare
+resultatanalyse,annonsering i sosiale medier,Undirected,Butikk og varehandel
+resultatanalyse,digital annonsering,Undirected,Butikk og varehandel
+resultatanalyse,datadrevet markedsføring,Undirected,Butikk og varehandel
+resultatanalyse,google analytics,Undirected,Butikk og varehandel
+resultatanalyse,performance marketing,Undirected,Butikk og varehandel
+annonsering i sosiale medier,digital annonsering,Undirected,Butikk og varehandel
+annonsering i sosiale medier,datadrevet markedsføring,Undirected,Butikk og varehandel
+annonsering i sosiale medier,google analytics,Undirected,Butikk og varehandel
+annonsering i sosiale medier,performance marketing,Undirected,Butikk og varehandel
+digital annonsering,performance marketing,Undirected,Butikk og varehandel
+datadrevet markedsføring,performance marketing,Undirected,Butikk og varehandel
+google analytics,performance marketing,Undirected,Butikk og varehandel
+vitenskapelig forskning,natural language processing (nlp),Undirected,Forskning
+vitenskapelig forskning,explainable ai,Undirected,Forskning
+vitenskapelig forskning,digital informasjonsinnhenting,Undirected,Forskning
+vitenskapelig forskning,store språkmodeller,Undirected,Forskning
+vitenskapelig forskning,informatikk,Undirected,Forskning
+vitenskapelig forskning,forskning,Undirected,Forskning
+natural language processing (nlp),explainable ai,Undirected,Forskning
+natural language processing (nlp),digital informasjonsinnhenting,Undirected,Forskning
+natural language processing (nlp),store språkmodeller,Undirected,Forskning
+natural language processing (nlp),informatikk,Undirected,Forskning
+natural language processing (nlp),forskning,Undirected,Forskning
+explainable ai,digital informasjonsinnhenting,Undirected,Forskning
+explainable ai,store språkmodeller,Undirected,Forskning
+explainable ai,informatikk,Undirected,Forskning
+explainable ai,forskning,Undirected,Forskning
+digital informasjonsinnhenting,store språkmodeller,Undirected,Forskning
+digital informasjonsinnhenting,informatikk,Undirected,Forskning
+digital informasjonsinnhenting,forskning,Undirected,Forskning
+store språkmodeller,forskning,Undirected,Forskning
+informatikk,forskning,Undirected,Forskning
+administrere data,vann- og avløpsanlegg,Undirected,Bygg og anlegg
+vann- og avløpsanlegg,digitalisering,Undirected,Bygg og anlegg
+løse praktiske,sensorer,Undirected,Industri og produksjon
+løse praktiske,operasjonelle problemer i industrielle prosesser,Undirected,Industri og produksjon
+løse praktiske,utføre feltarbeid,Undirected,Industri og produksjon
+løse praktiske,installasjon,Undirected,Industri og produksjon
+løse praktiske,support / brukerstøtte,Undirected,Industri og produksjon
+sensorer,operasjonelle problemer i industrielle prosesser,Undirected,Industri og produksjon
+sensorer,utføre feltarbeid,Undirected,Industri og produksjon
+sensorer,installasjon,Undirected,Industri og produksjon
+sensorer,support / brukerstøtte,Undirected,Industri og produksjon
+operasjonelle problemer i industrielle prosesser,utføre feltarbeid,Undirected,Industri og produksjon
+operasjonelle problemer i industrielle prosesser,installasjon,Undirected,Industri og produksjon
+operasjonelle problemer i industrielle prosesser,support / brukerstøtte,Undirected,Industri og produksjon
+utføre feltarbeid,installasjon,Undirected,Industri og produksjon
+utføre feltarbeid,support / brukerstøtte,Undirected,Industri og produksjon
+installasjon,support / brukerstøtte,Undirected,Industri og produksjon
+informatikk,robotikk,Undirected,Elektronikk
+robotikk,python (dataprogrammering),Undirected,Elektronikk
+robotikk,moderne software-utvikling,Undirected,Elektronikk
+bedriftsøkonomi,analysere data,Undirected,IT
+bedriftsøkonomi,digitalisering,Undirected,IT
+analysere data,digitalisering,Undirected,IT
+migrering av prosjektledelse,strategisk prosjektledelse,Undirected,Bank
+migrering av prosjektledelse,kunstig intelligens,Undirected,Bank
+migrering av prosjektledelse,regulatory compliance,Undirected,Bank
+strategisk prosjektledelse,kunstig intelligens,Undirected,Bank
+strategisk prosjektledelse,regulatory compliance,Undirected,Bank
+forskrifter,data engineering,Undirected,Bank
+forskrifter,teknologiledelse,Undirected,Bank
+forskrifter,risikostyring,Undirected,Bank
+forskrifter,kunstig intelligens,Undirected,Bank
+forskrifter,analysere data,Undirected,Bank
+forskrifter,bank- og finansielle tjenester,Undirected,Bank
+data engineering,teknologiledelse,Undirected,Bank
+data engineering,risikostyring,Undirected,Bank
+data engineering,analysere data,Undirected,Bank
+data engineering,bank- og finansielle tjenester,Undirected,Bank
+teknologiledelse,risikostyring,Undirected,Bank
+teknologiledelse,kunstig intelligens,Undirected,Bank
+teknologiledelse,analysere data,Undirected,Bank
+teknologiledelse,bank- og finansielle tjenester,Undirected,Bank
+risikostyring,kunstig intelligens,Undirected,Bank
+risikostyring,bank- og finansielle tjenester,Undirected,Bank
+kunstig intelligens,bank- og finansielle tjenester,Undirected,Bank
+analysere data,bank- og finansielle tjenester,Undirected,Bank
+teknisk it kompetanse,support / brukerstøtte,Undirected,IT
+teknisk it kompetanse,sql script,Undirected,IT
+teknisk it kompetanse,c# (programmeringsspråk),Undirected,IT
+support / brukerstøtte,sql script,Undirected,IT
+support / brukerstøtte,c# (programmeringsspråk),Undirected,IT
+sql script,c# (programmeringsspråk),Undirected,IT
+amazon web services (aws),golang,Undirected,Internettbaserte tjenester
+amazon web services (aws),c# (programmeringsspråk),Undirected,Internettbaserte tjenester
+amazon web services (aws),application programming interfaces (apis),Undirected,Internettbaserte tjenester
+amazon web services (aws),rest (api),Undirected,Internettbaserte tjenester
+golang,c# (programmeringsspråk),Undirected,Internettbaserte tjenester
+golang,application programming interfaces (apis),Undirected,Internettbaserte tjenester
+golang,rest (api),Undirected,Internettbaserte tjenester
+c# (programmeringsspråk),application programming interfaces (apis),Undirected,Internettbaserte tjenester
+application programming interfaces (apis),rest (api),Undirected,Internettbaserte tjenester
+dataprogrammering,programmeringsspråk,Undirected,Telekommunikasjon
+dataprogrammering,ci/cd (continuous integration and continuous delivery),Undirected,Telekommunikasjon
+dataprogrammering,go,Undirected,Telekommunikasjon
+dataprogrammering,kjennskap til skyplattformer,Undirected,Telekommunikasjon
+dataprogrammering,azure ad,Undirected,Telekommunikasjon
+dataprogrammering,infrastructure as code (iac),Undirected,Telekommunikasjon
+dataprogrammering,k8s,Undirected,Telekommunikasjon
+programmeringsspråk,go,Undirected,Telekommunikasjon
+programmeringsspråk,kjennskap til skyplattformer,Undirected,Telekommunikasjon
+programmeringsspråk,infrastructure as code (iac),Undirected,Telekommunikasjon
+programmeringsspråk,k8s,Undirected,Telekommunikasjon
+ci/cd (continuous integration and continuous delivery),go,Undirected,Telekommunikasjon
+ci/cd (continuous integration and continuous delivery),infrastructure as code (iac),Undirected,Telekommunikasjon
+ci/cd (continuous integration and continuous delivery),k8s,Undirected,Telekommunikasjon
+go,azure ad,Undirected,Telekommunikasjon
+go,infrastructure as code (iac),Undirected,Telekommunikasjon
+go,k8s,Undirected,Telekommunikasjon
+kjennskap til skyplattformer,azure ad,Undirected,Telekommunikasjon
+kjennskap til skyplattformer,infrastructure as code (iac),Undirected,Telekommunikasjon
+kjennskap til skyplattformer,k8s,Undirected,Telekommunikasjon
+azure ad,infrastructure as code (iac),Undirected,Telekommunikasjon
+azure ad,k8s,Undirected,Telekommunikasjon
+data modeling,airflow,Undirected,IT
+data modeling,devops,Undirected,IT
+data modeling,dataintegrasjonsprosesser,Undirected,IT
+airflow,ci/cd (continuous integration and continuous delivery),Undirected,IT
+airflow,devops,Undirected,IT
+airflow,azure ad,Undirected,IT
+airflow,dataintegrasjonsprosesser,Undirected,IT
+python (dataprogrammering),devops,Undirected,IT
+python (dataprogrammering),dataintegrasjonsprosesser,Undirected,IT
+ci/cd (continuous integration and continuous delivery),devops,Undirected,IT
+ci/cd (continuous integration and continuous delivery),dataintegrasjonsprosesser,Undirected,IT
+devops,azure ad,Undirected,IT
+devops,dataintegrasjonsprosesser,Undirected,IT
+azure ad,dataintegrasjonsprosesser,Undirected,IT
+data modeling,nosql,Undirected,IT
+data modeling,apache kafka,Undirected,IT
+data modeling,data engineering,Undirected,IT
+data modeling,apache spark,Undirected,IT
+data modeling,streamingteknologi,Undirected,IT
+nosql,apache kafka,Undirected,IT
+nosql,data engineering,Undirected,IT
+nosql,apache spark,Undirected,IT
+nosql,streamingteknologi,Undirected,IT
+nosql,azure ad,Undirected,IT
+apache kafka,sql,Undirected,IT
+apache kafka,data engineering,Undirected,IT
+apache kafka,apache spark,Undirected,IT
+apache kafka,streamingteknologi,Undirected,IT
+apache kafka,azure ad,Undirected,IT
+sql,streamingteknologi,Undirected,IT
+data engineering,apache spark,Undirected,IT
+data engineering,streamingteknologi,Undirected,IT
+data engineering,azure ad,Undirected,IT
+apache spark,streamingteknologi,Undirected,IT
+apache spark,azure ad,Undirected,IT
+streamingteknologi,azure ad,Undirected,IT
+digitalisering,administrere ressurser,Undirected,Internettbaserte tjenester
+digitalisering,ict security,Undirected,Internettbaserte tjenester
+digitalisering,ikt-støtte,Undirected,Internettbaserte tjenester
+digitalisering,prosjektledelse,Undirected,Internettbaserte tjenester
+administrere ressurser,ict security,Undirected,Internettbaserte tjenester
+administrere ressurser,ikt-støtte,Undirected,Internettbaserte tjenester
+administrere ressurser,prosjektledelse,Undirected,Internettbaserte tjenester
+ict security,ikt-støtte,Undirected,Internettbaserte tjenester
+ict security,prosjektledelse,Undirected,Internettbaserte tjenester
+ikt-støtte,prosjektledelse,Undirected,Internettbaserte tjenester
+maskinlæring,python scripting,Undirected,IT
+maskinlæring,cuda (compute unified device architecture),Undirected,IT
+maskinlæring,deep learning,Undirected,IT
+maskinlæring,computer vision,Undirected,IT
+python scripting,cuda (compute unified device architecture),Undirected,IT
+python scripting,deep learning,Undirected,IT
+python scripting,computer vision,Undirected,IT
+cuda (compute unified device architecture),deep learning,Undirected,IT
+cuda (compute unified device architecture),computer vision,Undirected,IT
+deep learning,computer vision,Undirected,IT
+prosjektleveranse,kvalitetssikring,Undirected,IT - programvare
+prosjektleveranse,risikovurdering (forsikring),Undirected,IT - programvare
+prosjektleveranse,kvalitetsstyring,Undirected,IT - programvare
+prosjektleveranse,strategirådgivning,Undirected,IT - programvare
+prosjektleveranse,prosjekteringsledelse,Undirected,IT - programvare
+kvalitetssikring,risikovurdering (forsikring),Undirected,IT - programvare
+kvalitetssikring,kvalitetsstyring,Undirected,IT - programvare
+kvalitetssikring,strategirådgivning,Undirected,IT - programvare
+kvalitetssikring,prosjekteringsledelse,Undirected,IT - programvare
+risikovurdering (forsikring),kvalitetsstyring,Undirected,IT - programvare
+risikovurdering (forsikring),strategirådgivning,Undirected,IT - programvare
+risikovurdering (forsikring),prosjekteringsledelse,Undirected,IT - programvare
+kvalitetsstyring,strategirådgivning,Undirected,IT - programvare
+kvalitetsstyring,prosjekteringsledelse,Undirected,IT - programvare
+strategirådgivning,prosjekteringsledelse,Undirected,IT - programvare
+ingeniørkunst,byggeteknikk,Undirected,IT
+ingeniørkunst,teknisk dokumentasjon,Undirected,IT
+ingeniørkunst,innholds- og omfangsledelse,Undirected,IT
+ingeniørkunst,support / brukerstøtte,Undirected,IT
+byggeteknikk,teknisk dokumentasjon,Undirected,IT
+byggeteknikk,innholds- og omfangsledelse,Undirected,IT
+byggeteknikk,support / brukerstøtte,Undirected,IT
+teknisk dokumentasjon,innholds- og omfangsledelse,Undirected,IT
+teknisk dokumentasjon,support / brukerstøtte,Undirected,IT
+innholds- og omfangsledelse,support / brukerstøtte,Undirected,IT
+kuldeteknikk,vedlikehold av industrimaskiner,Undirected,kunnskap innen varme
+kuldeteknikk,ventilasjon,Undirected,kunnskap innen varme
+kuldeteknikk,air condition og byggteknologi,Undirected,kunnskap innen varme
+kuldeteknikk,pumper,Undirected,kunnskap innen varme
+kuldeteknikk,systemoptimering,Undirected,kunnskap innen varme
+kuldeteknikk,bransjekunnskap innen varme,Undirected,kunnskap innen varme
+kuldeteknikk,reparasjon,Undirected,kunnskap innen varme
+kuldeteknikk,norsk,Undirected,kunnskap innen varme
+kuldeteknikk,mekanisk feilsøking /vedlikehold,Undirected,kunnskap innen varme
+vedlikehold av industrimaskiner,ventilasjon,Undirected,kunnskap innen varme
+vedlikehold av industrimaskiner,air condition og byggteknologi,Undirected,kunnskap innen varme
+vedlikehold av industrimaskiner,pumper,Undirected,kunnskap innen varme
+vedlikehold av industrimaskiner,systemoptimering,Undirected,kunnskap innen varme
+vedlikehold av industrimaskiner,bransjekunnskap innen varme,Undirected,kunnskap innen varme
+vedlikehold av industrimaskiner,reparasjon,Undirected,kunnskap innen varme
+vedlikehold av industrimaskiner,norsk,Undirected,kunnskap innen varme
+vedlikehold av industrimaskiner,mekanisk feilsøking /vedlikehold,Undirected,kunnskap innen varme
+ventilasjon,air condition og byggteknologi,Undirected,kunnskap innen varme
+ventilasjon,pumper,Undirected,kunnskap innen varme
+ventilasjon,systemoptimering,Undirected,kunnskap innen varme
+ventilasjon,bransjekunnskap innen varme,Undirected,kunnskap innen varme
+ventilasjon,reparasjon,Undirected,kunnskap innen varme
+ventilasjon,norsk,Undirected,kunnskap innen varme
+ventilasjon,mekanisk feilsøking /vedlikehold,Undirected,kunnskap innen varme
+air condition og byggteknologi,pumper,Undirected,kunnskap innen varme
+air condition og byggteknologi,systemoptimering,Undirected,kunnskap innen varme
+air condition og byggteknologi,bransjekunnskap innen varme,Undirected,kunnskap innen varme
+air condition og byggteknologi,reparasjon,Undirected,kunnskap innen varme
+air condition og byggteknologi,norsk,Undirected,kunnskap innen varme
+air condition og byggteknologi,mekanisk feilsøking /vedlikehold,Undirected,kunnskap innen varme
+pumper,systemoptimering,Undirected,kunnskap innen varme
+pumper,bransjekunnskap innen varme,Undirected,kunnskap innen varme
+pumper,reparasjon,Undirected,kunnskap innen varme
+pumper,norsk,Undirected,kunnskap innen varme
+pumper,mekanisk feilsøking /vedlikehold,Undirected,kunnskap innen varme
+systemoptimering,bransjekunnskap innen varme,Undirected,kunnskap innen varme
+systemoptimering,reparasjon,Undirected,kunnskap innen varme
+systemoptimering,norsk,Undirected,kunnskap innen varme
+systemoptimering,mekanisk feilsøking /vedlikehold,Undirected,kunnskap innen varme
+bransjekunnskap innen varme,reparasjon,Undirected,kunnskap innen varme
+bransjekunnskap innen varme,norsk,Undirected,kunnskap innen varme
+bransjekunnskap innen varme,mekanisk feilsøking /vedlikehold,Undirected,kunnskap innen varme
+reparasjon,norsk,Undirected,kunnskap innen varme
+reparasjon,mekanisk feilsøking /vedlikehold,Undirected,kunnskap innen varme
+norsk,mekanisk feilsøking /vedlikehold,Undirected,kunnskap innen varme
+elektriske høyspenningsinstallasjoner,forskrifter,Undirected,Drift og vedlikeholdstjenester
+elektriske høyspenningsinstallasjoner,fse lav- og høyspenning,Undirected,Drift og vedlikeholdstjenester
+elektriske høyspenningsinstallasjoner,servicearbeid,Undirected,Drift og vedlikeholdstjenester
+elektriske høyspenningsinstallasjoner,elektroindustri (bransje),Undirected,Drift og vedlikeholdstjenester
+elektriske høyspenningsinstallasjoner,sikkerhetsregler,Undirected,Drift og vedlikeholdstjenester
+forskrifter,fse lav- og høyspenning,Undirected,Drift og vedlikeholdstjenester
+forskrifter,servicearbeid,Undirected,Drift og vedlikeholdstjenester
+forskrifter,elektroindustri (bransje),Undirected,Drift og vedlikeholdstjenester
+forskrifter,sikkerhetsregler,Undirected,Drift og vedlikeholdstjenester
+fse lav- og høyspenning,servicearbeid,Undirected,Drift og vedlikeholdstjenester
+fse lav- og høyspenning,elektroindustri (bransje),Undirected,Drift og vedlikeholdstjenester
+fse lav- og høyspenning,sikkerhetsregler,Undirected,Drift og vedlikeholdstjenester
+servicearbeid,elektroindustri (bransje),Undirected,Drift og vedlikeholdstjenester
+servicearbeid,sikkerhetsregler,Undirected,Drift og vedlikeholdstjenester
+elektroindustri (bransje),sikkerhetsregler,Undirected,Drift og vedlikeholdstjenester
+internkontroll,rapportering,Undirected,Helse og omsorg
+bokføring,finansiell rapportering,Undirected,Helse og omsorg
+erp-systemer,finansiell revisjon,Undirected,Helse og omsorg
+erp-systemer,internprising,Undirected,Helse og omsorg
+erp-systemer,konsolidert finansregnskap,Undirected,Helse og omsorg
+finansiell revisjon,rapportering,Undirected,Helse og omsorg
+finansiell revisjon,finansiell rapportering,Undirected,Helse og omsorg
+rapportering,internprising,Undirected,Helse og omsorg
+rapportering,finansiell rapportering,Undirected,Helse og omsorg
+rapportering,konsolidert finansregnskap,Undirected,Helse og omsorg
+internprising,finansiell rapportering,Undirected,Helse og omsorg
+finansiell rapportering,konsolidert finansregnskap,Undirected,Helse og omsorg
+interaksjonsdesign,brukerforskning,Undirected,HR
+interaksjonsdesign,produktdesign,Undirected,HR
+interaksjonsdesign,interativ designmetode,Undirected,HR
+interaksjonsdesign,brukeropplevelse,Undirected,HR
+interaksjonsdesign,norsk,Undirected,HR
+brukerforskning,brukbarhetstesting,Undirected,HR
+brukerforskning,produktdesign,Undirected,HR
+brukerforskning,interativ designmetode,Undirected,HR
+brukerforskning,brukeropplevelse,Undirected,HR
+brukerforskning,norsk,Undirected,HR
+brukbarhetstesting,produktdesign,Undirected,HR
+brukbarhetstesting,interativ designmetode,Undirected,HR
+brukbarhetstesting,brukeropplevelse,Undirected,HR
+brukbarhetstesting,norsk,Undirected,HR
+produktdesign,interativ designmetode,Undirected,HR
+produktdesign,brukeropplevelse,Undirected,HR
+produktdesign,norsk,Undirected,HR
+interativ designmetode,brukeropplevelse,Undirected,HR
+interativ designmetode,norsk,Undirected,HR
+brukeropplevelse,norsk,Undirected,HR
+miljøkonsekvensanalyse,leting og produksjon av olje,Undirected,Kraft og energi
+miljøkonsekvensanalyse,prosessteknikk,Undirected,Kraft og energi
+miljøkonsekvensanalyse,analysere data,Undirected,Kraft og energi
+miljøkonsekvensanalyse,norsk,Undirected,Kraft og energi
+leting og produksjon av olje,prosessteknikk,Undirected,Kraft og energi
+leting og produksjon av olje,analysere data,Undirected,Kraft og energi
+leting og produksjon av olje,norsk,Undirected,Kraft og energi
+prosessteknikk,analysere data,Undirected,Kraft og energi
+prosessteknikk,norsk,Undirected,Kraft og energi
+operating system (ict),servicenow,Undirected,Farmasi og legemiddel
+operating system (ict),prosjekt,Undirected,Farmasi og legemiddel
+operating system (ict),tidsplanlegging,Undirected,Farmasi og legemiddel
+operating system (ict),vmware esx,Undirected,Farmasi og legemiddel
+operating system (ict),microsoft active directory (ad),Undirected,Farmasi og legemiddel
+operating system (ict),disaster recovery (ikt),Undirected,Farmasi og legemiddel
+operating system (ict),it infrastructure management,Undirected,Farmasi og legemiddel
+operating system (ict),active directory (it-nettverk),Undirected,Farmasi og legemiddel
+servicenow,prosjekt,Undirected,Farmasi og legemiddel
+servicenow,tidsplanlegging,Undirected,Farmasi og legemiddel
+servicenow,vmware esx,Undirected,Farmasi og legemiddel
+servicenow,microsoft active directory (ad),Undirected,Farmasi og legemiddel
+servicenow,disaster recovery (ikt),Undirected,Farmasi og legemiddel
+servicenow,it infrastructure management,Undirected,Farmasi og legemiddel
+servicenow,active directory (it-nettverk),Undirected,Farmasi og legemiddel
+prosjekt,tidsplanlegging,Undirected,Farmasi og legemiddel
+prosjekt,vmware esx,Undirected,Farmasi og legemiddel
+prosjekt,microsoft active directory (ad),Undirected,Farmasi og legemiddel
+prosjekt,disaster recovery (ikt),Undirected,Farmasi og legemiddel
+prosjekt,it infrastructure management,Undirected,Farmasi og legemiddel
+prosjekt,active directory (it-nettverk),Undirected,Farmasi og legemiddel
+tidsplanlegging,vmware esx,Undirected,Farmasi og legemiddel
+tidsplanlegging,microsoft active directory (ad),Undirected,Farmasi og legemiddel
+tidsplanlegging,disaster recovery (ikt),Undirected,Farmasi og legemiddel
+tidsplanlegging,it infrastructure management,Undirected,Farmasi og legemiddel
+tidsplanlegging,active directory (it-nettverk),Undirected,Farmasi og legemiddel
+vmware esx,microsoft active directory (ad),Undirected,Farmasi og legemiddel
+vmware esx,disaster recovery (ikt),Undirected,Farmasi og legemiddel
+vmware esx,it infrastructure management,Undirected,Farmasi og legemiddel
+vmware esx,active directory (it-nettverk),Undirected,Farmasi og legemiddel
+microsoft active directory (ad),disaster recovery (ikt),Undirected,Farmasi og legemiddel
+microsoft active directory (ad),it infrastructure management,Undirected,Farmasi og legemiddel
+microsoft active directory (ad),active directory (it-nettverk),Undirected,Farmasi og legemiddel
+disaster recovery (ikt),it infrastructure management,Undirected,Farmasi og legemiddel
+disaster recovery (ikt),active directory (it-nettverk),Undirected,Farmasi og legemiddel
+it infrastructure management,active directory (it-nettverk),Undirected,Farmasi og legemiddel
+atlassian jira,produkteier,Undirected,Bank
+atlassian jira,kunnskap om relevante lover og forskrifter,Undirected,Bank
+atlassian jira,kjennskap til skyplattformer,Undirected,Bank
+atlassian jira,produktkø (product backlog),Undirected,Bank
+atlassian jira,risikostyring,Undirected,Bank
+produkteier,kunnskap om relevante lover og forskrifter,Undirected,Bank
+produkteier,kjennskap til skyplattformer,Undirected,Bank
+produkteier,produktkø (product backlog),Undirected,Bank
+produkteier,risikostyring,Undirected,Bank
+kunnskap om relevante lover og forskrifter,risikostyring,Undirected,Bank
+kjennskap til skyplattformer,risikostyring,Undirected,Bank
+produktkø (product backlog),risikostyring,Undirected,Bank
+data modeling,software engineering,Undirected,Butikk og varehandel
+data modeling,forbedre datakvalitet,Undirected,Butikk og varehandel
+data modeling,programvareintegrasjon,Undirected,Butikk og varehandel
+data modeling,backend webutvikling,Undirected,Butikk og varehandel
+software engineering,python (dataprogrammering),Undirected,Butikk og varehandel
+software engineering,forbedre datakvalitet,Undirected,Butikk og varehandel
+software engineering,programvareintegrasjon,Undirected,Butikk og varehandel
+software engineering,backend webutvikling,Undirected,Butikk og varehandel
+python (dataprogrammering),forbedre datakvalitet,Undirected,Butikk og varehandel
+python (dataprogrammering),programvareintegrasjon,Undirected,Butikk og varehandel
+forbedre datakvalitet,programvareintegrasjon,Undirected,Butikk og varehandel
+forbedre datakvalitet,backend webutvikling,Undirected,Butikk og varehandel
+programvareintegrasjon,backend webutvikling,Undirected,Butikk og varehandel
+programmeringsspråk,behandle data,Undirected,IT
+programmeringsspråk,regresjonsanalyse,Undirected,IT
+programmeringsspråk,fullstack utvikler,Undirected,IT
+programmeringsspråk,databaseadministrasjon,Undirected,IT
+behandle data,moderne software-utvikling,Undirected,IT
+behandle data,regresjonsanalyse,Undirected,IT
+behandle data,fullstack utvikler,Undirected,IT
+behandle data,statistikk,Undirected,IT
+behandle data,databaseadministrasjon,Undirected,IT
+moderne software-utvikling,regresjonsanalyse,Undirected,IT
+moderne software-utvikling,fullstack utvikler,Undirected,IT
+moderne software-utvikling,statistikk,Undirected,IT
+moderne software-utvikling,databaseadministrasjon,Undirected,IT
+regresjonsanalyse,fullstack utvikler,Undirected,IT
+regresjonsanalyse,statistikk,Undirected,IT
+regresjonsanalyse,databaseadministrasjon,Undirected,IT
+fullstack utvikler,statistikk,Undirected,IT
+fullstack utvikler,databaseadministrasjon,Undirected,IT
+statistikk,databaseadministrasjon,Undirected,IT
+ingeniørkunst,sql,Undirected,Industri og produksjon
+ingeniørkunst,power bi,Undirected,Industri og produksjon
+power bi,ingeniørarbeid,Undirected,Industri og produksjon
+ingeniørarbeid,analysere data,Undirected,Industri og produksjon
+dataintegrasjonsprosesser,development of data pipelines,Undirected,IT
+dataintegrasjonsprosesser,go,Undirected,IT
+dataintegrasjonsprosesser,sql,Undirected,IT
+development of data pipelines,go,Undirected,IT
+react.js,devops,Undirected,Helse og omsorg
+react.js,c#.net,Undirected,Helse og omsorg
+react.js,fullstack utvikler,Undirected,Helse og omsorg
+react.js,postgresql,Undirected,Helse og omsorg
+react.js,azure ad,Undirected,Helse og omsorg
+react.js,k8s,Undirected,Helse og omsorg
+devops,c#.net,Undirected,Helse og omsorg
+devops,fullstack utvikler,Undirected,Helse og omsorg
+devops,postgresql,Undirected,Helse og omsorg
+devops,k8s,Undirected,Helse og omsorg
+c#.net,fullstack utvikler,Undirected,Helse og omsorg
+c#.net,postgresql,Undirected,Helse og omsorg
+c#.net,azure ad,Undirected,Helse og omsorg
+c#.net,k8s,Undirected,Helse og omsorg
+fullstack utvikler,postgresql,Undirected,Helse og omsorg
+fullstack utvikler,azure ad,Undirected,Helse og omsorg
+fullstack utvikler,k8s,Undirected,Helse og omsorg
+postgresql,azure ad,Undirected,Helse og omsorg
+postgresql,k8s,Undirected,Helse og omsorg
+nettverksinfrastruktur,operating system (ict),Undirected,Kraft og energi
+nettverksinfrastruktur,microsoft 365 sharepoint,Undirected,Kraft og energi
+nettverksinfrastruktur,microsoft teams,Undirected,Kraft og energi
+nettverksinfrastruktur,microsoft 365,Undirected,Kraft og energi
+nettverksinfrastruktur,microsoft windows,Undirected,Kraft og energi
+nettverksinfrastruktur,user support,Undirected,Kraft og energi
+nettverksinfrastruktur,mobile devices,Undirected,Kraft og energi
+operating system (ict),microsoft 365 sharepoint,Undirected,Kraft og energi
+operating system (ict),microsoft teams,Undirected,Kraft og energi
+operating system (ict),microsoft 365,Undirected,Kraft og energi
+operating system (ict),microsoft windows,Undirected,Kraft og energi
+operating system (ict),user support,Undirected,Kraft og energi
+operating system (ict),mobile devices,Undirected,Kraft og energi
+microsoft 365 sharepoint,microsoft teams,Undirected,Kraft og energi
+microsoft 365 sharepoint,microsoft 365,Undirected,Kraft og energi
+microsoft 365 sharepoint,microsoft windows,Undirected,Kraft og energi
+microsoft 365 sharepoint,user support,Undirected,Kraft og energi
+microsoft 365 sharepoint,mobile devices,Undirected,Kraft og energi
+microsoft teams,microsoft 365,Undirected,Kraft og energi
+microsoft teams,microsoft windows,Undirected,Kraft og energi
+microsoft teams,user support,Undirected,Kraft og energi
+microsoft teams,mobile devices,Undirected,Kraft og energi
+microsoft 365,microsoft windows,Undirected,Kraft og energi
+microsoft 365,user support,Undirected,Kraft og energi
+microsoft 365,mobile devices,Undirected,Kraft og energi
+microsoft windows,user support,Undirected,Kraft og energi
+microsoft windows,mobile devices,Undirected,Kraft og energi
+user support,mobile devices,Undirected,Kraft og energi
+vitenskapelig forskning,gmp (good manufacturing practice),Undirected,Forskning
+vitenskapelig forskning,bioingeniørfaglig kompetanse,Undirected,Forskning
+vitenskapelig forskning,cellekultivering,Undirected,Forskning
+vitenskapelig forskning,molekylærbiologi,Undirected,Forskning
+vitenskapelig forskning,genteknologi,Undirected,Forskning
+vitenskapelig forskning,flowcytometri,Undirected,Forskning
+gmp (good manufacturing practice),bioingeniørfaglig kompetanse,Undirected,Forskning
+gmp (good manufacturing practice),cellekultivering,Undirected,Forskning
+gmp (good manufacturing practice),molekylærbiologi,Undirected,Forskning
+gmp (good manufacturing practice),genteknologi,Undirected,Forskning
+gmp (good manufacturing practice),flowcytometri,Undirected,Forskning
+bioingeniørfaglig kompetanse,cellekultivering,Undirected,Forskning
+bioingeniørfaglig kompetanse,genteknologi,Undirected,Forskning
+bioingeniørfaglig kompetanse,flowcytometri,Undirected,Forskning
+cellekultivering,molekylærbiologi,Undirected,Forskning
+cellekultivering,genteknologi,Undirected,Forskning
+cellekultivering,flowcytometri,Undirected,Forskning
+molekylærbiologi,genteknologi,Undirected,Forskning
+molekylærbiologi,flowcytometri,Undirected,Forskning
+genteknologi,flowcytometri,Undirected,Forskning
+kpi-rapporter,qualtrics,Undirected,Konsulent og rådgivning
+kpi-rapporter,ledelse,Undirected,Konsulent og rådgivning
+kpi-rapporter,gjennomføre kvalitative undersøkelser,Undirected,Konsulent og rådgivning
+kpi-rapporter,automatisering,Undirected,Konsulent og rådgivning
+kpi-rapporter,rapportering,Undirected,Konsulent og rådgivning
+kpi-rapporter,general data protection regulation (gdpr),Undirected,Konsulent og rådgivning
+kpi-rapporter,tilbakemelding fra kunde,Undirected,Konsulent og rådgivning
+qualtrics,ledelse,Undirected,Konsulent og rådgivning
+qualtrics,gjennomføre kvalitative undersøkelser,Undirected,Konsulent og rådgivning
+qualtrics,automatisering,Undirected,Konsulent og rådgivning
+qualtrics,rapportering,Undirected,Konsulent og rådgivning
+qualtrics,general data protection regulation (gdpr),Undirected,Konsulent og rådgivning
+qualtrics,tilbakemelding fra kunde,Undirected,Konsulent og rådgivning
+ledelse,gjennomføre kvalitative undersøkelser,Undirected,Konsulent og rådgivning
+ledelse,automatisering,Undirected,Konsulent og rådgivning
+ledelse,rapportering,Undirected,Konsulent og rådgivning
+ledelse,general data protection regulation (gdpr),Undirected,Konsulent og rådgivning
+ledelse,tilbakemelding fra kunde,Undirected,Konsulent og rådgivning
+gjennomføre kvalitative undersøkelser,automatisering,Undirected,Konsulent og rådgivning
+gjennomføre kvalitative undersøkelser,rapportering,Undirected,Konsulent og rådgivning
+gjennomføre kvalitative undersøkelser,general data protection regulation (gdpr),Undirected,Konsulent og rådgivning
+gjennomføre kvalitative undersøkelser,tilbakemelding fra kunde,Undirected,Konsulent og rådgivning
+automatisering,general data protection regulation (gdpr),Undirected,Konsulent og rådgivning
+automatisering,tilbakemelding fra kunde,Undirected,Konsulent og rådgivning
+rapportering,general data protection regulation (gdpr),Undirected,Konsulent og rådgivning
+rapportering,tilbakemelding fra kunde,Undirected,Konsulent og rådgivning
+general data protection regulation (gdpr),tilbakemelding fra kunde,Undirected,Konsulent og rådgivning
+matlab,python (dataprogrammering),Undirected,IT
+matlab,behersker root cause analysis,Undirected,IT
+matlab,matematisk modellering,Undirected,IT
+matlab,kybernetikk,Undirected,IT
+matlab,robotikk,Undirected,IT
+python (dataprogrammering),behersker root cause analysis,Undirected,IT
+python (dataprogrammering),matematisk modellering,Undirected,IT
+python (dataprogrammering),kybernetikk,Undirected,IT
+behersker root cause analysis,matematisk modellering,Undirected,IT
+behersker root cause analysis,kybernetikk,Undirected,IT
+behersker root cause analysis,robotikk,Undirected,IT
+matematisk modellering,kybernetikk,Undirected,IT
+matematisk modellering,robotikk,Undirected,IT
+ikt-infrastruktur,cybersikkerhet,Undirected,Forsvar og militær
+ikt-infrastruktur,it-operasjoner,Undirected,Forsvar og militær
+ikt-infrastruktur,user support,Undirected,Forsvar og militær
+ikt-infrastruktur,systemadministrasjon,Undirected,Forsvar og militær
+ikt-infrastruktur,disaster recovery (ikt),Undirected,Forsvar og militær
+ikt-infrastruktur,it infrastructure management,Undirected,Forsvar og militær
+cybersikkerhet,it-operasjoner,Undirected,Forsvar og militær
+cybersikkerhet,user support,Undirected,Forsvar og militær
+cybersikkerhet,systemadministrasjon,Undirected,Forsvar og militær
+cybersikkerhet,disaster recovery (ikt),Undirected,Forsvar og militær
+cybersikkerhet,it infrastructure management,Undirected,Forsvar og militær
+it-operasjoner,user support,Undirected,Forsvar og militær
+it-operasjoner,systemadministrasjon,Undirected,Forsvar og militær
+it-operasjoner,disaster recovery (ikt),Undirected,Forsvar og militær
+it-operasjoner,it infrastructure management,Undirected,Forsvar og militær
+user support,systemadministrasjon,Undirected,Forsvar og militær
+user support,disaster recovery (ikt),Undirected,Forsvar og militær
+user support,it infrastructure management,Undirected,Forsvar og militær
+systemadministrasjon,disaster recovery (ikt),Undirected,Forsvar og militær
+systemadministrasjon,it infrastructure management,Undirected,Forsvar og militær
+hold av melkekyr,dyreproduksjonsvitenskap,Undirected,Forskning
+hold av melkekyr,modellering og simulering,Undirected,Forskning
+hold av melkekyr,statistiske- og dataanalysemetoder,Undirected,Forskning
+dyreproduksjonsvitenskap,modellering og simulering,Undirected,Forskning
+dyreproduksjonsvitenskap,statistiske- og dataanalysemetoder,Undirected,Forskning
+modellering og simulering,statistiske- og dataanalysemetoder,Undirected,Forskning
+microservices,postgresql,Undirected,Fiskeri og oppdrett
+microservices,azure ad,Undirected,Fiskeri og oppdrett
+microservices,database,Undirected,Fiskeri og oppdrett
+microservices,rust (programming language),Undirected,Fiskeri og oppdrett
+postgresql,database,Undirected,Fiskeri og oppdrett
+postgresql,rust (programming language),Undirected,Fiskeri og oppdrett
+azure ad,database,Undirected,Fiskeri og oppdrett
+azure ad,rust (programming language),Undirected,Fiskeri og oppdrett
+database,rust (programming language),Undirected,Fiskeri og oppdrett
+automatisering,ingeniørarbeid,Undirected,Kraft og energi
+automatisering,materialteknologi,Undirected,Kraft og energi
+automatisering,detalj prosjektering/ engineering elektro,Undirected,Kraft og energi
+automatisering,tekniske egenskaper,Undirected,Kraft og energi
+ingeniørarbeid,materialteknologi,Undirected,Kraft og energi
+ingeniørarbeid,tekniske egenskaper,Undirected,Kraft og energi
+materialteknologi,detalj prosjektering/ engineering elektro,Undirected,Kraft og energi
+materialteknologi,tekniske egenskaper,Undirected,Kraft og energi
+detalj prosjektering/ engineering elektro,tekniske egenskaper,Undirected,Kraft og energi
+datainnsamling og analyse,behandle data,Undirected,Forskning
+datainnsamling og analyse,publisere akademisk forskning,Undirected,Forskning
+datainnsamling og analyse,røkting,Undirected,Forskning
+datainnsamling og analyse,dyreforsøk,Undirected,Forskning
+behandle data,publisere akademisk forskning,Undirected,Forskning
+behandle data,røkting,Undirected,Forskning
+behandle data,dyreforsøk,Undirected,Forskning
+publisere akademisk forskning,røkting,Undirected,Forskning
+publisere akademisk forskning,dyreforsøk,Undirected,Forskning
+røkting,dyreforsøk,Undirected,Forskning
+økologi,statistikk,Undirected,Forskning
+økologi,oseanografi,Undirected,Forskning
+økologi,r,Undirected,Forskning
+statistikk,oseanografi,Undirected,Forskning
+statistikk,r,Undirected,Forskning
+oseanografi,r,Undirected,Forskning
+utvikling av digitale verktøy,datainnsamling og analyse,Undirected,Industri og produksjon
+utvikling av digitale verktøy,simulering,Undirected,Industri og produksjon
+utvikling av digitale verktøy,kvalitetssikring,Undirected,Industri og produksjon
+utvikling av digitale verktøy,ingeniørarbeid,Undirected,Industri og produksjon
+utvikling av digitale verktøy,rør- og instrumenteringsdiagrammer,Undirected,Industri og produksjon
+utvikling av digitale verktøy,formell og systematisk dokumentasjon,Undirected,Industri og produksjon
+utvikling av digitale verktøy,utvikle brukergrensesnitt,Undirected,Industri og produksjon
+datainnsamling og analyse,simulering,Undirected,Industri og produksjon
+datainnsamling og analyse,kvalitetssikring,Undirected,Industri og produksjon
+datainnsamling og analyse,ingeniørarbeid,Undirected,Industri og produksjon
+datainnsamling og analyse,rør- og instrumenteringsdiagrammer,Undirected,Industri og produksjon
+datainnsamling og analyse,formell og systematisk dokumentasjon,Undirected,Industri og produksjon
+datainnsamling og analyse,utvikle brukergrensesnitt,Undirected,Industri og produksjon
+simulering,kvalitetssikring,Undirected,Industri og produksjon
+simulering,ingeniørarbeid,Undirected,Industri og produksjon
+simulering,rør- og instrumenteringsdiagrammer,Undirected,Industri og produksjon
+simulering,formell og systematisk dokumentasjon,Undirected,Industri og produksjon
+simulering,utvikle brukergrensesnitt,Undirected,Industri og produksjon
+kvalitetssikring,ingeniørarbeid,Undirected,Industri og produksjon
+kvalitetssikring,rør- og instrumenteringsdiagrammer,Undirected,Industri og produksjon
+kvalitetssikring,formell og systematisk dokumentasjon,Undirected,Industri og produksjon
+kvalitetssikring,utvikle brukergrensesnitt,Undirected,Industri og produksjon
+ingeniørarbeid,rør- og instrumenteringsdiagrammer,Undirected,Industri og produksjon
+ingeniørarbeid,formell og systematisk dokumentasjon,Undirected,Industri og produksjon
+ingeniørarbeid,utvikle brukergrensesnitt,Undirected,Industri og produksjon
+rør- og instrumenteringsdiagrammer,formell og systematisk dokumentasjon,Undirected,Industri og produksjon
+rør- og instrumenteringsdiagrammer,utvikle brukergrensesnitt,Undirected,Industri og produksjon
+formell og systematisk dokumentasjon,utvikle brukergrensesnitt,Undirected,Industri og produksjon
+nordisk spåk,gjennomføre kvalitative undersøkelser,Undirected,Forskning
+nordisk spåk,litteratursøk,Undirected,Forskning
+nordisk spåk,gjennomføring av studier,Undirected,Forskning
+nordisk spåk,undersøkelser og eksamener,Undirected,Forskning
+nordisk spåk,politikkstudier,Undirected,Forskning
+gjennomføre kvalitative undersøkelser,litteratursøk,Undirected,Forskning
+gjennomføre kvalitative undersøkelser,gjennomføring av studier,Undirected,Forskning
+gjennomføre kvalitative undersøkelser,undersøkelser og eksamener,Undirected,Forskning
+gjennomføre kvalitative undersøkelser,politikkstudier,Undirected,Forskning
+litteratursøk,gjennomføring av studier,Undirected,Forskning
+litteratursøk,undersøkelser og eksamener,Undirected,Forskning
+litteratursøk,politikkstudier,Undirected,Forskning
+gjennomføring av studier,undersøkelser og eksamener,Undirected,Forskning
+gjennomføring av studier,politikkstudier,Undirected,Forskning
+undersøkelser og eksamener,politikkstudier,Undirected,Forskning
+epidemiologi,gårdsarbeid,Undirected,Dyr og dyrehelse
+epidemiologi,biologi,Undirected,Dyr og dyrehelse
+epidemiologi,økologi,Undirected,Dyr og dyrehelse
+epidemiologi,utforme spørreskjemaer,Undirected,Dyr og dyrehelse
+gårdsarbeid,biologi,Undirected,Dyr og dyrehelse
+gårdsarbeid,økologi,Undirected,Dyr og dyrehelse
+gårdsarbeid,utforme spørreskjemaer,Undirected,Dyr og dyrehelse
+biologi,økologi,Undirected,Dyr og dyrehelse
+biologi,utforme spørreskjemaer,Undirected,Dyr og dyrehelse
+økologi,utforme spørreskjemaer,Undirected,Dyr og dyrehelse
+digital signalbehandling,c++ (programming language),Undirected,Elektronikk
+digital signalbehandling,embedded linux,Undirected,Elektronikk
+digital signalbehandling,nettverkskonsepter,Undirected,Elektronikk
+c++ (programming language),embedded linux,Undirected,Elektronikk
+c++ (programming language),nettverkskonsepter,Undirected,Elektronikk
+embedded linux,nettverkskonsepter,Undirected,Elektronikk
+algoritmer,programvaredesign,Undirected,Bank
+algoritmer,ci/cd (continuous integration and continuous delivery),Undirected,Bank
+algoritmer,data struktur,Undirected,Bank
+algoritmer,behandling av ikt-feil,Undirected,Bank
+algoritmer,it infrastructure library (itil),Undirected,Bank
+algoritmer,jenkins (software),Undirected,Bank
+algoritmer,nettverkskonsepter,Undirected,Bank
+programvaredesign,ci/cd (continuous integration and continuous delivery),Undirected,Bank
+programvaredesign,data struktur,Undirected,Bank
+programvaredesign,behandling av ikt-feil,Undirected,Bank
+programvaredesign,it infrastructure library (itil),Undirected,Bank
+programvaredesign,jenkins (software),Undirected,Bank
+programvaredesign,nettverkskonsepter,Undirected,Bank
+ci/cd (continuous integration and continuous delivery),data struktur,Undirected,Bank
+ci/cd (continuous integration and continuous delivery),behandling av ikt-feil,Undirected,Bank
+ci/cd (continuous integration and continuous delivery),it infrastructure library (itil),Undirected,Bank
+ci/cd (continuous integration and continuous delivery),jenkins (software),Undirected,Bank
+ci/cd (continuous integration and continuous delivery),nettverkskonsepter,Undirected,Bank
+data struktur,behandling av ikt-feil,Undirected,Bank
+data struktur,it infrastructure library (itil),Undirected,Bank
+data struktur,jenkins (software),Undirected,Bank
+data struktur,nettverkskonsepter,Undirected,Bank
+behandling av ikt-feil,it infrastructure library (itil),Undirected,Bank
+behandling av ikt-feil,jenkins (software),Undirected,Bank
+behandling av ikt-feil,nettverkskonsepter,Undirected,Bank
+it infrastructure library (itil),jenkins (software),Undirected,Bank
+it infrastructure library (itil),nettverkskonsepter,Undirected,Bank
+jenkins (software),nettverkskonsepter,Undirected,Bank
+ci/cd (continuous integration and continuous delivery),sqlite,Undirected,IT
+ci/cd (continuous integration and continuous delivery),deep learning,Undirected,IT
+ci/cd (continuous integration and continuous delivery),computer vision,Undirected,IT
+ci/cd (continuous integration and continuous delivery),multi threaded programming,Undirected,IT
+ci/cd (continuous integration and continuous delivery),database,Undirected,IT
+ci/cd (continuous integration and continuous delivery),c++ (programming language),Undirected,IT
+sqlite,cuda (compute unified device architecture),Undirected,IT
+sqlite,deep learning,Undirected,IT
+sqlite,computer vision,Undirected,IT
+sqlite,multi threaded programming,Undirected,IT
+sqlite,database,Undirected,IT
+sqlite,c++ (programming language),Undirected,IT
+cuda (compute unified device architecture),multi threaded programming,Undirected,IT
+cuda (compute unified device architecture),database,Undirected,IT
+cuda (compute unified device architecture),c++ (programming language),Undirected,IT
+deep learning,multi threaded programming,Undirected,IT
+deep learning,database,Undirected,IT
+deep learning,c++ (programming language),Undirected,IT
+computer vision,multi threaded programming,Undirected,IT
+computer vision,database,Undirected,IT
+computer vision,c++ (programming language),Undirected,IT
+multi threaded programming,database,Undirected,IT
+multi threaded programming,c++ (programming language),Undirected,IT
+database,c++ (programming language),Undirected,IT
+virologi,økologi,Undirected,Forskning
+virologi,veterinærmedisin,Undirected,Forskning
+virologi,r,Undirected,Forskning
+virologi,polymerasekjedereaksjon (pkr),Undirected,Forskning
+virologi,epidemiologi,Undirected,Forskning
+økologi,veterinærmedisin,Undirected,Forskning
+økologi,polymerasekjedereaksjon (pkr),Undirected,Forskning
+veterinærmedisin,r,Undirected,Forskning
+veterinærmedisin,polymerasekjedereaksjon (pkr),Undirected,Forskning
+veterinærmedisin,epidemiologi,Undirected,Forskning
+r,polymerasekjedereaksjon (pkr),Undirected,Forskning
+r,epidemiologi,Undirected,Forskning
+polymerasekjedereaksjon (pkr),epidemiologi,Undirected,Forskning
+kvalitetsprosess,ingeniørarbeid,Undirected,Matvareproduksjon og -industri
+kvalitetsprosess,dansk,Undirected,Matvareproduksjon og -industri
+ingeniørarbeid,dansk,Undirected,Matvareproduksjon og -industri
+sql,erp-systemer,Undirected,Fiskeri og oppdrett
+sql,rapporteringsverktøy,Undirected,Fiskeri og oppdrett
+sql,rapportering,Undirected,Fiskeri og oppdrett
+sql,budsjettarbeid,Undirected,Fiskeri og oppdrett
+sql,visma business,Undirected,Fiskeri og oppdrett
+sql,produktanalyse,Undirected,Fiskeri og oppdrett
+erp-systemer,rapporteringsverktøy,Undirected,Fiskeri og oppdrett
+erp-systemer,budsjettarbeid,Undirected,Fiskeri og oppdrett
+erp-systemer,visma business,Undirected,Fiskeri og oppdrett
+erp-systemer,produktanalyse,Undirected,Fiskeri og oppdrett
+rapporteringsverktøy,rapportering,Undirected,Fiskeri og oppdrett
+rapporteringsverktøy,budsjettarbeid,Undirected,Fiskeri og oppdrett
+rapporteringsverktøy,visma business,Undirected,Fiskeri og oppdrett
+rapporteringsverktøy,produktanalyse,Undirected,Fiskeri og oppdrett
+analysere data,budsjettarbeid,Undirected,Fiskeri og oppdrett
+analysere data,visma business,Undirected,Fiskeri og oppdrett
+analysere data,produktanalyse,Undirected,Fiskeri og oppdrett
+rapportering,visma business,Undirected,Fiskeri og oppdrett
+rapportering,produktanalyse,Undirected,Fiskeri og oppdrett
+budsjettarbeid,visma business,Undirected,Fiskeri og oppdrett
+budsjettarbeid,produktanalyse,Undirected,Fiskeri og oppdrett
+visma business,produktanalyse,Undirected,Fiskeri og oppdrett
+forretningsutvikling,fundraising,Undirected,Ideelle organisasjoner
+forretningsutvikling,administrative ferdigheter,Undirected,Ideelle organisasjoner
+forretningsutvikling,power bi,Undirected,Ideelle organisasjoner
+forretningsutvikling,prosjektøkonomi,Undirected,Ideelle organisasjoner
+forretningsutvikling,rapportering,Undirected,Ideelle organisasjoner
+forretningsutvikling,budsjettarbeid,Undirected,Ideelle organisasjoner
+fundraising,administrative ferdigheter,Undirected,Ideelle organisasjoner
+fundraising,power bi,Undirected,Ideelle organisasjoner
+fundraising,analysere data,Undirected,Ideelle organisasjoner
+fundraising,prosjektøkonomi,Undirected,Ideelle organisasjoner
+fundraising,rapportering,Undirected,Ideelle organisasjoner
+fundraising,budsjettarbeid,Undirected,Ideelle organisasjoner
+administrative ferdigheter,power bi,Undirected,Ideelle organisasjoner
+administrative ferdigheter,analysere data,Undirected,Ideelle organisasjoner
+administrative ferdigheter,prosjektøkonomi,Undirected,Ideelle organisasjoner
+administrative ferdigheter,rapportering,Undirected,Ideelle organisasjoner
+administrative ferdigheter,budsjettarbeid,Undirected,Ideelle organisasjoner
+power bi,prosjektøkonomi,Undirected,Ideelle organisasjoner
+analysere data,prosjektøkonomi,Undirected,Ideelle organisasjoner
+prosjektøkonomi,rapportering,Undirected,Ideelle organisasjoner
+prosjektøkonomi,budsjettarbeid,Undirected,Ideelle organisasjoner
+kvalitetssikring av data,utføre lønnsomhetsanalyse,Undirected,Konsulent og rådgivning
+kvalitetssikring av data,logistikk,Undirected,Konsulent og rådgivning
+kvalitetssikring av data,bygge datadashboard,Undirected,Konsulent og rådgivning
+kvalitetssikring av data,qlikview,Undirected,Konsulent og rådgivning
+utføre lønnsomhetsanalyse,logistikk,Undirected,Konsulent og rådgivning
+utføre lønnsomhetsanalyse,power bi,Undirected,Konsulent og rådgivning
+utføre lønnsomhetsanalyse,bygge datadashboard,Undirected,Konsulent og rådgivning
+utføre lønnsomhetsanalyse,analysere data,Undirected,Konsulent og rådgivning
+utføre lønnsomhetsanalyse,microsoft excel,Undirected,Konsulent og rådgivning
+utføre lønnsomhetsanalyse,qlikview,Undirected,Konsulent og rådgivning
+logistikk,power bi,Undirected,Konsulent og rådgivning
+logistikk,bygge datadashboard,Undirected,Konsulent og rådgivning
+logistikk,analysere data,Undirected,Konsulent og rådgivning
+logistikk,microsoft excel,Undirected,Konsulent og rådgivning
+logistikk,qlikview,Undirected,Konsulent og rådgivning
+power bi,bygge datadashboard,Undirected,Konsulent og rådgivning
+power bi,qlikview,Undirected,Konsulent og rådgivning
+bygge datadashboard,qlikview,Undirected,Konsulent og rådgivning
+analysere data,qlikview,Undirected,Konsulent og rådgivning
+microsoft excel,qlikview,Undirected,Konsulent og rådgivning
+maskinlæring,principal component analysis (pca),Undirected,Forskning
+maskinlæring,gjennomføre helserelatert forskning,Undirected,Forskning
+maskinlæring,forskningsmetoder,Undirected,Forskning
+maskinlæring,clustering algorithms,Undirected,Forskning
+maskinlæring,dataanalyseverktøy,Undirected,Forskning
+principal component analysis (pca),gjennomføre helserelatert forskning,Undirected,Forskning
+principal component analysis (pca),forskningsmetoder,Undirected,Forskning
+principal component analysis (pca),clustering algorithms,Undirected,Forskning
+principal component analysis (pca),analysere data,Undirected,Forskning
+principal component analysis (pca),dataanalyseverktøy,Undirected,Forskning
+principal component analysis (pca),statistikk,Undirected,Forskning
+gjennomføre helserelatert forskning,forskningsmetoder,Undirected,Forskning
+gjennomføre helserelatert forskning,clustering algorithms,Undirected,Forskning
+gjennomføre helserelatert forskning,analysere data,Undirected,Forskning
+gjennomføre helserelatert forskning,dataanalyseverktøy,Undirected,Forskning
+gjennomføre helserelatert forskning,statistikk,Undirected,Forskning
+forskningsmetoder,clustering algorithms,Undirected,Forskning
+forskningsmetoder,analysere data,Undirected,Forskning
+forskningsmetoder,dataanalyseverktøy,Undirected,Forskning
+forskningsmetoder,statistikk,Undirected,Forskning
+clustering algorithms,analysere data,Undirected,Forskning
+clustering algorithms,dataanalyseverktøy,Undirected,Forskning
+clustering algorithms,statistikk,Undirected,Forskning
+dataanalyseverktøy,statistikk,Undirected,Forskning
+vitenskapelig forskning,maskinlæring,Undirected,Forskning
+vitenskapelig forskning,gjennomføre kvalitative undersøkelser,Undirected,Forskning
+vitenskapelig forskning,bred klinisk erfaring,Undirected,Forskning
+vitenskapelig forskning,analysere data,Undirected,Forskning
+maskinlæring,gjennomføre kvalitative undersøkelser,Undirected,Forskning
+maskinlæring,bred klinisk erfaring,Undirected,Forskning
+gjennomføre kvalitative undersøkelser,bred klinisk erfaring,Undirected,Forskning
+gjennomføre kvalitative undersøkelser,analysere data,Undirected,Forskning
+bred klinisk erfaring,analysere data,Undirected,Forskning
