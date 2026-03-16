@@ -32,6 +32,46 @@ def read_file(file: str, df: pd.DataFrame):
     return df
 
 
+def replace_words(row):
+    skill_set = {
+        "python scripting": "python (dataprogrammering)",
+        "postgresql": "sql",
+        "sql script": "sql",
+        "sqlite": "sql",
+        "maskinlæringsmetoder": "maskinlæring",
+        "benytte maskinlæring": "maskinlæring",
+        "mlops": "maskinlæring",
+        "application programming interfaces (apis)": "api",
+        "rest (api)": "api",
+        "utvikle apis": "api",
+        "api - integrasjoner": "api",
+    }
+    if row["Source"] in skill_set:
+        row["Source"] = skill_set[row["Source"]]
+    if row["Target"] in skill_set:
+        row["Target"] = skill_set[row["Target"]]
+    return row
+
+
+def replace_words_id(row):
+    skill_set = {
+        "python scripting": "python (dataprogrammering)",
+        "postgresql": "sql",
+        "sql script": "sql",
+        "sqlite": "sql",
+        "maskinlæringsmetoder": "maskinlæring",
+        "benytte maskinlæring": "maskinlæring",
+        "mlops": "maskinlæring",
+        "application programming interfaces (apis)": "api",
+        "rest (api)": "api",
+        "utvikle apis": "api",
+        "api - integrasjoner": "api",
+    }
+    if row["Id"] in skill_set:
+        row["Id"] = skill_set[row["Id"]]
+    return row
+
+
 def normalize_skill(skill: str) -> str:
     return " ".join(skill.replace("\xa0", " ").strip().lower().split())
 
@@ -148,6 +188,8 @@ skill_list = pd.DataFrame(
     columns=["Id", "Label", "Node_Type", "Search_Word", "Skill_Weight"]
 )
 skill_list["Id"] = skill_node["Skill"].apply(normalize_skill)
+for index, row in skill_list.iterrows():
+    replace_words_id(row)
 skill_list["Label"] = skill_node["Skill"]
 skill_list["Node_Type"] = skill_type
 skill_list["Search_Word"] = ""
@@ -216,7 +258,12 @@ def sort(row):
 
 
 skill_bridging = pd.DataFrame(rows)
-skill_bridging["Key"] = skill_bridging["Source"] + skill_bridging["Target"]
+for index, row in skill_bridging.iterrows():
+    replace_words(row)
+
+skill_bridging["Key"] = (
+    skill_bridging["Source"] + skill_bridging["Target"] + skill_bridging["Industry"]
+)
 skill_bridging["Key"] = skill_bridging["Key"].apply(sort)
 
 skill_bridging.head()
