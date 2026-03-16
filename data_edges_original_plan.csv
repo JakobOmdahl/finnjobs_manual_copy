@@ -1,19 +1,19 @@
 ﻿Source,Target,Type,Industry
-455183416,automatisering,Undirected,Olje og gass
-455183416,budsjettarbeid,Undirected,Olje og gass
-455183416,controlling,Undirected,Olje og gass
-455183416,prognoser,Undirected,Olje og gass
-455183416,rapportering,Undirected,Olje og gass
+455183416,automatisering,Undirected,Kraft og energi
+455183416,budsjettarbeid,Undirected,Kraft og energi
+455183416,controlling,Undirected,Kraft og energi
+455183416,prognoser,Undirected,Kraft og energi
+455183416,rapportering,Undirected,Kraft og energi
 455105673,bygge datadashboard,Undirected,Bank
 455105673,dataanalyseverktøy,Undirected,Bank
 455105673,microsoft excel,Undirected,Bank
 455105673,prosessanalyse,Undirected,Bank
-454757099,budsjettarbeid,Undirected,Olje og gass
-454757099,finansanalyse,Undirected,Olje og gass
-454757099,microsoft office,Undirected,Olje og gass
-454757099,power bi,Undirected,Olje og gass
-454757099,prognoser,Undirected,Olje og gass
-454757099,rapportering,Undirected,Olje og gass
+454757099,budsjettarbeid,Undirected,Kraft og energi
+454757099,finansanalyse,Undirected,Kraft og energi
+454757099,microsoft office,Undirected,Kraft og energi
+454757099,power bi,Undirected,Kraft og energi
+454757099,prognoser,Undirected,Kraft og energi
+454757099,rapportering,Undirected,Kraft og energi
 453920727,it infrastructure library (itil),Undirected,IT
 453920727,python (dataprogrammering),Undirected,IT
 453920727,sql,Undirected,IT
@@ -107,13 +107,13 @@
 454733741,python (dataprogrammering),Undirected,IT
 454733741,sql,Undirected,IT
 454733741,statistikk,Undirected,IT
-454561504,ci/cd (continuous integration and continuous delivery),Undirected,Internettbaserte tjenester
-454561504,datavitenskap,Undirected,Internettbaserte tjenester
-454561504,development of data pipelines,Undirected,Internettbaserte tjenester
-454561504,maskinlæring,Undirected,Internettbaserte tjenester
-454561504,mlops,Undirected,Internettbaserte tjenester
-454096496,erp-systemer,Undirected,Olje og gass
-454096496,logistikk,Undirected,Olje og gass
+454561504,ci/cd (continuous integration and continuous delivery),Undirected,IT
+454561504,datavitenskap,Undirected,IT
+454561504,development of data pipelines,Undirected,IT
+454561504,maskinlæring,Undirected,IT
+454561504,mlops,Undirected,IT
+454096496,erp-systemer,Undirected,Kraft og energi
+454096496,logistikk,Undirected,Kraft og energi
 454095429,behersker root cause analysis,Undirected,Bil
 454095429,kontinuerlig forbedringsarbeid,Undirected,Bil
 454095429,kvalitetssikring,Undirected,Bil
@@ -150,12 +150,12 @@
 453765668,kvalitetssikring av data,Undirected,Offentlig administrasjon
 453765668,programmeringsspråk,Undirected,Offentlig administrasjon
 453765668,statistikk,Undirected,Offentlig administrasjon
-453752913,a/b-testing (konverteringsoptimalisering),Undirected,IT - programvare
-453752913,analysere data,Undirected,IT - programvare
-453752913,apache spark,Undirected,IT - programvare
-453752913,lage prediktive modeller,Undirected,IT - programvare
-453752913,python (dataprogrammering),Undirected,IT - programvare
-453752913,sql,Undirected,IT - programvare
+453752913,a/b-testing (konverteringsoptimalisering),Undirected,IT
+453752913,analysere data,Undirected,IT
+453752913,apache spark,Undirected,IT
+453752913,lage prediktive modeller,Undirected,IT
+453752913,python (dataprogrammering),Undirected,IT
+453752913,sql,Undirected,IT
 453755192,azure ad,Undirected,Medisinsk utstyr og rekvisita
 453755192,datavitenskap,Undirected,Medisinsk utstyr og rekvisita
 453755192,informatikk,Undirected,Medisinsk utstyr og rekvisita
@@ -188,9 +188,9 @@
 453440546,python (dataprogrammering),Undirected,Bank
 453434829,java (programmeringsspråk),Undirected,IT
 453434829,moderne software-utvikling,Undirected,IT
-453427835,analysere data,Undirected,Olje og gass
-453427835,support / brukerstøtte,Undirected,Olje og gass
-453427835,tolke data,Undirected,Olje og gass
+453427835,analysere data,Undirected,Kraft og energi
+453427835,support / brukerstøtte,Undirected,Kraft og energi
+453427835,tolke data,Undirected,Kraft og energi
 453421623,apache spark,Undirected,IT
 453421623,mlops,Undirected,IT
 453421623,power bi,Undirected,IT
@@ -226,11 +226,11 @@
 452813728,pytorch,Undirected,Forsvar og militær
 452813728,scikit-learn,Undirected,Forsvar og militær
 452813728,tensorflow,Undirected,Forsvar og militær
-452809786,analysere data,Undirected,n vi opererer i endres raskere enn noen gang
-452809786,automatisering,Undirected,n vi opererer i endres raskere enn noen gang
-452809786,informatikk,Undirected,n vi opererer i endres raskere enn noen gang
-452809786,kunstig intelligens,Undirected,n vi opererer i endres raskere enn noen gang
-452809786,moderne software-utvikling,Undirected,n vi opererer i endres raskere enn noen gang
+452809786,analysere data,Undirected,Annet
+452809786,automatisering,Undirected,Annet
+452809786,informatikk,Undirected,Annet
+452809786,kunstig intelligens,Undirected,Annet
+452809786,moderne software-utvikling,Undirected,Annet
 452796363,digitalisering,Undirected,Forsvar og militær
 452796363,kunnskap om teknologi,Undirected,Forsvar og militær
 452796363,sikkerhetsklarering,Undirected,Forsvar og militær
@@ -253,10 +253,10 @@
 452636354,matematikk,Undirected,Bank
 452636354,python (dataprogrammering),Undirected,Bank
 452636354,statistikk,Undirected,Bank
-452598170,datavitenskap,Undirected,Olje og gass
-452598170,detalj prosjektering/ engineering elektro,Undirected,Olje og gass
-452598170,ingeniørarbeid,Undirected,Olje og gass
-452598170,ingeniørkunst,Undirected,Olje og gass
+452598170,datavitenskap,Undirected,Kraft og energi
+452598170,detalj prosjektering/ engineering elektro,Undirected,Kraft og energi
+452598170,ingeniørarbeid,Undirected,Kraft og energi
+452598170,ingeniørkunst,Undirected,Kraft og energi
 452530753,amazon web services (aws),Undirected,Bank
 452530753,generative artificial intelligence,Undirected,Bank
 452530753,javascript,Undirected,Bank
@@ -294,9 +294,9 @@
 451602665,prosjekteringsledelse,Undirected,Annet
 451602665,support / brukerstøtte,Undirected,Annet
 451620651,prosessanalyse,Undirected,Helse og omsorg
-451611537,dataprogrammering,Undirected,IT - maskinvare
-451611537,ingeniørarbeid,Undirected,IT - maskinvare
-451611537,kunnskap om teknologi,Undirected,IT - maskinvare
+451611537,dataprogrammering,Undirected,IT
+451611537,ingeniørarbeid,Undirected,IT
+451611537,kunnskap om teknologi,Undirected,IT
 450430257,datadrevet markedsføring,Undirected,Annet
 450430257,general data protection regulation (gdpr),Undirected,Annet
 450430257,segmentere,Undirected,Annet
@@ -337,20 +337,20 @@
 454941356,regulatory compliance,Undirected,Industri og produksjon
 454936072,behersker it-/datasystemer,Undirected,Industri og produksjon
 454936072,ingeniørarbeid,Undirected,Industri og produksjon
-454925447,erp-systemer,Undirected,Internettbaserte tjenester
-454925447,finansiell planlegging og analyse,Undirected,Internettbaserte tjenester
-454925447,finansiell rapportering,Undirected,Internettbaserte tjenester
-454925447,internkontroll,Undirected,Internettbaserte tjenester
-454925447,prognoser,Undirected,Internettbaserte tjenester
-454925447,programvare som tjeneste,Undirected,Internettbaserte tjenester
+454925447,erp-systemer,Undirected,IT
+454925447,finansiell planlegging og analyse,Undirected,IT
+454925447,finansiell rapportering,Undirected,IT
+454925447,internkontroll,Undirected,IT
+454925447,prognoser,Undirected,IT
+454925447,programvare som tjeneste,Undirected,IT
 454582307,account management,Undirected,Farmasi og legemiddel
 454582307,norsk,Undirected,Farmasi og legemiddel
-454086939,css (cascading style sheets),Undirected,IT - programvare
-454086939,typescript,Undirected,IT - programvare
-454072503,c# (programmeringsspråk),Undirected,IT - programvare
-454072503,go,Undirected,IT - programvare
-454072503,rest (api),Undirected,IT - programvare
-454072503,sql,Undirected,IT - programvare
+454086939,css (cascading style sheets),Undirected,IT
+454086939,typescript,Undirected,IT
+454072503,c# (programmeringsspråk),Undirected,IT
+454072503,go,Undirected,IT
+454072503,rest (api),Undirected,IT
+454072503,sql,Undirected,IT
 453408385,bokføring,Undirected,Kraft og energi
 453408385,finansiell revisjon,Undirected,Kraft og energi
 453408385,internkontroll,Undirected,Kraft og energi
@@ -369,11 +369,11 @@
 451807679,opprettholde dataintegritet,Undirected,Transport og logistikk
 450455377,informatikk,Undirected,IT
 450455377,konsekvensanalyse,Undirected,IT
-450432230,go,Undirected,Internettbaserte tjenester
-450432230,kjennskap til skyplattformer,Undirected,Internettbaserte tjenester
-450432230,linux,Undirected,Internettbaserte tjenester
-450432230,python (dataprogrammering),Undirected,Internettbaserte tjenester
-450432230,terraform,Undirected,Internettbaserte tjenester
+450432230,go,Undirected,IT
+450432230,kjennskap til skyplattformer,Undirected,IT
+450432230,linux,Undirected,IT
+450432230,python (dataprogrammering),Undirected,IT
+450432230,terraform,Undirected,IT
 455216208,analysere data,Undirected,Bygg og anlegg
 455216208,application programming interfaces (apis),Undirected,Bygg og anlegg
 455216208,automatisering,Undirected,Bygg og anlegg
@@ -393,13 +393,13 @@
 454939246,kunstig intelligens,Undirected,IT
 454939246,kvalitetssikring,Undirected,IT
 454939246,servicenow,Undirected,IT
-454882043,kjennskap til skyplattformer,Undirected,IT - programvare
-454882043,kunstig intelligens,Undirected,IT - programvare
-454882043,moderne software-utvikling,Undirected,IT - programvare
-454793708,analysere data,Undirected,Internettbaserte tjenester
-454793708,dataanalyseverktøy,Undirected,Internettbaserte tjenester
-454793708,markedsanalyse,Undirected,Internettbaserte tjenester
-454793708,modellering (økonomi),Undirected,Internettbaserte tjenester
+454882043,kjennskap til skyplattformer,Undirected,IT
+454882043,kunstig intelligens,Undirected,IT
+454882043,moderne software-utvikling,Undirected,IT
+454793708,analysere data,Undirected,IT
+454793708,dataanalyseverktøy,Undirected,IT
+454793708,markedsanalyse,Undirected,IT
+454793708,modellering (økonomi),Undirected,IT
 454777694,analyser av nøkkeltall,Undirected,Butikk og varehandel
 454777694,analysere data,Undirected,Butikk og varehandel
 454777694,automatisering,Undirected,Butikk og varehandel
@@ -419,12 +419,12 @@
 454731329,kunnskap om produktledelse,Undirected,IT
 454731329,kunnskap om relevante lover og forskrifter,Undirected,IT
 454731329,produktkø (product backlog),Undirected,IT
-454628298,automatisering,Undirected,Medie- og innholdsproduksjon
-454628298,ci/cd (continuous integration and continuous delivery),Undirected,Medie- og innholdsproduksjon
-454628298,data modeling,Undirected,Medie- og innholdsproduksjon
-454628298,dataarkitektur,Undirected,Medie- og innholdsproduksjon
-454628298,kjennskap til skyplattformer,Undirected,Medie- og innholdsproduksjon
-454628298,kunstig intelligens,Undirected,Medie- og innholdsproduksjon
+454628298,automatisering,Undirected,Markedsføring og annonsering
+454628298,ci/cd (continuous integration and continuous delivery),Undirected,Markedsføring og annonsering
+454628298,data modeling,Undirected,Markedsføring og annonsering
+454628298,dataarkitektur,Undirected,Markedsføring og annonsering
+454628298,kjennskap til skyplattformer,Undirected,Markedsføring og annonsering
+454628298,kunstig intelligens,Undirected,Markedsføring og annonsering
 454598857,automatisering,Undirected,Juridiske tjenester
 454598857,digitale ferdigheter,Undirected,Juridiske tjenester
 454570064,datadrevet markedsføring,Undirected,Markedsføring og annonsering
@@ -442,16 +442,16 @@
 454074364,kontinuerlig forbedringsarbeid,Undirected,Butikk og varehandel
 454074364,prognoser,Undirected,Butikk og varehandel
 454074364,standardisere prosesser,Undirected,Butikk og varehandel
-454070518,kunstig intelligens,Undirected,Internettbaserte tjenester
-454070518,optimalisering av konvertering,Undirected,Internettbaserte tjenester
-454070518,produsere innhold,Undirected,Internettbaserte tjenester
-454070518,social media,Undirected,Internettbaserte tjenester
+454070518,kunstig intelligens,Undirected,IT
+454070518,optimalisering av konvertering,Undirected,IT
+454070518,produsere innhold,Undirected,IT
+454070518,social media,Undirected,IT
 454041636,figma,Undirected,Konsulent og rådgivning
 454041636,kvalitetssikring,Undirected,Konsulent og rådgivning
 454041636,produsere innhold,Undirected,Konsulent og rådgivning
-454032597,analysere data,Undirected,Internettbaserte tjenester
-454032597,due diligence analyse,Undirected,Internettbaserte tjenester
-454032597,kunstig intelligens,Undirected,Internettbaserte tjenester
+454032597,analysere data,Undirected,IT
+454032597,due diligence analyse,Undirected,IT
+454032597,kunstig intelligens,Undirected,IT
 454031044,utvikle apis,Undirected,Industri og produksjon
 454027822,c# (programmeringsspråk),Undirected,IT
 454027822,java (programmeringsspråk),Undirected,IT
@@ -466,12 +466,12 @@
 453623638,behersker it-/datasystemer,Undirected,IT
 453623638,cybersikkerhet,Undirected,IT
 453623638,ikt-støtte,Undirected,IT
-433518045,c# (programmeringsspråk),Undirected,Internettbaserte tjenester
-433518045,ci/cd (continuous integration and continuous delivery),Undirected,Internettbaserte tjenester
-433518045,fullstack utvikler,Undirected,Internettbaserte tjenester
-433518045,ingeniørarbeid,Undirected,Internettbaserte tjenester
-433518045,sql,Undirected,Internettbaserte tjenester
-433518045,typescript,Undirected,Internettbaserte tjenester
+433518045,c# (programmeringsspråk),Undirected,IT
+433518045,ci/cd (continuous integration and continuous delivery),Undirected,IT
+433518045,fullstack utvikler,Undirected,IT
+433518045,ingeniørarbeid,Undirected,IT
+433518045,sql,Undirected,IT
+433518045,typescript,Undirected,IT
 453452452,go-to-market strategi,Undirected,IT
 453452452,kunstig intelligens,Undirected,IT
 453452452,optimalisering av konvertering,Undirected,IT
@@ -533,12 +533,12 @@
 452630899,ifs erp,Undirected,Industri og produksjon
 452630899,kunstig intelligens,Undirected,Industri og produksjon
 451575167,prosjektledelse,Undirected,Markedsføring og annonsering
-452486673,datadrevet markedsføring,Undirected,Internettbaserte tjenester
-452486673,digital annonsering,Undirected,Internettbaserte tjenester
-452486673,google adwords,Undirected,Internettbaserte tjenester
-452486673,google analytics,Undirected,Internettbaserte tjenester
-452486673,landingpage,Undirected,Internettbaserte tjenester
-452486673,produsere innhold,Undirected,Internettbaserte tjenester
+452486673,datadrevet markedsføring,Undirected,IT
+452486673,digital annonsering,Undirected,IT
+452486673,google adwords,Undirected,IT
+452486673,google analytics,Undirected,IT
+452486673,landingpage,Undirected,IT
+452486673,produsere innhold,Undirected,IT
 452427126,bash (operativsystem),Undirected,IT
 452427126,ci/cd (continuous integration and continuous delivery),Undirected,IT
 452427126,cuda (compute unified device architecture),Undirected,IT
@@ -555,19 +555,19 @@
 452356157,cybersikkerhet,Undirected,IT
 452356157,due diligence analyse,Undirected,IT
 452356157,go-to-market strategi,Undirected,IT
-451915731,controlling,Undirected,innsikt og lokal ekspertise.
-451915731,erp-systemer,Undirected,innsikt og lokal ekspertise.
-451915731,ifs erp,Undirected,innsikt og lokal ekspertise.
-451915731,kontinuerlig forbedringsarbeid,Undirected,innsikt og lokal ekspertise.
-451915731,kunstig intelligens,Undirected,innsikt og lokal ekspertise.
-451915731,prosjekteringsledelse,Undirected,innsikt og lokal ekspertise.
-451915556,analysere data,Undirected,innsikt og lokal ekspertise.
-451915556,controlling,Undirected,innsikt og lokal ekspertise.
-451915556,likviditetsstyring,Undirected,innsikt og lokal ekspertise.
-451915556,risikostyring,Undirected,innsikt og lokal ekspertise.
-451795717,account management,Undirected,IT - programvare
-451795717,regulatory compliance,Undirected,IT - programvare
-451795717,tolke data,Undirected,IT - programvare
+451915731,controlling,Undirected,Annet
+451915731,erp-systemer,Undirected,Annet
+451915731,ifs erp,Undirected,Annet
+451915731,kontinuerlig forbedringsarbeid,Undirected,Annet
+451915731,kunstig intelligens,Undirected,Annet
+451915731,prosjekteringsledelse,Undirected,Annet
+451915556,analysere data,Undirected,Annet
+451915556,controlling,Undirected,Annet
+451915556,likviditetsstyring,Undirected,Annet
+451915556,risikostyring,Undirected,Annet
+451795717,account management,Undirected,IT
+451795717,regulatory compliance,Undirected,IT
+451795717,tolke data,Undirected,IT
 451646040,datadrevet markedsføring,Undirected,Butikk og varehandel
 451646040,digital annonsering,Undirected,Butikk og varehandel
 451646040,google analytics,Undirected,Butikk og varehandel
@@ -596,10 +596,10 @@
 451335272,c# (programmeringsspråk),Undirected,IT
 451335272,sql script,Undirected,IT
 451335272,support / brukerstøtte,Undirected,IT
-451310017,amazon web services (aws),Undirected,Internettbaserte tjenester
-451310017,application programming interfaces (apis),Undirected,Internettbaserte tjenester
-451310017,c# (programmeringsspråk),Undirected,Internettbaserte tjenester
-451310017,rest (api),Undirected,Internettbaserte tjenester
+451310017,amazon web services (aws),Undirected,IT
+451310017,application programming interfaces (apis),Undirected,IT
+451310017,c# (programmeringsspråk),Undirected,IT
+451310017,rest (api),Undirected,IT
 450725303,azure ad,Undirected,Telekommunikasjon
 450725303,ci/cd (continuous integration and continuous delivery),Undirected,Telekommunikasjon
 450725303,dataprogrammering,Undirected,Telekommunikasjon
@@ -621,9 +621,9 @@
 450464980,data modeling,Undirected,IT
 450464980,nosql,Undirected,IT
 450464980,sql,Undirected,IT
-450307684,digitalisering,Undirected,Internettbaserte tjenester
-450307684,ikt-støtte,Undirected,Internettbaserte tjenester
-450307684,prosjektledelse,Undirected,Internettbaserte tjenester
+450307684,digitalisering,Undirected,IT
+450307684,ikt-støtte,Undirected,IT
+450307684,prosjektledelse,Undirected,IT
 450250575,c# (programmeringsspråk),Undirected,IT
 450250575,java (programmeringsspråk),Undirected,IT
 449499733,computer vision,Undirected,IT
@@ -631,12 +631,12 @@
 449499733,deep learning,Undirected,IT
 449499733,maskinlæring,Undirected,IT
 449499733,python scripting,Undirected,IT
-449628522,kvalitetssikring,Undirected,IT - programvare
-449628522,prosjekteringsledelse,Undirected,IT - programvare
+449628522,kvalitetssikring,Undirected,IT
+449628522,prosjekteringsledelse,Undirected,IT
 449697339,ingeniørkunst,Undirected,IT
 449697339,support / brukerstøtte,Undirected,IT
-417771566,norsk,Undirected,kunnskap innen varme
-417771566,systemoptimering,Undirected,kunnskap innen varme
+417771566,norsk,Undirected,Annet
+417771566,systemoptimering,Undirected,Annet
 394519972,forskrifter,Undirected,Drift og vedlikeholdstjenester
 394519972,servicearbeid,Undirected,Drift og vedlikeholdstjenester
 449325828,bokføring,Undirected,Helse og omsorg

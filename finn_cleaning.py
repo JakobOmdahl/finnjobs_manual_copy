@@ -32,6 +32,21 @@ def read_file(file: str, df: pd.DataFrame):
     return df
 
 
+def clean_industry(word):
+    word = str(word).strip()
+    industry_dict = {
+        "IT - programvare": "IT",
+        "IT - maskinvare": "IT",
+        "Internettbaserte tjenester": "IT",
+        "Medie- og innholdsproduksjon": "Markedsføring og annonsering",
+        "Olje og gass": "Kraft og energi",
+        "kunnskap innen varme": "Annet",
+        "innsikt og lokal ekspertise.": "Annet",
+        "n vi opererer i endres raskere enn noen gang": "Annet",
+    }
+    return industry_dict.get(word, word)
+
+
 def replace_words(row):
     skill_set = {
         "python scripting": "python (dataprogrammering)",
@@ -146,7 +161,9 @@ for _, row in df.iterrows():
         bad_listing.add(row["Finn_code"])
 
 listing = pd.DataFrame(df[["Finn_code", "Industry"]].drop_duplicates())
-listing["Industry"] = listing["Industry"].apply(lambda x: x.split(",")[0])
+listing["Industry"] = listing["Industry"].apply(
+    lambda x: clean_industry(str(x).split(",")[0].strip())
+)
 
 bad_listing
 
@@ -157,7 +174,8 @@ listing = drop_na(listing, "Industry")
 edges_between_listing_skill = []
 for index, row in df.iterrows():
     finn_code = row["Finn_code"]
-    industry = row["Industry"].split(",")[0]
+    industry_raw = str(row["Industry"]).split(",")[0].strip()
+    industry = clean_industry(industry_raw)
     skills = row["Skills"].split(",")
     for skill in skills:
         edges_between_listing_skill.append((finn_code, skill, industry))
@@ -246,7 +264,9 @@ for _, row in df.iterrows():
                         "Target": skill2,
                         "search_word": row["file"],
                         "Type": "Undirected",
-                        "Industry": row["Industry"].split(",")[0],
+                        "Industry": clean_industry(
+                            str(row["Industry"]).split(",")[0].strip()
+                        ),
                     }
                 )
 
@@ -256,8 +276,7 @@ def sort(row):
 
 
 skill_bridging = pd.DataFrame(rows)
-for index, row in skill_bridging.iterrows():
-    replace_words(row)
+skill_bridging = skill_bridging.apply(replace_words, axis=1)
 
 skill_bridging["Key"] = (
     skill_bridging["Source"] + skill_bridging["Target"] + skill_bridging["Industry"]
