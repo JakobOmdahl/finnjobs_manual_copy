@@ -53,7 +53,7 @@ def replace_words(row):
     return row
 
 
-def replace_words_id(row):
+def replace_words_id(word):
     skill_set = {
         "python scripting": "python (dataprogrammering)",
         "postgresql": "sql",
@@ -67,9 +67,9 @@ def replace_words_id(row):
         "utvikle apis": "api",
         "api - integrasjoner": "api",
     }
-    if row["Id"] in skill_set:
-        row["Id"] = skill_set[row["Id"]]
-    return row
+    if word in skill_set:
+        word = skill_set[word]
+    return word
 
 
 def normalize_skill(skill: str) -> str:
@@ -103,7 +103,7 @@ for row in df["Skills"]:
 
 clean_skills = []
 for skill in skills:
-    clean_skills.append(normalize_skill(skill))
+    clean_skills.append(replace_words_id(normalize_skill(skill)))
 
 
 cleaned_skills = set(clean_skills)
@@ -188,8 +188,6 @@ skill_list = pd.DataFrame(
     columns=["Id", "Label", "Node_Type", "Search_Word", "Skill_Weight"]
 )
 skill_list["Id"] = skill_node["Skill"].apply(normalize_skill)
-for index, row in skill_list.iterrows():
-    replace_words_id(row)
 skill_list["Label"] = skill_node["Skill"]
 skill_list["Node_Type"] = skill_type
 skill_list["Search_Word"] = ""

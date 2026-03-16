@@ -212,6 +212,7 @@
 452822200,data engineering,Undirected,Forsvar og militær
 452822200,java (programmeringsspråk),Undirected,Forsvar og militær
 452822200,python (dataprogrammering),Undirected,Forsvar og militær
+452818898,benytte maskinlæring,Undirected,Maritim og offshore
 452818898,datavitenskap,Undirected,Maritim og offshore
 452818898,ingeniørarbeid,Undirected,Maritim og offshore
 452818898,ingeniørkunst,Undirected,Maritim og offshore
@@ -451,6 +452,7 @@
 454032597,analysere data,Undirected,Internettbaserte tjenester
 454032597,due diligence analyse,Undirected,Internettbaserte tjenester
 454032597,kunstig intelligens,Undirected,Internettbaserte tjenester
+454031044,utvikle apis,Undirected,Industri og produksjon
 454027822,c# (programmeringsspråk),Undirected,IT
 454027822,java (programmeringsspråk),Undirected,IT
 454027822,python (dataprogrammering),Undirected,IT
@@ -507,6 +509,7 @@
 452938445,norsk,Undirected,Annet
 452822913,dataarkitektur,Undirected,Bank
 452822913,general data protection regulation (gdpr),Undirected,Bank
+452806157,api - integrasjoner,Undirected,Bank
 452806157,data engineering,Undirected,Bank
 452806157,development of data pipelines,Undirected,Bank
 452806157,k8s,Undirected,Bank
@@ -591,6 +594,7 @@
 451365902,risikostyring,Undirected,Bank
 451365902,teknologiledelse,Undirected,Bank
 451335272,c# (programmeringsspråk),Undirected,IT
+451335272,sql script,Undirected,IT
 451335272,support / brukerstøtte,Undirected,IT
 451310017,amazon web services (aws),Undirected,Internettbaserte tjenester
 451310017,application programming interfaces (apis),Undirected,Internettbaserte tjenester
@@ -736,6 +740,7 @@
 449499297,cuda (compute unified device architecture),Undirected,IT
 449499297,database,Undirected,IT
 449499297,deep learning,Undirected,IT
+449499297,sqlite,Undirected,IT
 449643177,epidemiologi,Undirected,Forskning
 449643177,økologi,Undirected,Forskning
 449643177,r,Undirected,Forskning
